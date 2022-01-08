@@ -1,0 +1,16 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/custom/blaster/rifle"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ -45, -90, 0 ],
+            "translation": [ 0, 3, 2 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -45, 90, 0 ],
+            "translation": [ 0, 3, 2 ]
+        }
+    }
+}
