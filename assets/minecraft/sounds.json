@@ -1,0 +1,184 @@
+{
+    "random.door_close": {
+        "category": "block",
+        "replace": true,
+        "sounds": [
+            "random/door_close"
+        ]
+    },
+    "random.door_open": {
+        "category": "block",
+        "replace": true,
+        "sounds": [
+            "random/door_open"
+        ]
+    },
+    "creeper.primed": {
+        "category": "hostile",
+        "replace": true,
+        "sounds": [
+            "random/creeperfuse"
+        ]
+    },
+    "energy_sword.idle": {
+        "sounds": ["energy_sword/idle"]
+    },
+    "energy_sword.strike": {
+        "sounds": ["energy_sword/strike"]
+    },
+    "energy_sword.off": {
+        "sounds": ["energy_sword/off"]
+    },
+    "energy_sword.on": {
+        "sounds": ["energy_sword/on"]
+    },
+    "energy_sword.swing": {
+        "sounds": ["energy_sword/swing"]
+    },
+    "starships.ambience": {
+        "sounds": ["starship_ambience"]
+    },
+    "laser": {
+        "sounds": ["laser"]
+    },
+    "laser_cannon": {
+        "sounds": ["laser_cannon"]
+    },
+    "laser_ripple": {
+        "sounds": ["laser_ripple"]
+    },
+    "large_laser": {
+        "sounds": ["large_laser"]
+    },
+    "laserhit": {
+        "sounds": ["laserhit"]
+    },
+    "starship.weapon.heavy_laser.single.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/heavy_laser/shoot",
+                "attenuation_distance": 48,
+                "pitch": 1.0,
+                "volume": 0.5
+            }
+        ]
+    },
+    "starship.weapon.heavy_laser.burst.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/heavy_laser/shoot_burst",
+                "attenuation_distance": 48,
+                "pitch": 1.0,
+                "volume": 0.5
+            }
+        ]
+    },
+    "starship.weapon.turbolaser.light.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/heavy_turret/shoot",
+                "attenuation_distance": 24,
+                "pitch": 1.55,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/heavy_turret/shoot",
+                "attenuation_distance": 24,
+                "pitch": 1.6,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/heavy_turret/shoot",
+                "attenuation_distance": 24,
+                "pitch": 1.65,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.turbolaser.heavy.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/heavy_turret/shoot",
+                "attenuation_distance": 24,
+                "pitch": 0.55,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/heavy_turret/shoot",
+                "attenuation_distance": 24,
+                "pitch": 0.6,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/heavy_turret/shoot",
+                "attenuation_distance": 24,
+                "pitch": 0.65,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.turbolaser.tri.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/tri_turret/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.8
+            },
+            {
+                "name": "starship/weapon/tri_turret/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.1,
+                "volume": 0.8
+            },
+            {
+                "name": "starship/weapon/tri_turret/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.2,
+                "volume": 0.8
+            }
+        ]
+    },
+    "starship.weapon.rocket.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/rocket/shoot",
+                "attenuation_distance": 36,
+                "pitch": 0.5,
+                "volume": 0.8
+            }
+        ]
+    },
+    "starship.weapon.rocket.impact": {
+        "sounds": [
+            {
+                "name": "starship/weapon/rocket/impact",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 1.0
+            }
+        ]
+    },
+    "starship.weapon.plasma_cannon.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/plasma_cannon/shoot_1",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/plasma_cannon/shoot_2",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/plasma_cannon/shoot_3",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    }
+}
