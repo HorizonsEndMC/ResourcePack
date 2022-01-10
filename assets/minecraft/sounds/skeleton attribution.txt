@@ -1,0 +1,47 @@
+	skeleton
+death		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-5/
+hurt1		https://www.zapsplat.com/music/robot-angry-burst/
+hurt2		https://www.zapsplat.com/music/robot-angry-burst/
+hurt3		https://www.zapsplat.com/music/robot-angry-burst/
+hurt4		https://www.zapsplat.com/music/robot-angry-burst/
+say1		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-1/
+say2		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-6/
+say3		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-3/
+step1		https://www.zapsplat.com/music/robot-walking-medium-speed/
+step2		https://www.zapsplat.com/music/robot-walking-medium-speed/
+step3		https://www.zapsplat.com/music/robot-walking-medium-speed/
+step4		https://www.zapsplat.com/music/robot-walking-medium-speed/
+
+	wither skeleton
+death1		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-5/
+death2		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-5/
+hurt1		https://www.zapsplat.com/music/robot-angry-burst/
+hurt2		https://www.zapsplat.com/music/robot-angry-burst/
+hurt3		https://www.zapsplat.com/music/robot-angry-burst/
+hurt4		https://www.zapsplat.com/music/robot-angry-burst/
+idle1		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-1/
+idle2		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-6/
+idle3		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-3/
+step1		https://www.zapsplat.com/music/robot-walking-medium-speed/
+step2		https://www.zapsplat.com/music/robot-walking-medium-speed/
+step3		https://www.zapsplat.com/music/robot-walking-medium-speed/
+step4		https://www.zapsplat.com/music/robot-walking-medium-speed/
+
+	stray
+convert1	https://www.zapsplat.com/music/manic-science-fiction-robot-glitch-psychotic-1/
+convert2	https://www.zapsplat.com/music/manic-science-fiction-robot-glitch-psychotic-2/
+convert3	https://www.zapsplat.com/music/manic-science-fiction-robot-glitch-psychotic-2/
+death1		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-5/
+death2		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-5/
+hurt1		https://www.zapsplat.com/music/robot-angry-burst/
+hurt2		https://www.zapsplat.com/music/robot-angry-burst/
+hurt3		https://www.zapsplat.com/music/robot-angry-burst/
+hurt4		https://www.zapsplat.com/music/robot-angry-burst/
+idle1		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-1/
+idle2		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-6/
+idle3		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-3/
+idle4		https://www.zapsplat.com/music/highly-charged-robot-transform-movement-metallic-and-mechanical-sound-version-3/
+step1		https://www.zapsplat.com/music/robot-walking-medium-speed/
+step2		https://www.zapsplat.com/music/robot-walking-medium-speed/
+step3		https://www.zapsplat.com/music/robot-walking-medium-speed/
+step4		https://www.zapsplat.com/music/robot-walking-medium-speed/
