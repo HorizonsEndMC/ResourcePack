@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/snowball"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "item/custom/gas/empty" },
+        { "predicate": { "custom_model_data": 2 }, "model": "item/custom/gas/helium" },
+        { "predicate": { "custom_model_data": 3 }, "model": "item/custom/gas/oxygen" },
+        { "predicate": { "custom_model_data": 4 }, "model": "item/custom/gas/hydrogen" },
+        { "predicate": { "custom_model_data": 5 }, "model": "item/custom/gas/nitrogen" },
+        { "predicate": { "custom_model_data": 6 }, "model": "item/custom/gas/carbon_dioxide" },
+        { "predicate": { "custom_model_data": 7 }, "model": "item/custom/batteries/battery_a" },
+        { "predicate": { "custom_model_data": 8 }, "model": "item/custom/batteries/battery_m" },
+        { "predicate": { "custom_model_data": 9 }, "model": "item/custom/batteries/battery_g" }
+    ]
+}
