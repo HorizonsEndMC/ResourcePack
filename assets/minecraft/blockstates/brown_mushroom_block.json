@@ -1,0 +1,140 @@
+{
+    "multipart": [
+        {
+            "when": { "down": false, "east": false, "north": true, "south": false, "up": true, "west": false },
+            "apply": { "model": "block/custom/ores/aluminum_ore"}
+        },
+        {
+            "when": { "down": false, "east": false, "north": false, "south": true, "up": true, "west": true },
+            "apply": { "model": "block/custom/ores/aluminum_block"}
+        },
+        {
+            "when": { "down": false, "east": true, "north": true, "south": false, "up": true, "west": false },
+            "apply": { "model": "block/custom/ores/chetherite_ore"}
+        },
+        {
+            "when": { "down": false, "east": false, "north": false, "south": true, "up": true, "west": false },
+            "apply": { "model": "block/custom/ores/chetherite_block"}
+        },
+        {
+            "when": { "down": false, "east": false, "north": false, "south": false, "up": true, "west": true },
+            "apply": { "model": "block/custom/ores/titanium_ore"}
+        },
+        {
+            "when": { "down": false, "east": true, "north": false, "south": true, "up": true, "west": false },
+            "apply": { "model": "block/custom/ores/titanium_block"}
+        },
+        {
+            "when": { "down": false, "east": false, "north": false, "south": false, "up": true, "west": false },
+            "apply": { "model": "block/custom/ores/uranium_ore"}
+        },
+        {
+            "when": { "down": false, "east": true, "north": true, "south": true, "up": false, "west": true },
+            "apply": { "model": "block/custom/ores/uranium_block"}
+        },
+        {
+            "when": { "down": true, "east": true, "north": true, "south": true, "up": true, "west": true },
+            "apply": { "model": "block/custom/brown_mushroom_cap"}
+        },
+        {
+            "when": { "down": false, "east": false, "north": false, "south": false, "up": false, "west": false },
+            "apply": { "model": "block/custom/brown_mushroom_pores"}
+        },
+        {
+            "when": { "down": true, "east": false, "north": false, "south": false, "up": false, "west": true },
+            "apply": { "model": "block/custom/rocket/rocket_oriomium_south" }
+        },
+        {
+            "when": { "down": true, "east": false, "north": false, "south": false, "up": true, "west": false },
+            "apply": { "model": "block/custom/rocket/rocket_oriomium_north" }
+        },
+        {
+            "when": { "down": true, "east": false, "north": false, "south": false, "up": true, "west": true },
+            "apply": { "model": "block/custom/rocket/rocket_oriomium_east" }
+        },
+        {
+            "when": { "down": true, "east": false, "north": false, "south": true, "up": false, "west": false },
+            "apply": { "model": "block/custom/rocket/rocket_oriomium_west" }
+        },
+        {
+            "when": { "down": true, "east": false, "north": false, "south": true, "up": false, "west": true },
+            "apply": { "model": "block/custom/rocket/rocket_oriomium_down" }
+        },
+        {
+            "when": { "down": true, "east": false, "north": false, "south": true, "up": true, "west": true },
+            "apply": { "model": "block/custom/rocket/rocket_oriomium_up" }
+        },
+	{
+            "when": { "down": false, "east": false, "north": true, "south": false, "up": false, "west": true },
+            "apply": { "model": "block/custom/ores/raw_aluminum" }
+        },
+	{
+            "when": { "down": false, "east": false, "north": false, "south": true, "up": false, "west": true },
+            "apply": { "model": "block/custom/ores/raw_titanium" }
+        },
+	{
+            "when": { "down": true, "east": true, "north": true, "south": true, "up": false, "west": false },
+            "apply": { "model": "block/custom/armor/white_armor" }
+        },
+	{
+            "when": { "down": true, "east": true, "north": true, "south": false, "up": true, "west": false },
+            "apply": { "model": "block/custom/armor/orange_armor" }
+        },
+	{
+            "when": { "down": true, "east": true, "north": true, "south": false, "up": false, "west": true },
+            "apply": { "model": "block/custom/armor/magenta_armor" }
+        },
+	{
+            "when": { "down": true, "east": true, "north": false, "south": true, "up": true, "west": false },
+            "apply": { "model": "block/custom/armor/light_blue_armor" }
+        },
+	{
+            "when": { "down": true, "east": true, "north": false, "south": true, "up": false, "west": true },
+            "apply": { "model": "block/custom/armor/yellow_armor" }
+        },
+	{
+            "when": { "down": true, "east": true, "north": false, "south": false, "up": true, "west": true },
+            "apply": { "model": "block/custom/armor/lime_armor" }
+        },
+	{
+            "when": { "down": true, "east": false, "north": true, "south": true, "up": true, "west": false },
+            "apply": { "model": "block/custom/armor/pink_armor" }
+        },
+	{
+            "when": { "down": true, "east": false, "north": true, "south": true, "up": false, "west": true },
+            "apply": { "model": "block/custom/armor/gray_armor" }
+        },
+	{
+            "when": { "down": true, "east": false, "north": true, "south": false, "up": true, "west": true },
+            "apply": { "model": "block/custom/armor/light_gray_armor" }
+        },
+	{
+            "when": { "down": false, "east": true, "north": true, "south": true, "up": true, "west": false },
+            "apply": { "model": "block/custom/armor/cyan_armor" }
+        },
+	{
+            "when": { "down": false, "east": true, "north": false, "south": true, "up": true, "west": true },
+            "apply": { "model": "block/custom/armor/purple_armor" }
+        },
+	{
+            "when": { "down": false, "east": true, "north": true, "south": false, "up": true, "west": true },
+            "apply": { "model": "block/custom/armor/blue_armor" }
+        },
+	{
+            "when": { "down": false, "east": true, "north": true, "south": true, "up": false, "west": true },
+            "apply": { "model": "block/custom/armor/brown_armor" }
+        },
+	{
+            "when": { "down": false, "east": false, "north": true, "south": true, "up": true, "west": true },
+            "apply": { "model": "block/custom/armor/green_armor" }
+        },
+	{
+            "when": { "down": false, "east": true, "north": true, "south": true, "up": true, "west": true },
+            "apply": { "model": "block/custom/armor/red_armor" }
+        },
+	{
+            "when": { "down": true, "east": false, "north": true, "south": true, "up": true, "west": true },
+            "apply": { "model": "block/custom/armor/black_armor" }
+        }
+    ]
+}
