@@ -66,11 +66,11 @@
         },
 	{
             "when": { "down": false, "east": false, "north": true, "south": false, "up": false, "west": true },
-            "apply": { "model": "block/custom/ores/raw_aluminum" }
+            "apply": { "model": "block/custom/ores/block_of_raw_aluminum" }
         },
 	{
             "when": { "down": false, "east": false, "north": false, "south": true, "up": false, "west": true },
-            "apply": { "model": "block/custom/ores/raw_titanium" }
+            "apply": { "model": "block/custom/ores/block_of_raw_titanium" }
         },
 	{
             "when": { "down": true, "east": true, "north": true, "south": true, "up": false, "west": false },
