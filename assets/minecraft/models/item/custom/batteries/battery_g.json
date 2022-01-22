@@ -1,0 +1,23 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "item/custom/batteries/battery_g"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.50, 0.50, 0.50 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.50, 0.50, 0.50 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.50, 0.50, 0.50 ]
+        }
+	}
+}
