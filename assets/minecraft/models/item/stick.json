@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/stick"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "item/custom/rocket/rocket_base" },
+        { "predicate": { "custom_model_data": 2 }, "model": "item/custom/rocket/rocket_warhead_oriomium" },
+        { "predicate": { "custom_model_data": 3 }, "model": "item/custom/rocket/rocket_oriomium" }
+    ]
+}
