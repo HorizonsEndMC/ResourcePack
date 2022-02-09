@@ -1,0 +1,33 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/custom/energy_sword/yellow_energy_sword"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 45, 90, 0 ],
+            "translation": [ 0, 6, 2 ],
+            "scale": [ 1.3, 1.3, 1.3 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -45, 90, 0 ],
+            "translation": [ 0, 6, 2 ],
+            "scale": [ 1.3, 1.3, 1.3 ]
+        },
+		"firstperson_righthand": {
+            "rotation": [ -25, -70, 25 ],
+            "translation": [ -3, 5, 2 ],
+            "scale": [ 0.86, 0.86, 0.86 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -25, 70, -25 ],
+            "translation": [ -3, 5, 2 ],
+            "scale": [ 0.86, 0.86, 0.86 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 4, 4, 2],
+            "scale": [ 1.3, 1.3, 1.3 ]
+        }
+    }
+}
