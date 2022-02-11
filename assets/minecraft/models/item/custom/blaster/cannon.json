@@ -1,7 +1,7 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "items/custom/blaster/autorifle"
+        "layer0": "item/custom/blaster/autorifle"
     },
     "display": {
         "thirdperson_righthand": {

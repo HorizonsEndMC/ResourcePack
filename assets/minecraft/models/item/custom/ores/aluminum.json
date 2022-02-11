@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "items/custom/ores/aluminum"
+        "layer0": "item/custom/ores/aluminum"
     }
 }
