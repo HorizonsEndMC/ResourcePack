@@ -1,6 +1,6 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "items/custom/gas/nitrogen"
+        "layer0": "item/custom/gas/nitrogen"
     }
 }
