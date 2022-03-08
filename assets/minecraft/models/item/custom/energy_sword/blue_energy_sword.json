@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "items/custom/energy_sword/blue_energy_sword"
+        "layer0": "item/custom/energy_sword/blue_energy_sword"
     },
     "display": {
         "thirdperson_righthand": {
