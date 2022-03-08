@@ -1,0 +1,23 @@
+name: Increment version number and export
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Increment the version number
+        run: echo "$(expr $(cat version) + 1)" > version
+
+      - name: Write updated .mcmeta
+        run: echo "{\"pack\":{\"pack_format\":8,\"description\":[\"\",{\"text\":\"Horizon's End\",\"color\":\"#88FF88\"},\" Resource Pack\",\"\nVersion $(cat version) \",{\"text\":\"//\",\"color\":\"#222222\"},\" horizonsend.net\"]}}" > pack.mcmeta
+
+      - name: Commit
+        uses: swinton/commit@v2.0.0
+        with:
+          commit-message: Increment version number.
