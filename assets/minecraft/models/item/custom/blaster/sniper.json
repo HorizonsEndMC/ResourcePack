@@ -1,7 +1,7 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "items/custom/blaster/sniper"
+        "layer0": "item/custom/blaster/sniper"
     },
     "display": {
         "thirdperson_righthand": {
