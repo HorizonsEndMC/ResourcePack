@@ -33,30 +33,6 @@
             "apply": { "model": "block/custom/ores/uranium_block"}
         },
         {
-            "when": { "down": true, "east": false, "north": false, "south": false, "up": false, "west": true },
-            "apply": { "model": "block/custom/rocket/rocket_oriomium_south" }
-        },
-        {
-            "when": { "down": true, "east": false, "north": false, "south": false, "up": true, "west": false },
-            "apply": { "model": "block/custom/rocket/rocket_oriomium_north" }
-        },
-        {
-            "when": { "down": true, "east": false, "north": false, "south": false, "up": true, "west": true },
-            "apply": { "model": "block/custom/rocket/rocket_oriomium_east" }
-        },
-        {
-            "when": { "down": true, "east": false, "north": false, "south": true, "up": false, "west": false },
-            "apply": { "model": "block/custom/rocket/rocket_oriomium_west" }
-        },
-        {
-            "when": { "down": true, "east": false, "north": false, "south": true, "up": false, "west": true },
-            "apply": { "model": "block/custom/rocket/rocket_oriomium_down" }
-        },
-        {
-            "when": { "down": true, "east": false, "north": false, "south": true, "up": true, "west": true },
-            "apply": { "model": "block/custom/rocket/rocket_oriomium_up" }
-        },
-                {
             "when": { "down": true, "east": true, "north": true, "south": true, "up": true, "west": true },
             "apply": { "model": "block/custom/brown_mushroom_cap"}
         },
