@@ -1,11 +1,9 @@
 {
     "parent": "block/iron_block",
     "overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "item/custom/ores/copper_block" },
         { "predicate": { "custom_model_data": 2 }, "model": "item/custom/ores/aluminum_block" },
         { "predicate": { "custom_model_data": 3 }, "model": "item/custom/ores/chetherite_block" },
         { "predicate": { "custom_model_data": 4 }, "model": "item/custom/ores/titanium_block" },
-        { "predicate": { "custom_model_data": 5 }, "model": "item/custom/ores/uranium_block" },
-        { "predicate": { "custom_model_data": 6 }, "model": "item/custom/ores/oriomium_block" }
+        { "predicate": { "custom_model_data": 5 }, "model": "item/custom/ores/uranium_block" }
     ]
 }
