@@ -1,9 +1,0 @@
-{
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/diamond_axe"
-    },
-    "overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "item/custom/power_tools/power_chainsaw" }
-    ]
-}
