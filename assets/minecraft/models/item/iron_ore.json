@@ -1,0 +1,9 @@
+{
+    "parent": "block/iron_ore",
+    "overrides": [
+        { "predicate": { "custom_model_data": 2 }, "model": "item/custom/aluminum_ore" },
+        { "predicate": { "custom_model_data": 3 }, "model": "item/custom/chetherite_ore" },
+        { "predicate": { "custom_model_data": 4 }, "model": "item/custom/titanium_ore" },
+        { "predicate": { "custom_model_data": 5 }, "model": "item/custom/uranium_ore" }
+    ]
+}
