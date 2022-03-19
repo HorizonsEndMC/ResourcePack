@@ -45,6 +45,17 @@
 			}
         },
         {
+            "apply": { "model": "block/custom/block_of_raw_aluminum"},
+            "when": { 
+		"north": true, 
+		"south": false, 
+		"east": false, 
+		"west": true, 
+		"up": false, 
+		"down": false 
+			}
+        },
+        {
             "apply": { "model": "block/custom/chetherite_ore"},
             "when": { 
 		"north": true, 
@@ -85,6 +96,17 @@
 		"east": true, 
 		"west": false, 
 		"up": true, 
+		"down": false 
+			}
+        },
+        {
+            "apply": { "model": "block/custom/block_of_raw_titanium"},
+            "when": { 
+		"north": false, 
+		"south": true, 
+		"east": false, 
+		"west": true, 
+		"up": false, 
 		"down": false 
 			}
         },
