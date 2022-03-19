@@ -1,0 +1,7 @@
+{
+    "parent": "block/raw_iron",
+    "overrides": [
+        { "predicate": { "custom_model_data": 1 }, "model": "item/custom/raw_aluminum" },
+        { "predicate": { "custom_model_data": 3 }, "model": "item/custom/raw_titanium" }
+    ]
+}
