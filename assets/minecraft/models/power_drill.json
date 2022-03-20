@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/custom/power_tools/power_drill"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-33, -180, -104],
+			"translation": [-6, 0.75, -1.25],
+			"scale": [1.01, 1, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-33, -180, -104],
+			"translation": [-6, 0.75, -1.25],
+			"scale": [-1.01, 1, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-103, -180, -73],
+			"translation": [-3.75, 1, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-103, -180, -73],
+			"translation": [-3.75, 1, 1.25],
+			"scale": [-1, 1, 1]
+		},
+		"gui": {
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0, -0.75]
+		}
+	}
+}
