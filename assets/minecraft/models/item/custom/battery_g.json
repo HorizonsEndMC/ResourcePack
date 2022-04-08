@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "item/custom/batteries/battery_g"
+        "layer0": "item/custom/battery_g"
     },
     "display": {
         "thirdperson_righthand": {
