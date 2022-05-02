@@ -2,12 +2,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "item/custom/power_drill"
-	},
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [-135, 90, 0],
-			"translation": [0, 3, 1.75]
-		}
-	}
+		"layer0": "item/diamond_pickaxe"
+	    },
+	    "overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "item/custom/power_drill" }
+	    ]
 }
