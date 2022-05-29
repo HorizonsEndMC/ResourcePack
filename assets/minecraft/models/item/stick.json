@@ -4,14 +4,14 @@
 		"layer0": "minecraft:item/stick"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "item/custom/limiteds/station_builders_gold" },
-		{ "predicate": { "custom_model_data": 2 }, "model": "item/custom/limiteds/station_builders_silver" },
-		{ "predicate": { "custom_model_data": 3 }, "model": "item/custom/limiteds/outpost_builders_gold" },
-		{ "predicate": { "custom_model_data": 4 }, "model": "item/custom/limiteds/outpost_builders_silver" },
-		{ "predicate": { "custom_model_data": 5 }, "model": "item/custom/limiteds/bug_reporter_gold" },
-		{ "predicate": { "custom_model_data": 6 }, "model": "item/custom/limiteds/bug_reporter_silver" },
-		{ "predicate": { "custom_model_data": 7 }, "model": "item/custom/limiteds/bug_reporter_bronze" },
-		{ "predicate": { "custom_model_data": 8 }, "model": "item/custom/limiteds/beta_tester_gold" },
-		{ "predicate": { "custom_model_data": 9 }, "model": "item/custom/limiteds/launch_gold" }
+		{ "predicate": { "custom_model_data": 10 }, "model": "item/custom/limiteds/station_builders_gold" },
+		{ "predicate": { "custom_model_data": 20 }, "model": "item/custom/limiteds/station_builders_silver" },
+		{ "predicate": { "custom_model_data": 30 }, "model": "item/custom/limiteds/outpost_builders_gold" },
+		{ "predicate": { "custom_model_data": 40 }, "model": "item/custom/limiteds/outpost_builders_silver" },
+		{ "predicate": { "custom_model_data": 50 }, "model": "item/custom/limiteds/bug_reporter_gold" },
+		{ "predicate": { "custom_model_data": 60 }, "model": "item/custom/limiteds/bug_reporter_silver" },
+		{ "predicate": { "custom_model_data": 70 }, "model": "item/custom/limiteds/bug_reporter_bronze" },
+		{ "predicate": { "custom_model_data": 80 }, "model": "item/custom/limiteds/beta_tester_gold" },
+		{ "predicate": { "custom_model_data": 90 }, "model": "item/custom/limiteds/launch_gold" }
 	]
 }
