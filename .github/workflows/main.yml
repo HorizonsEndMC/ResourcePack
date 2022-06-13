@@ -26,4 +26,4 @@ jobs:
       - uses: ncipollo/release-action@v1.10.0
         with: 
           artifacts: HorizonsEndResourcePack.zip
-          tag: Resource Pack Update ${{ env.VERSION }}
+          tag: Version${{ env.VERSION }}
