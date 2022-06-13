@@ -21,7 +21,9 @@ jobs:
           
       - run: zip -r HorizonsEndResourcePack.zip *
 
+      - run: export HEMCRPV=$(cat version)
+
       - uses: ncipollo/release-action@v1.10.0
         with: 
           artifacts: HorizonsEndResourcePack.zip
-          commit: ${cat version}
+          tag: ${HEMCRPV}
