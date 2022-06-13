@@ -8,6 +8,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    env:
+      VERSION: $(cat version)
+
     steps:
       - uses: actions/checkout@v2
 
@@ -20,8 +23,6 @@ jobs:
           message: Increment version number.
           
       - run: zip -r HorizonsEndResourcePack.zip *
-
-      - run: export VERSION=$(cat version)
 
       - uses: ncipollo/release-action@v1.10.0
         with: 
