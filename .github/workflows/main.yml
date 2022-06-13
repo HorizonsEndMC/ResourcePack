@@ -28,3 +28,5 @@ jobs:
         with: 
           artifacts: HorizonsEndResourcePack.zip
           commit: main
+          tag: Latest
+          replacesArtifacts: true
