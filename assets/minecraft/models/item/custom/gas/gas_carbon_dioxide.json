@@ -1,6 +1,6 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "item/custom/nitrogen_gas_canister"
+        "layer0": "item/custom/gas/gas_carbon_dioxide"
     }
 }

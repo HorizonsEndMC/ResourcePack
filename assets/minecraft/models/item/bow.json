@@ -94,9 +94,9 @@
             },
             "model": "item/bow_pulling_2"
         },
-        { "predicate": { "custom_model_data": 1 }, "model": "item/custom/pistol" },
-        { "predicate": { "custom_model_data": 2 }, "model": "item/custom/rifle" },
-        { "predicate": { "custom_model_data": 3 }, "model": "item/custom/sniper" },
-        { "predicate": { "custom_model_data": 4 }, "model": "item/custom/cannon" }
+        { "predicate": { "custom_model_data": 1 }, "model": "item/custom/weapons/pistol" },
+        { "predicate": { "custom_model_data": 2 }, "model": "item/custom/weapons/rifle" },
+        { "predicate": { "custom_model_data": 3 }, "model": "item/custom/weapons/sniper" },
+        { "predicate": { "custom_model_data": 4 }, "model": "item/custom/weapons/cannon" }
     ]
 }
