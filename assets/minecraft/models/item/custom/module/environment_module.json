@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/custom/speed_boosting_module"
+        "layer0": "item/custom/module/environment_module"
     }
 }
