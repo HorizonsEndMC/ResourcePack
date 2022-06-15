@@ -1,6 +1,6 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/custom/limiteds/bug_reporter_silver"
-    }
+  "parent": "item/generated",
+  "textures": {
+	"layer0": "item/custom/limiteds/bug_reporter_silver"
+  }
 }

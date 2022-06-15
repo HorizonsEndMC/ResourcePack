@@ -1,10 +1,15 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:item/handheld",
-	"textures": {
-		"layer0": "item/diamond_pickaxe"
-	    },
-	    "overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "item/custom/tools/power_drill" }
-	    ]
+  "credit": "Made with Blockbench",
+  "parent": "minecraft:item/handheld",
+  "textures": {
+	"layer0": "item/diamond_pickaxe"
+  },
+  "overrides": [
+	{
+	  "predicate": {
+		"custom_model_data": 1
+	  },
+	  "model": "item/custom/tools/power_drill"
+	}
+  ]
 }

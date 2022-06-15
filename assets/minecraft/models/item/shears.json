@@ -1,9 +1,14 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/shears"
-    },
-    "overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "item/custom/detonator" }
-    ]
+  "parent": "item/generated",
+  "textures": {
+	"layer0": "item/shears"
+  },
+  "overrides": [
+	{
+	  "predicate": {
+		"custom_model_data": 1
+	  },
+	  "model": "item/custom/detonator"
+	}
+  ]
 }

@@ -1,6 +1,6 @@
 {
-    "parent": "builtin/generated",
-    "textures": {
-        "layer0": "item/custom/gas/empty_canister"
-    }
+  "parent": "builtin/generated",
+  "textures": {
+	"layer0": "item/custom/gas/empty_canister"
+  }
 }
