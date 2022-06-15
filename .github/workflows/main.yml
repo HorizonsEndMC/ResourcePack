@@ -24,8 +24,7 @@ jobs:
       - name: "Commit updated Version and Meta"
         uses: EndBug/add-and-commit@v8.0.2
         with:
-          add: version pack.mcmeta
-          commit: --amend
+          message: Increment Version Number
 
       - name: "Package Release"
         run: zip -r HorizonsEndResourcePack.zip * -9 -x .github -x .editorconfig -x .gitignore -x version
