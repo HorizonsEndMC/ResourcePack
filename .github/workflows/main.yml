@@ -38,7 +38,6 @@ jobs:
       - name: "Release"
         uses: ncipollo/release-action@v1.10.0
         with:
-          artifacts: HorizonsEndResourcePack.zip sha1hash
+          artifacts: HorizonsEndResourcePack.zip,sha1hash
           commit: main
           tag: Version${{ env.VERSION }}
-          replacesArtifacts: true
