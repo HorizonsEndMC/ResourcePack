@@ -22,7 +22,7 @@ jobs:
         run: echo "{\"pack\":{\"pack_format\":9,\"description\":[\"\",{\"text\":\"Horizon's End\",\"color\":\"#88FF88\"},\" Resource Pack\",\"\nVersion $(cat version) \",{\"text\":\"//\",\"color\":\"#222222\"},\" horizonsend.net\"]}}" > pack.mcmeta
 
       - name: "Commit updated Version and Meta"
-      - uses: EndBug/add-and-commit@v8.0.2
+        uses: EndBug/add-and-commit@v8.0.2
         with:
           commit: --amend
 
