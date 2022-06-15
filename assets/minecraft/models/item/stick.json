@@ -50,12 +50,6 @@
 	  "predicate": {
 		"custom_model_data": 8
 	  },
-	  "model": "item/custom/limiteds/beta_tester_gold"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 9
-	  },
 	  "model": "item/custom/limiteds/launch_gold"
 	}
   ]
