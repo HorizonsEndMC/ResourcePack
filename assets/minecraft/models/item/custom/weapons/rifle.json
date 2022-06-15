@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/custom/rifle"
+        "layer0": "item/custom/weapons/rifle"
     },
     "display": {
         "thirdperson_righthand": {

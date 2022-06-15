@@ -1,7 +1,7 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "item/custom/pistol"
+        "layer0": "item/custom/weapons/pistol"
     },
     "display": {
         "thirdperson_righthand": {
