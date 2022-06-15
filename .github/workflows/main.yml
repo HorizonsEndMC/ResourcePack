@@ -29,15 +29,12 @@ jobs:
       - name: "Package Release"
         run: zip -r HorizonsEndResourcePack.zip * -9 -x .github -x .editorconfig -x .gitignore -x version
 
-      - name: "Save SHA1 Hash to File"
-        run: sha1sum HorizonsEndResourcePack.zip > sha1hash
-
       - name: "Save release number to environment variable"
         run: echo "VERSION=$(cat version)" >> $GITHUB_ENV
 
       - name: "Release"
         uses: ncipollo/release-action@v1.10.0
         with:
-          artifacts: HorizonsEndResourcePack.zip,sha1hash
+          artifacts: HorizonsEndResourcePack.zip
           commit: main
           tag: Version${{ env.VERSION }}
