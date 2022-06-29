@@ -1,160 +1,160 @@
 {
-  "multipart": [
-	{
-	  "apply": {
-		"model": "block/custom/brown_mushroom_cap"
-	  },
-	  "when": {
-		"north": true,
-		"south": true,
-		"east": true,
-		"west": true,
-		"up": true,
-		"down": true
-	  }
-	},
-	{
-	  "apply": {
-		"model": "block/custom/brown_mushroom_pores"
-	  },
-	  "when": {
-		"north": false,
-		"south": false,
-		"east": false,
-		"west": false,
-		"up": false,
-		"down": false
-	  }
-	},
-	{
-	  "apply": {
-		"model": "block/custom/aluminum_ore"
-	  },
-	  "when": {
-		"north": true,
-		"south": false,
-		"east": false,
-		"west": false,
-		"up": true,
-		"down": false
-	  }
-	},
-	{
-	  "apply": {
-		"model": "block/custom/aluminum_block"
-	  },
-	  "when": {
-		"north": false,
-		"south": true,
-		"east": false,
-		"west": true,
-		"up": true,
-		"down": false
-	  }
-	},
-	{
-	  "apply": {
-		"model": "block/custom/block_of_raw_aluminum"
-	  },
-	  "when": {
-		"north": true,
-		"south": false,
-		"east": false,
-		"west": true,
-		"up": false,
-		"down": false
-	  }
-	},
-	{
-	  "apply": {
-		"model": "block/custom/chetherite_ore"
-	  },
-	  "when": {
-		"north": true,
-		"south": false,
-		"east": true,
-		"west": false,
-		"up": true,
-		"down": false
-	  }
-	},
-	{
-	  "apply": {
-		"model": "block/custom/chetherite_block"
-	  },
-	  "when": {
-		"north": false,
-		"south": true,
-		"east": false,
-		"west": false,
-		"up": true,
-		"down": false
-	  }
-	},
-	{
-	  "apply": {
-		"model": "block/custom/titanium_ore"
-	  },
-	  "when": {
-		"north": false,
-		"south": false,
-		"east": false,
-		"west": true,
-		"up": true,
-		"down": false
-	  }
-	},
-	{
-	  "apply": {
-		"model": "block/custom/titanium_block"
-	  },
-	  "when": {
-		"north": false,
-		"south": true,
-		"east": true,
-		"west": false,
-		"up": true,
-		"down": false
-	  }
-	},
-	{
-	  "apply": {
-		"model": "block/custom/block_of_raw_titanium"
-	  },
-	  "when": {
-		"north": false,
-		"south": true,
-		"east": false,
-		"west": true,
-		"up": false,
-		"down": false
-	  }
-	},
-	{
-	  "apply": {
-		"model": "block/custom/uranium_ore"
-	  },
-	  "when": {
-		"north": false,
-		"south": false,
-		"east": false,
-		"west": false,
-		"up": true,
-		"down": false
-	  }
-	},
-	{
-	  "apply": {
-		"model": "block/custom/uranium_block"
-	  },
-	  "when": {
-		"north": true,
-		"south": true,
-		"east": true,
-		"west": true,
-		"up": false,
-		"down": false
-	  }
-	}
-  ]
+	"multipart": [
+		{
+			"apply": {
+				"model": "block/custom/brown_mushroom_cap"
+			},
+			"when": {
+				"north": true,
+				"south": true,
+				"east": true,
+				"west": true,
+				"up": true,
+				"down": true
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/brown_mushroom_pores"
+			},
+			"when": {
+				"north": false,
+				"south": false,
+				"east": false,
+				"west": false,
+				"up": false,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/aluminum_ore"
+			},
+			"when": {
+				"north": true,
+				"south": false,
+				"east": false,
+				"west": false,
+				"up": true,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/aluminum_block"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": false,
+				"west": true,
+				"up": true,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/block_of_raw_aluminum"
+			},
+			"when": {
+				"north": true,
+				"south": false,
+				"east": false,
+				"west": true,
+				"up": false,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/chetherite_ore"
+			},
+			"when": {
+				"north": true,
+				"south": false,
+				"east": true,
+				"west": false,
+				"up": true,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/chetherite_block"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": false,
+				"west": false,
+				"up": true,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/titanium_ore"
+			},
+			"when": {
+				"north": false,
+				"south": false,
+				"east": false,
+				"west": true,
+				"up": true,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/titanium_block"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": true,
+				"west": false,
+				"up": true,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/block_of_raw_titanium"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": false,
+				"west": true,
+				"up": false,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/uranium_ore"
+			},
+			"when": {
+				"north": false,
+				"south": false,
+				"east": false,
+				"west": false,
+				"up": true,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/uranium_block"
+			},
+			"when": {
+				"north": true,
+				"south": true,
+				"east": true,
+				"west": true,
+				"up": false,
+				"down": false
+			}
+		}
+	]
 }

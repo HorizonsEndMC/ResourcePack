@@ -185,7 +185,9 @@
 			"type": "bitmap",
 			"file": "horizonsend:textScreenBack.png",
 			"height": 125,
-			"chars": ["\uF8FF"]
+			"chars": [
+				"\uF8FF"
+			]
 		}
 	]
 }
