@@ -180,6 +180,12 @@
 				"\uE0AE": -175,
 				"\uE0AF": -176
 			}
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:textScreenBack.png",
+			"height": 125,
+			"chars": ["\uF8FF"]
 		}
 	]
 }
