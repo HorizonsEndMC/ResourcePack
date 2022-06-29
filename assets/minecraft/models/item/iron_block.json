@@ -1,29 +1,29 @@
 {
-  "parent": "block/iron_block",
-  "overrides": [
-	{
-	  "predicate": {
-		"custom_model_data": 1
-	  },
-	  "model": "item/custom/aluminum_block"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 2
-	  },
-	  "model": "item/custom/chetherite_block"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 3
-	  },
-	  "model": "item/custom/titanium_block"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 4
-	  },
-	  "model": "item/custom/uranium_block"
-	}
-  ]
+	"parent": "block/iron_block",
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/custom/aluminum_block"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/custom/chetherite_block"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/custom/titanium_block"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/custom/uranium_block"
+		}
+	]
 }

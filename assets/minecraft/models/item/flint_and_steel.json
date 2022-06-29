@@ -1,44 +1,44 @@
 {
-  "parent": "item/generated",
-  "textures": {
-	"layer0": "item/flint_and_steel"
-  },
-  "overrides": [
-	{
-	  "predicate": {
-		"custom_model_data": 1
-	  },
-	  "model": "item/custom/module/shock_absorbing_module"
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/flint_and_steel"
 	},
-	{
-	  "predicate": {
-		"custom_model_data": 2
-	  },
-	  "model": "item/custom/module/speed_boosting_module"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 3
-	  },
-	  "model": "item/custom/module/rocket_boosting_module"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 4
-	  },
-	  "model": "item/custom/module/night_vision_module"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 5
-	  },
-	  "model": "item/custom/module/environment_module"
-	},
-	{
-	  "predicate": {
-		"custom_model_data": 6
-	  },
-	  "model": "item/custom/module/pressure_field_module"
-	}
-  ]
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/custom/module/shock_absorbing_module"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/custom/module/speed_boosting_module"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/custom/module/rocket_boosting_module"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/custom/module/night_vision_module"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "item/custom/module/environment_module"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "item/custom/module/pressure_field_module"
+		}
+	]
 }

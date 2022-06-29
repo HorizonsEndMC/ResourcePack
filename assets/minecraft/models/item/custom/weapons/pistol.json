@@ -1,42 +1,42 @@
 {
-  "parent": "item/bow",
-  "textures": {
-	"layer0": "item/custom/weapons/pistol"
-  },
-  "display": {
-	"thirdperson_righthand": {
-	  "rotation": [
-		-45,
-		-90,
-		0
-	  ],
-	  "translation": [
-		0,
-		1,
-		-1
-	  ],
-	  "scale": [
-		0.7,
-		0.7,
-		0.7
-	  ]
+	"parent": "item/bow",
+	"textures": {
+		"layer0": "item/custom/weapons/pistol"
 	},
-	"thirdperson_lefthand": {
-	  "rotation": [
-		-45,
-		90,
-		0
-	  ],
-	  "translation": [
-		0,
-		1,
-		-1
-	  ],
-	  "scale": [
-		0.7,
-		0.7,
-		0.7
-	  ]
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [
+				-45,
+				-90,
+				0
+			],
+			"translation": [
+				0,
+				1,
+				-1
+			],
+			"scale": [
+				0.7,
+				0.7,
+				0.7
+			]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [
+				-45,
+				90,
+				0
+			],
+			"translation": [
+				0,
+				1,
+				-1
+			],
+			"scale": [
+				0.7,
+				0.7,
+				0.7
+			]
+		}
 	}
-  }
 }
