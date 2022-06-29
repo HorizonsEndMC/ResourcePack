@@ -171,19 +171,13 @@
 				"\uE0A5": -166,
 				"\uE0A6": -167,
 				"\uE0A7": -168,
-				"\uE0A8": -169,
-				"\uE0A9": -170,
-				"\uE0AA": -171,
-				"\uE0AB": -172,
-				"\uE0AC": -173,
-				"\uE0AD": -174,
-				"\uE0AE": -175,
-				"\uE0AF": -176
+				"\uE0A8": -169
 			}
 		},
 		{
 			"type": "bitmap",
-			"file": "horizonsend:textScreenBack.png",
+			"file": "horizonsend:text_screen_back.png",
+			"ascent": 13,
 			"height": 125,
 			"chars": [
 				"\uF8FF"
