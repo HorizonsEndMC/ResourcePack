@@ -1,2 +1,0 @@
-bowhit1, bowhit2, bowhit3, bowhit4      from Starquest 1.0 Texture Pack
-bow                                     laser.ogg (replace with proper attribution when sounds/attributions are determined)

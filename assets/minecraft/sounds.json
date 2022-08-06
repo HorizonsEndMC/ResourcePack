@@ -1,58 +1,4 @@
 {
-    "random.door_close": {
-        "category": "block",
-        "replace": true,
-        "sounds": [
-            "random/door_close"
-        ]
-    },
-    "random.door_open": {
-        "category": "block",
-        "replace": true,
-        "sounds": [
-            "random/door_open"
-        ]
-    },
-    "creeper.primed": {
-        "category": "hostile",
-        "replace": true,
-        "sounds": [
-            "random/creeperfuse"
-        ]
-    },
-    "energy_sword.idle": {
-        "sounds": ["energy_sword/idle"]
-    },
-    "energy_sword.strike": {
-        "sounds": ["energy_sword/strike"]
-    },
-    "energy_sword.off": {
-        "sounds": ["energy_sword/off"]
-    },
-    "energy_sword.on": {
-        "sounds": ["energy_sword/on"]
-    },
-    "energy_sword.swing": {
-        "sounds": ["energy_sword/swing"]
-    },
-    "starships.ambience": {
-        "sounds": ["starship_ambience"]
-    },
-    "laser": {
-        "sounds": ["laser"]
-    },
-    "laser_cannon": {
-        "sounds": ["laser_cannon"]
-    },
-    "laser_ripple": {
-        "sounds": ["laser_ripple"]
-    },
-    "large_laser": {
-        "sounds": ["large_laser"]
-    },
-    "laserhit": {
-        "sounds": ["laserhit"]
-    },
     "starship.weapon.heavy_laser.single.shoot": {
         "sounds": [
             {
@@ -136,26 +82,6 @@
                 "attenuation_distance": 36,
                 "pitch": 1.2,
                 "volume": 0.8
-            }
-        ]
-    },
-    "starship.weapon.rocket.shoot": {
-        "sounds": [
-            {
-                "name": "starship/weapon/rocket/shoot",
-                "attenuation_distance": 36,
-                "pitch": 0.5,
-                "volume": 0.8
-            }
-        ]
-    },
-    "starship.weapon.rocket.impact": {
-        "sounds": [
-            {
-                "name": "starship/weapon/rocket/impact",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 1.0
             }
         ]
     },
