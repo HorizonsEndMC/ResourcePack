@@ -1,0 +1,110 @@
+{
+    "starship.weapon.heavy_laser.single.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/heavy_laser/shoot",
+                "attenuation_distance": 48,
+                "pitch": 1.0,
+                "volume": 0.5
+            }
+        ]
+    },
+    "starship.weapon.heavy_laser.burst.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/heavy_laser/shoot_burst",
+                "attenuation_distance": 48,
+                "pitch": 1.0,
+                "volume": 0.5
+            }
+        ]
+    },
+    "starship.weapon.turbolaser.light.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/heavy_turret/shoot",
+                "attenuation_distance": 24,
+                "pitch": 1.55,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/heavy_turret/shoot",
+                "attenuation_distance": 24,
+                "pitch": 1.6,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/heavy_turret/shoot",
+                "attenuation_distance": 24,
+                "pitch": 1.65,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.turbolaser.heavy.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/heavy_turret/shoot",
+                "attenuation_distance": 24,
+                "pitch": 0.55,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/heavy_turret/shoot",
+                "attenuation_distance": 24,
+                "pitch": 0.6,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/heavy_turret/shoot",
+                "attenuation_distance": 24,
+                "pitch": 0.65,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.turbolaser.tri.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/tri_turret/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.8
+            },
+            {
+                "name": "starship/weapon/tri_turret/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.1,
+                "volume": 0.8
+            },
+            {
+                "name": "starship/weapon/tri_turret/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.2,
+                "volume": 0.8
+            }
+        ]
+    },
+    "starship.weapon.plasma_cannon.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/plasma_cannon/shoot_1",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/plasma_cannon/shoot_2",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/plasma_cannon/shoot_3",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    }
+}
