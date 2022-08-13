@@ -176,7 +176,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "horizonsend:text_screen_back.png",
+			"file": "horizonsend:gui/container/text_screen_back.png",
 			"ascent": 13,
 			"height": 125,
 			"chars": [

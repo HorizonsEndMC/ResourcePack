@@ -1,0 +1,30 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/warped_fungus_on_a_stick.json"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/ui_empty"},
+		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/ui_up"},
+		{"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/ui_right"},
+		{"predicate": {"custom_model_data": 4}, "model": "horizonsend:item/ui_down"},
+		{"predicate": {"custom_model_data": 5}, "model": "horizonsend:item/ui_left"},
+		{"predicate": {"custom_model_data": 101}, "model": "horizonsend:item/aerach"},
+		{"predicate": {"custom_model_data": 102}, "model": "horizonsend:item/aret"},
+		{"predicate": {"custom_model_data": 103}, "model": "horizonsend:item/chandra"},
+		{"predicate": {"custom_model_data": 104}, "model": "horizonsend:item/chimgara"},
+		{"predicate": {"custom_model_data": 105}, "model": "horizonsend:item/damkoth"},
+		{"predicate": {"custom_model_data": 106}, "model": "horizonsend:item/gahara"},
+		{"predicate": {"custom_model_data": 107}, "model": "horizonsend:item/herdoli"},
+		{"predicate": {"custom_model_data": 108}, "model": "horizonsend:item/lioda"},
+		{"predicate": {"custom_model_data": 109}, "model": "horizonsend:item/ilius"},
+		{"predicate": {"custom_model_data": 110}, "model": "horizonsend:item/isik"},
+		{"predicate": {"custom_model_data": 111}, "model": "horizonsend:item/kovfefe"},
+		{"predicate": {"custom_model_data": 112}, "model": "horizonsend:item/krio"},
+		{"predicate": {"custom_model_data": 113}, "model": "horizonsend:item/luxiterna"},
+		{"predicate": {"custom_model_data": 114}, "model": "horizonsend:item/qatra"},
+		{"predicate": {"custom_model_data": 115}, "model": "horizonsend:item/rubaciea"},
+		{"predicate": {"custom_model_data": 116}, "model": "horizonsend:item/turms"},
+		{"predicate": {"custom_model_data": 117}, "model": "horizonsend:item/vask"}
+	]
+}

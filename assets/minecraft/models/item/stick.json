@@ -51,36 +51,6 @@
 				"custom_model_data": 8
 			},
 			"model": "item/custom/limiteds/launch_gold"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 9
-			},
-			"model": "item/custom/ui/empty"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 10
-			},
-			"model": "item/custom/ui/right_arrow"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 11
-			},
-			"model": "item/custom/ui/left_arrow"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 12
-			},
-			"model": "item/custom/ui/up_arrow"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 13
-			},
-			"model": "item/custom/ui/down_arrow"
 		}
 	]
 }
