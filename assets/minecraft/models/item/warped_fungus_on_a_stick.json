@@ -9,6 +9,7 @@
 		{"predicate": {"custom_model_data": 103}, "model": "horizonsend:item/ui_right"},
 		{"predicate": {"custom_model_data": 104}, "model": "horizonsend:item/ui_down"},
 		{"predicate": {"custom_model_data": 105}, "model": "horizonsend:item/ui_left"},
+
 		{"predicate": {"custom_model_data": 201}, "model": "horizonsend:item/aerach"},
 		{"predicate": {"custom_model_data": 202}, "model": "horizonsend:item/aret"},
 		{"predicate": {"custom_model_data": 203}, "model": "horizonsend:item/chandra"},
@@ -25,7 +26,8 @@
 		{"predicate": {"custom_model_data": 214}, "model": "horizonsend:item/qatra"},
 		{"predicate": {"custom_model_data": 215}, "model": "horizonsend:item/rubaciea"},
 		{"predicate": {"custom_model_data": 216}, "model": "horizonsend:item/turms"},
-		{"predicate": {"custom_model_data": 217}, "model": "horizonsend:item/vask"}
+		{"predicate": {"custom_model_data": 217}, "model": "horizonsend:item/vask"},
+
 		{"predicate": {"custom_model_data": 301}, "model": "horizonsend:item/complete_tutorial"},
 		{"predicate": {"custom_model_data": 302}, "model": "horizonsend:item/create_nation"},
 		{"predicate": {"custom_model_data": 303}, "model": "horizonsend:item/create_outpost"},
