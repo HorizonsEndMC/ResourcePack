@@ -1,32 +1,12 @@
 {
-	"parent": "item/generated",
+	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/iron_ingot"
+		"layer0": "minecraft:item/iron_ingot"
 	},
 	"overrides": [
-		{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "item/custom/aluminum"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2
-			},
-			"model": "item/custom/chetherite"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 3
-			},
-			"model": "item/custom/titanium"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 4
-			},
-			"model": "item/custom/uranium"
-		}
+		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/aluminum"},
+		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/chetherite"},
+		{"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/titanium"},
+		{"predicate": {"custom_model_data": 4}, "model": "horizonsend:item/uranium"}
 	]
 }
