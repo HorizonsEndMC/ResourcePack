@@ -351,6 +351,15 @@
 			"chars": [
 				"\uF8FF"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/chetherite.png",
+			"ascent": -30,
+			"height": 10,
+			"chars": [
+				"\uF8FE"
+			]
 		}
 	]
 }
