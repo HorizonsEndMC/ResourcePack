@@ -41,6 +41,11 @@
 		{"predicate": {"custom_model_data": 311}, "model": "horizonsend:item/level_40"},
 		{"predicate": {"custom_model_data": 312}, "model": "horizonsend:item/level_80"},
 		{"predicate": {"custom_model_data": 313}, "model": "horizonsend:item/station_siege"},
-		{"predicate": {"custom_model_data": 314}, "model": "horizonsend:item/hyperspace"}
+		{"predicate": {"custom_model_data": 314}, "model": "horizonsend:item/hyperspace"},
+
+		{"predicate": {"custom_model_data": 401}, "model": "horizonsend:item/aluminum"},
+		{"predicate": {"custom_model_data": 402}, "model": "horizonsend:item/chetherite"},
+		{"predicate": {"custom_model_data": 403}, "model": "horizonsend:item/titanium"},
+		{"predicate": {"custom_model_data": 404}, "model": "horizonsend:item/uranium"}
 	]
 }
