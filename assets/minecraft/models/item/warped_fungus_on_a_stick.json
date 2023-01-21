@@ -4,6 +4,8 @@
 		"layer0": "minecraft:item/warped_fungus_on_a_stick.json"
 	},
 	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/standard_magazine"},
+
 		{"predicate": {"custom_model_data": 101}, "model": "horizonsend:item/ui_empty"},
 		{"predicate": {"custom_model_data": 102}, "model": "horizonsend:item/ui_up"},
 		{"predicate": {"custom_model_data": 103}, "model": "horizonsend:item/ui_right"},
@@ -50,6 +52,9 @@
 		{"predicate": {"custom_model_data": 401}, "model": "horizonsend:item/aluminum"},
 		{"predicate": {"custom_model_data": 402}, "model": "horizonsend:item/chetherite"},
 		{"predicate": {"custom_model_data": 403}, "model": "horizonsend:item/titanium"},
-		{"predicate": {"custom_model_data": 404}, "model": "horizonsend:item/uranium"}
+		{"predicate": {"custom_model_data": 404}, "model": "horizonsend:item/uranium"},
+
+		{"predicate": {"custom_model_data": 500}, "model": "horizonsend:item/blaster_barrel"},
+		{"predicate": {"custom_model_data": 501}, "model": "horizonsend:item/circuitry"}
 	]
 }
