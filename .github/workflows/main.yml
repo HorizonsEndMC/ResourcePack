@@ -19,7 +19,7 @@ jobs:
         run: echo "$(expr $(cat version) + 1)" > version
 
       - name: "Update pack.mcmeta"
-        run: echo "{\"pack\":{\"pack_format\":10,\"description\":[\"\",{\"text\":\"Horizon's End\",\"color\":\"#88FF88\"},\" Resource Pack\",\"\nVersion $(cat version) \",{\"text\":\"/\",\"color\":\"#222222\"},\" horizonsend.net\"]}}" > pack.mcmeta
+        run: echo "{\"pack\":{\"pack_format\":11,\"description\":[\"\",{\"text\":\"Horizon's End\",\"color\":\"#88FF88\"},\" Resource Pack\",\"\nVersion $(cat version) \",{\"text\":\"/\",\"color\":\"#222222\"},\" horizonsend.net\"]}}" > pack.mcmeta
 
       - name: "Commit updated Version and Meta"
         uses: EndBug/add-and-commit@v8.0.2
