@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "minecraft:item/warped_fungus_on_a_stick.json"
+		"layer0": "minecraft:item/warped_fungus_on_a_stick"
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/standard_magazine"},
