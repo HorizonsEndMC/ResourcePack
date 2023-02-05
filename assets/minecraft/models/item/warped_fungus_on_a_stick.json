@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "minecraft:item/warped_fungus_on_a_stick.json"
+		"layer0": "minecraft:item/warped_fungus_on_a_stick"
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/standard_magazine"},
@@ -54,7 +54,12 @@
 		{"predicate": {"custom_model_data": 403}, "model": "horizonsend:item/titanium"},
 		{"predicate": {"custom_model_data": 404}, "model": "horizonsend:item/uranium"},
 
-		{"predicate": {"custom_model_data": 500}, "model": "horizonsend:item/blaster_barrel"},
-		{"predicate": {"custom_model_data": 501}, "model": "horizonsend:item/circuitry"}
+		{"predicate": {"custom_model_data": 500}, "model": "horizonsend:item/gun_barrel"},
+		{"predicate": {"custom_model_data": 501}, "model": "horizonsend:item/circuitry"},
+		{"predicate": {"custom_model_data": 502}, "model": "horizonsend:item/pistol_receiver"},
+		{"predicate": {"custom_model_data": 503}, "model": "horizonsend:item/rifle_receiver"},
+		{"predicate": {"custom_model_data": 504}, "model": "horizonsend:item/smb_receiver"},
+		{"predicate": {"custom_model_data": 505}, "model": "horizonsend:item/sniper_receiver"},
+		{"predicate": {"custom_model_data": 506}, "model": "horizonsend:item/shotgun_receiver"}
 	]
 }
