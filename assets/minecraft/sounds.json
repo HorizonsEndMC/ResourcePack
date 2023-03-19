@@ -96,15 +96,65 @@
             {
                 "name": "starship/weapon/plasma_cannon/shoot_2",
                 "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.2
-            },
-            {
-                "name": "starship/weapon/plasma_cannon/shoot_3",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.2
-            }
-        ]
-    }
+				"pitch": 1.0,
+				"volume": 0.2
+			},
+			{
+				"name": "starship/weapon/plasma_cannon/shoot_3",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.2
+			}
+		]
+	},
+	"starship.weapon.mining_laser.start": {
+		"sounds": [
+			{
+				"name": "starship/weapon/mining_laser/start",
+				"attenuation_distance": 256,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.weapon.mining_laser.stop": {
+		"sounds": [
+			{
+				"name": "starship/weapon/mining_laser/stop",
+				"attenuation_distance": 256,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.weapon.mining_laser.t1_loop": {
+		"sounds": [
+			{
+				"name": "starship/weapon/mining_laser/t1_loop",
+				"attenuation_distance": 256,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.weapon.mining_laser.t2_loop": {
+		"sounds": [
+			{
+				"name": "starship/weapon/mining_laser/t2_loop",
+				"attenuation_distance": 256,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.weapon.mining_laser.t3_loop": {
+		"sounds": [
+			{
+				"name": "starship/weapon/mining_laser/t3_loop",
+				"attenuation_distance": 256,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	}
 }
