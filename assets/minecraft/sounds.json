@@ -111,9 +111,9 @@
 		"sounds": [
 			{
 				"name": "starship/weapon/mining_laser/start",
-				"attenuation_distance": 256,
+				"attenuation_distance": 64,
 				"pitch": 1.0,
-				"volume": 0.5
+				"volume": 0.2
 			}
 		]
 	},
@@ -121,9 +121,9 @@
 		"sounds": [
 			{
 				"name": "starship/weapon/mining_laser/stop",
-				"attenuation_distance": 256,
+				"attenuation_distance": 64,
 				"pitch": 1.0,
-				"volume": 0.5
+				"volume": 0.2
 			}
 		]
 	},
@@ -131,9 +131,9 @@
 		"sounds": [
 			{
 				"name": "starship/weapon/mining_laser/t1_loop",
-				"attenuation_distance": 256,
+				"attenuation_distance": 64,
 				"pitch": 1.0,
-				"volume": 0.5
+				"volume": 0.2
 			}
 		]
 	},
@@ -141,9 +141,9 @@
 		"sounds": [
 			{
 				"name": "starship/weapon/mining_laser/t2_loop",
-				"attenuation_distance": 256,
+				"attenuation_distance": 64,
 				"pitch": 1.0,
-				"volume": 0.5
+				"volume": 0.2
 			}
 		]
 	},
@@ -151,9 +151,9 @@
 		"sounds": [
 			{
 				"name": "starship/weapon/mining_laser/t3_loop",
-				"attenuation_distance": 256,
+				"attenuation_distance": 64,
 				"pitch": 1.0,
-				"volume": 0.5
+				"volume": 0.2
 			}
 		]
 	}
