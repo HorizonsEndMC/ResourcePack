@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/standard_magazine"},
+		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/special_magazine"},
 
 		{"predicate": {"custom_model_data": 101}, "model": "horizonsend:item/ui_empty"},
 		{"predicate": {"custom_model_data": 102}, "model": "horizonsend:item/ui_up"},
