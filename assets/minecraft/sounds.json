@@ -1,4 +1,186 @@
 {
+    "blaster.whizz.standard": {
+        "sounds": [
+            {
+                "name": "blaster/whizz_1",
+                "attenuation_distance": 4,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "blaster/whizz_2",
+                "attenuation_distance": 4,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    },
+    "blaster.whizz.sniper": {
+        "sounds": [
+            {
+                "name": "blaster/whizz_1",
+                "attenuation_distance": 4,
+                "pitch": 0.6,
+                "volume": 0.4
+            },
+            {
+                "name": "blaster/whizz_2",
+                "attenuation_distance": 4,
+                "pitch": 0.6,
+                "volume": 0.4
+            }
+        ]
+    },
+    "blaster.impact.standard": {
+        "sounds": [
+            {
+                "name": "blaster/impact_1",
+                "attenuation_distance": 4,
+                "pitch": 1.0,
+                "volume": 0.1
+            },
+            {
+                "name": "blaster/impact_2",
+                "attenuation_distance": 4,
+                "pitch": 1.0,
+                "volume": 0.1
+            },
+            {
+                "name": "blaster/impact_1",
+                "attenuation_distance": 4,
+                "pitch": 0.8,
+                "volume": 0.1
+            },
+            {
+                "name": "blaster/impact_2",
+                "attenuation_distance": 4,
+                "pitch": 0.8,
+                "volume": 0.1
+            },
+            {
+                "name": "blaster/impact_1",
+                "attenuation_distance": 4,
+                "pitch": 1.2,
+                "volume": 0.1
+            },
+            {
+                "name": "blaster/impact_2",
+                "attenuation_distance": 4,
+                "pitch": 1.2,
+                "volume": 0.1
+            }
+        ]
+    },
+    "blaster.pistol.shoot": {
+        "sounds": [
+            {
+                "name": "blaster/pistol/shoot",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 0.4
+            },
+            {
+                "name": "blaster/pistol/shoot",
+                "attenuation_distance": 32,
+                "pitch": 0.9,
+                "volume": 0.4
+            },
+            {
+                "name": "blaster/pistol/shoot",
+                "attenuation_distance": 32,
+                "pitch": 1.1,
+                "volume": 0.4
+            }
+        ]
+    },
+    "blaster.rifle.shoot": {
+        "sounds": [
+            {
+                "name": "blaster/rifle/shoot",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 0.4
+            },
+            {
+                "name": "blaster/rifle/shoot",
+                "attenuation_distance": 32,
+                "pitch": 0.9,
+                "volume": 0.4
+            },
+            {
+                "name": "blaster/rifle/shoot",
+                "attenuation_distance": 32,
+                "pitch": 1.1,
+                "volume": 0.4
+            }
+        ]
+    },
+    "blaster.sniper.shoot": {
+        "sounds": [
+            {
+                "name": "blaster/sniper/shoot",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
+            },
+            {
+                "name": "blaster/sniper/shoot",
+                "attenuation_distance": 32,
+                "pitch": 1.2,
+                "volume": 1.0
+            },
+            {
+                "name": "blaster/sniper/shoot",
+                "attenuation_distance": 32,
+                "pitch": 0.8,
+                "volume": 1.0
+            }
+        ]
+    },
+    "blaster.shotgun.shoot": {
+        "sounds": [
+            {
+                "name": "blaster/shotgun/shoot",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 0.5
+            },
+            {
+                "name": "blaster/shotgun/shoot",
+                "attenuation_distance": 32,
+                "pitch": 0.9,
+                "volume": 0.5
+            },
+            {
+                "name": "blaster/shotgun/shoot",
+                "attenuation_distance": 32,
+                "pitch": 1.1,
+                "volume": 0.5
+            }
+        ]
+    },
+    "blaster.submachine_blaster.shoot": {
+        "sounds": [
+            {
+                "name": "blaster/submachine_blaster/shoot",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 0.4
+            },
+            {
+                "name": "blaster/submachine_blaster/shoot",
+                "attenuation_distance": 32,
+                "pitch": 0.9,
+                "volume": 0.4
+            },
+            {
+                "name": "blaster/submachine_blaster/shoot",
+                "attenuation_distance": 32,
+                "pitch": 1.1,
+                "volume": 0.4
+            }
+        ]
+    },
     "starship.weapon.heavy_laser.single.shoot": {
         "sounds": [
             {
