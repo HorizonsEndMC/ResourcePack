@@ -1,17 +1,26 @@
-{
+{    "blaster.hitmarker.standard": {
+    "sounds": [
+        {
+            "name": "blaster/hitmarker",
+            "attenuation_distance": 1,
+            "pitch": 1.0,
+            "volume": 1.0
+        }
+    ]
+},
     "blaster.whizz.standard": {
         "sounds": [
             {
                 "name": "blaster/whizz_1",
                 "attenuation_distance": 4,
                 "pitch": 1.0,
-                "volume": 0.2
+                "volume": 0.4
             },
             {
                 "name": "blaster/whizz_2",
                 "attenuation_distance": 4,
                 "pitch": 1.0,
-                "volume": 0.2
+                "volume": 0.4
             }
         ]
     },
@@ -21,13 +30,13 @@
                 "name": "blaster/whizz_1",
                 "attenuation_distance": 4,
                 "pitch": 0.6,
-                "volume": 0.4
+                "volume": 0.6
             },
             {
                 "name": "blaster/whizz_2",
                 "attenuation_distance": 4,
                 "pitch": 0.6,
-                "volume": 0.4
+                "volume": 0.6
             }
         ]
     },
@@ -37,13 +46,13 @@
                 "name": "blaster/impact_1",
                 "attenuation_distance": 4,
                 "pitch": 1.0,
-                "volume": 0.1
+                "volume": 0.05
             },
             {
                 "name": "blaster/impact_2",
                 "attenuation_distance": 4,
                 "pitch": 1.0,
-                "volume": 0.1
+                "volume": 0.05
             },
             {
                 "name": "blaster/impact_1",
