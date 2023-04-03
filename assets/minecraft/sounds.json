@@ -58,25 +58,25 @@
                 "name": "blaster/impact_1",
                 "attenuation_distance": 4,
                 "pitch": 0.8,
-                "volume": 0.1
+                "volume": 0.05
             },
             {
                 "name": "blaster/impact_2",
                 "attenuation_distance": 4,
                 "pitch": 0.8,
-                "volume": 0.1
+                "volume": 0.05
             },
             {
                 "name": "blaster/impact_1",
                 "attenuation_distance": 4,
                 "pitch": 1.2,
-                "volume": 0.1
+                "volume": 0.05
             },
             {
                 "name": "blaster/impact_2",
                 "attenuation_distance": 4,
                 "pitch": 1.2,
-                "volume": 0.1
+                "volume": 0.05
             }
         ]
     },
@@ -102,6 +102,28 @@
             }
         ]
     },
+    "blaster.pistol.shell": {
+        "sounds": [
+            {
+                "name": "blaster/pistol/shell_1",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            },
+            {
+                "name": "blaster/pistol/shell_2",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            },
+            {
+                "name": "blaster/pistol/shell_3",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            }
+        ]
+    },
     "blaster.rifle.shoot": {
         "sounds": [
             {
@@ -121,6 +143,28 @@
                 "attenuation_distance": 32,
                 "pitch": 1.1,
                 "volume": 0.4
+            }
+        ]
+    },
+    "blaster.rifle.shell": {
+        "sounds": [
+            {
+                "name": "blaster/rifle/shell_1",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            },
+            {
+                "name": "blaster/rifle/shell_2",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            },
+            {
+                "name": "blaster/rifle/shell_3",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
             }
         ]
     },
@@ -146,6 +190,28 @@
             }
         ]
     },
+    "blaster.sniper.shell": {
+        "sounds": [
+            {
+                "name": "blaster/sniper/shell_1",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            },
+            {
+                "name": "blaster/sniper/shell_2",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            },
+            {
+                "name": "blaster/sniper/shell_3",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            }
+        ]
+    },
     "blaster.shotgun.shoot": {
         "sounds": [
             {
@@ -168,6 +234,28 @@
             }
         ]
     },
+    "blaster.shotgun.shell": {
+        "sounds": [
+            {
+                "name": "blaster/shotgun/shell_1",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.1
+            },
+            {
+                "name": "blaster/shotgun/shell_2",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.1
+            },
+            {
+                "name": "blaster/shotgun/shell_3",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.1
+            }
+        ]
+    },
     "blaster.submachine_blaster.shoot": {
         "sounds": [
             {
@@ -187,6 +275,28 @@
                 "attenuation_distance": 32,
                 "pitch": 1.1,
                 "volume": 0.4
+            }
+        ]
+    },
+    "blaster.submachine_blaster.shell": {
+        "sounds": [
+            {
+                "name": "blaster/pistol/shell_1",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            },
+            {
+                "name": "blaster/pistol/shell_2",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            },
+            {
+                "name": "blaster/pistol/shell_3",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
             }
         ]
     },
