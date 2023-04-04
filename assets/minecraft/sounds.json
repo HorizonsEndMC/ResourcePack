@@ -1,13 +1,36 @@
-{    "blaster.hitmarker.standard": {
-    "sounds": [
-        {
-            "name": "blaster/hitmarker",
-            "attenuation_distance": 1,
-            "pitch": 1.0,
-            "volume": 1.0
-        }
-    ]
-},
+{
+    "blaster.hitmarker.standard": {
+        "sounds": [
+            {
+                "name": "blaster/hitmarker",
+                "attenuation_distance": 1,
+                "pitch": 1.0,
+                "volume": 1.0
+            }
+        ]
+    },
+    "blaster.dry_shoot": {
+        "sounds": [
+            {
+                "name": "blaster/dry_shoot",
+                "attenuation_distance": 1,
+                "pitch": 1.0,
+                "volume": 0.5
+            },
+            {
+                "name": "blaster/dry_shoot",
+                "attenuation_distance": 1,
+                "pitch": 0.95,
+                "volume": 0.5
+            },
+            {
+                "name": "blaster/dry_shoot",
+                "attenuation_distance": 1,
+                "pitch": 1.05,
+                "volume": 0.5
+            }
+        ]
+    },
     "blaster.whizz.standard": {
         "sounds": [
             {
@@ -124,6 +147,26 @@
             }
         ]
     },
+    "blaster.pistol.reload.start": {
+        "sounds": [
+            {
+                "name": "blaster/pistol/reload_start",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
+            }
+        ]
+    },
+    "blaster.pistol.reload.finish": {
+        "sounds": [
+            {
+                "name": "blaster/pistol/reload_finish",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
+            }
+        ]
+    },
     "blaster.rifle.shoot": {
         "sounds": [
             {
@@ -165,6 +208,26 @@
                 "attenuation_distance": 16,
                 "pitch": 1.0,
                 "volume": 0.05
+            }
+        ]
+    },
+    "blaster.rifle.reload.start": {
+        "sounds": [
+            {
+                "name": "blaster/rifle/reload_start",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
+            }
+        ]
+    },
+    "blaster.rifle.reload.finish": {
+        "sounds": [
+            {
+                "name": "blaster/rifle/reload_finish",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
             }
         ]
     },
@@ -212,6 +275,26 @@
             }
         ]
     },
+    "blaster.sniper.reload.start": {
+        "sounds": [
+            {
+                "name": "blaster/sniper/reload_start",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
+            }
+        ]
+    },
+    "blaster.sniper.reload.finish": {
+        "sounds": [
+            {
+                "name": "blaster/sniper/reload_finish",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
+            }
+        ]
+    },
     "blaster.shotgun.shoot": {
         "sounds": [
             {
@@ -256,6 +339,26 @@
             }
         ]
     },
+    "blaster.shotgun.reload.start": {
+        "sounds": [
+            {
+                "name": "blaster/shotgun/reload_start",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
+            }
+        ]
+    },
+    "blaster.shotgun.reload.finish": {
+        "sounds": [
+            {
+                "name": "blaster/shotgun/reload_finish",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
+            }
+        ]
+    },
     "blaster.submachine_blaster.shoot": {
         "sounds": [
             {
@@ -297,6 +400,26 @@
                 "attenuation_distance": 16,
                 "pitch": 1.0,
                 "volume": 0.05
+            }
+        ]
+    },
+    "blaster.submachine_blaster.reload.start": {
+        "sounds": [
+            {
+                "name": "blaster/submachine_blaster/reload_start",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
+            }
+        ]
+    },
+    "blaster.submachine_blaster.reload.finish": {
+        "sounds": [
+            {
+                "name": "blaster/submachine_blaster/reload_finish",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
             }
         ]
     },
@@ -397,65 +520,65 @@
             {
                 "name": "starship/weapon/plasma_cannon/shoot_2",
                 "attenuation_distance": 16,
-				"pitch": 1.0,
-				"volume": 0.2
-			},
-			{
-				"name": "starship/weapon/plasma_cannon/shoot_3",
-				"attenuation_distance": 16,
-				"pitch": 1.0,
-				"volume": 0.2
-			}
-		]
-	},
-	"starship.weapon.mining_laser.start": {
-		"sounds": [
-			{
-				"name": "starship/weapon/mining_laser/start",
-				"attenuation_distance": 64,
-				"pitch": 1.0,
-				"volume": 0.2
-			}
-		]
-	},
-	"starship.weapon.mining_laser.stop": {
-		"sounds": [
-			{
-				"name": "starship/weapon/mining_laser/stop",
-				"attenuation_distance": 64,
-				"pitch": 1.0,
-				"volume": 0.2
-			}
-		]
-	},
-	"starship.weapon.mining_laser.t1_loop": {
-		"sounds": [
-			{
-				"name": "starship/weapon/mining_laser/t1_loop",
-				"attenuation_distance": 64,
-				"pitch": 1.0,
-				"volume": 0.2
-			}
-		]
-	},
-	"starship.weapon.mining_laser.t2_loop": {
-		"sounds": [
-			{
-				"name": "starship/weapon/mining_laser/t2_loop",
-				"attenuation_distance": 64,
-				"pitch": 1.0,
-				"volume": 0.2
-			}
-		]
-	},
-	"starship.weapon.mining_laser.t3_loop": {
-		"sounds": [
-			{
-				"name": "starship/weapon/mining_laser/t3_loop",
-				"attenuation_distance": 64,
-				"pitch": 1.0,
-				"volume": 0.2
-			}
-		]
-	}
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/plasma_cannon/shoot_3",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.mining_laser.start": {
+        "sounds": [
+            {
+                "name": "starship/weapon/mining_laser/start",
+                "attenuation_distance": 64,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.mining_laser.stop": {
+        "sounds": [
+            {
+                "name": "starship/weapon/mining_laser/stop",
+                "attenuation_distance": 64,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.mining_laser.t1_loop": {
+        "sounds": [
+            {
+                "name": "starship/weapon/mining_laser/t1_loop",
+                "attenuation_distance": 64,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.mining_laser.t2_loop": {
+        "sounds": [
+            {
+                "name": "starship/weapon/mining_laser/t2_loop",
+                "attenuation_distance": 64,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.mining_laser.t3_loop": {
+        "sounds": [
+            {
+                "name": "starship/weapon/mining_laser/t3_loop",
+                "attenuation_distance": 64,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    }
 }
