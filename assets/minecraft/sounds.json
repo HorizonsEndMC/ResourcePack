@@ -109,19 +109,19 @@
                 "name": "blaster/pistol/shoot",
                 "attenuation_distance": 32,
                 "pitch": 1.0,
-                "volume": 0.4
+                "volume": 0.2
             },
             {
                 "name": "blaster/pistol/shoot",
                 "attenuation_distance": 32,
                 "pitch": 0.9,
-                "volume": 0.4
+                "volume": 0.2
             },
             {
                 "name": "blaster/pistol/shoot",
                 "attenuation_distance": 32,
                 "pitch": 1.1,
-                "volume": 0.4
+                "volume": 0.2
             }
         ]
     },
@@ -173,19 +173,19 @@
                 "name": "blaster/rifle/shoot",
                 "attenuation_distance": 32,
                 "pitch": 1.0,
-                "volume": 0.4
+                "volume": 0.2
             },
             {
                 "name": "blaster/rifle/shoot",
                 "attenuation_distance": 32,
                 "pitch": 0.9,
-                "volume": 0.4
+                "volume": 0.2
             },
             {
                 "name": "blaster/rifle/shoot",
                 "attenuation_distance": 32,
                 "pitch": 1.1,
-                "volume": 0.4
+                "volume": 0.2
             }
         ]
     },
@@ -237,19 +237,19 @@
                 "name": "blaster/sniper/shoot",
                 "attenuation_distance": 32,
                 "pitch": 1.0,
-                "volume": 1.0
+                "volume": 0.8
             },
             {
                 "name": "blaster/sniper/shoot",
                 "attenuation_distance": 32,
                 "pitch": 1.2,
-                "volume": 1.0
+                "volume": 0.8
             },
             {
                 "name": "blaster/sniper/shoot",
                 "attenuation_distance": 32,
                 "pitch": 0.8,
-                "volume": 1.0
+                "volume": 0.8
             }
         ]
     },
@@ -301,19 +301,19 @@
                 "name": "blaster/shotgun/shoot",
                 "attenuation_distance": 32,
                 "pitch": 1.0,
-                "volume": 0.5
+                "volume": 0.2
             },
             {
                 "name": "blaster/shotgun/shoot",
                 "attenuation_distance": 32,
                 "pitch": 0.9,
-                "volume": 0.5
+                "volume": 0.2
             },
             {
                 "name": "blaster/shotgun/shoot",
                 "attenuation_distance": 32,
                 "pitch": 1.1,
-                "volume": 0.5
+                "volume": 0.2
             }
         ]
     },
@@ -365,19 +365,19 @@
                 "name": "blaster/submachine_blaster/shoot",
                 "attenuation_distance": 32,
                 "pitch": 1.0,
-                "volume": 0.4
+                "volume": 0.2
             },
             {
                 "name": "blaster/submachine_blaster/shoot",
                 "attenuation_distance": 32,
                 "pitch": 0.9,
-                "volume": 0.4
+                "volume": 0.2
             },
             {
                 "name": "blaster/submachine_blaster/shoot",
                 "attenuation_distance": 32,
                 "pitch": 1.1,
-                "volume": 0.4
+                "volume": 0.2
             }
         ]
     },
