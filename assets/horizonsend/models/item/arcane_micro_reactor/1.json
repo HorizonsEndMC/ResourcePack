@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "horizonsend:item/arcane_micro_reactor/1"
+	}
+}
