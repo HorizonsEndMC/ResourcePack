@@ -61,6 +61,16 @@
 		{"predicate": {"custom_model_data": 503}, "model": "horizonsend:item/rifle_receiver"},
 		{"predicate": {"custom_model_data": 504}, "model": "horizonsend:item/smb_receiver"},
 		{"predicate": {"custom_model_data": 505}, "model": "horizonsend:item/sniper_receiver"},
-		{"predicate": {"custom_model_data": 506}, "model": "horizonsend:item/shotgun_receiver"}
+		{"predicate": {"custom_model_data": 506}, "model": "horizonsend:item/shotgun_receiver"},
+
+		{"predicate": {"custom_model_data": 600}, "model": "horizonsend:item/arcane_micro_reactor/0"},
+		{"predicate": {"custom_model_data": 601}, "model": "horizonsend:item/arcane_micro_reactor/1"},
+		{"predicate": {"custom_model_data": 602}, "model": "horizonsend:item/arcane_micro_reactor/2"},
+		{"predicate": {"custom_model_data": 603}, "model": "horizonsend:item/arcane_micro_reactor/3"},
+		{"predicate": {"custom_model_data": 604}, "model": "horizonsend:item/arcane_micro_reactor/4"},
+		{"predicate": {"custom_model_data": 605}, "model": "horizonsend:item/arcane_micro_reactor/5"},
+		{"predicate": {"custom_model_data": 606}, "model": "horizonsend:item/arcane_micro_reactor/6"},
+		{"predicate": {"custom_model_data": 607}, "model": "horizonsend:item/arcane_micro_reactor/7"},
+		{"predicate": {"custom_model_data": 608}, "model": "horizonsend:item/arcane_micro_reactor/8"}
 	]
 }
