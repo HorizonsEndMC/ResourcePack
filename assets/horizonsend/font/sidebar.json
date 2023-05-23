@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 6,
+                "\u200c": 0
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "horizonsend:font/sidebar.png",
+            "ascent": 7,
+            "chars": [
+                "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007",
+                "\uE010\uE011\uE012\uE013\uE014\uE015\uE016\uE017",
+                "\uE020\uE021\uE022\uE023\uE024\uE025\uE026\uE027",
+                "\uE030\uE031\uE032\uE033\uE034\uE035\uE036\uE037"
+            ]
+        }
+    ]
+}
