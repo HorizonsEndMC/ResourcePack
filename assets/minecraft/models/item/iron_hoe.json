@@ -5,7 +5,8 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/rifle"},
-		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/submachine_blaster"}
+		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/submachine_blaster"},
+		{"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/cannon"}
 
 	]
 }

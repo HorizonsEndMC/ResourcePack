@@ -423,6 +423,70 @@
             }
         ]
     },
+    "blaster.cannon.shoot": {
+        "sounds": [
+            {
+                "name": "blaster/cannon/shoot",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "blaster/cannon/shoot",
+                "attenuation_distance": 32,
+                "pitch": 0.9,
+                "volume": 0.2
+            },
+            {
+                "name": "blaster/cannon/shoot",
+                "attenuation_distance": 32,
+                "pitch": 1.1,
+                "volume": 0.2
+            }
+        ]
+    },
+    "blaster.cannon.shell": {
+        "sounds": [
+            {
+                "name": "blaster/pistol/shell_1",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            },
+            {
+                "name": "blaster/pistol/shell_2",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            },
+            {
+                "name": "blaster/pistol/shell_3",
+                "attenuation_distance": 16,
+                "pitch": 1.0,
+                "volume": 0.05
+            }
+        ]
+    },
+    "blaster.cannon.reload.start": {
+        "sounds": [
+            {
+                "name": "blaster/cannon/reload_start",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
+            }
+        ]
+    },
+    "blaster.cannon.reload.finish": {
+        "sounds": [
+            {
+                "name": "blaster/cannon/reload_finish",
+                "attenuation_distance": 32,
+                "pitch": 1.0,
+                "volume": 1.0
+            }
+        ]
+    },
     "starship.weapon.heavy_laser.single.shoot": {
         "sounds": [
             {
