@@ -39,7 +39,7 @@ jobs:
 
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
-            output_file_path = '/tmp/pack.zip'
+            output_file_path = '/tmp/HorizonsEndResourcePack.zip'
       
       - name: "Save release number to environment variable"
         run: echo "VERSION=$(cat version)" >> $GITHUB_ENV
@@ -47,6 +47,6 @@ jobs:
       - name: "Release"
         uses: ncipollo/release-action@v1.10.0
         with:
-          artifacts: /tmp/pack.zip
+          artifacts: /tmp/HorizonsEndResourcePack.zip
           commit: main
           tag: Version${{ env.VERSION }}
