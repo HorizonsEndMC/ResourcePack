@@ -36,6 +36,8 @@ jobs:
             # Optimize the pack in the root repository directory.
             # This is the default value for pack_directory when no PackSquash options are defined
             pack_directory = '.'
+            zip_spec_conformance_level = 'high'
+            allow_mods = ['OptiFine']
 
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
