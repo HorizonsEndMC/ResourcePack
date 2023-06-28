@@ -1,6 +1,6 @@
 ### ResourcePack
 
-Official Resource Pack for Horizon's End
+Official Resource Pack for Horizon's End.
 
 Download the pack by clicking [here](https://github.com/HorizonsEndMC/ResourcePack/releases/download/latest/pack.zip).
 
