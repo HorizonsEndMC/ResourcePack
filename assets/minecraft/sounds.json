@@ -645,7 +645,7 @@
             }
         ]
     },
-    "starship.weapon.pulseCannon.shoot": {
+    "starship.weapon.pulse_cannon.shoot": {
         "sounds": [
             {
                 "name": "starship/weapon/pulse_cannon/shoot",
@@ -655,7 +655,7 @@
             }
         ]
     },
-    "starship.weapon.tankCannon.shoot": {
+    "starship.weapon.tank_cannon.shoot": {
         "sounds": [
             {
                 "name": "starship/weapon/tank_cannon/shoot",
@@ -665,7 +665,7 @@
             }
         ]
     },
-    "starship.weapon.tankCannon.impact": {
+    "starship.weapon.tank_cannon.impact": {
         "sounds": [
             {
                 "name": "starship/weapon/tank_cannon/impact",
@@ -675,7 +675,7 @@
             }
         ]
     },
-    "starship.weapon.tankMG.shoot": {
+    "starship.weapon.tank_mg.shoot": {
         "sounds": [
             {
                 "name": "starship/weapon/tank_mg/shoot",
@@ -685,7 +685,7 @@
             }
         ]
     },
-    "starship.weapon.aaGun.shoot": {
+    "starship.weapon.aa_gun.shoot": {
         "sounds": [
             {
                 "name": "starship/weapon/aa_gun/shoot",
@@ -695,7 +695,7 @@
             }
         ]
     },
-    "starship.weapon.aaGun.impact": {
+    "starship.weapon.aa_gun.impact": {
         "sounds": [
             {
                 "name": "starship/weapon/aa_gun/impact",
