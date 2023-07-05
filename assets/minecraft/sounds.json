@@ -644,5 +644,65 @@
                 "volume": 0.2
             }
         ]
+    },
+    "starship.weapon.pulseCannon.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/pulse_cannon/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.tankCannon.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/tank_cannon/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.tankCannon.impact": {
+        "sounds": [
+            {
+                "name": "starship/weapon/tank_cannon/impact",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.tankMG.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/tank_mg/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.aaGun.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/aa_gun/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
+    },
+    "starship.weapon.aaGun.impact": {
+        "sounds": [
+            {
+                "name": "starship/weapon/aa_gun/impact",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            }
+        ]
     }
 }
