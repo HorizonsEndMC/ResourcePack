@@ -648,7 +648,19 @@
     "starship.weapon.pulse_cannon.shoot": {
         "sounds": [
             {
-                "name": "starship/weapon/pulse_cannon/shoot",
+                "name": "starship/weapon/pulse_cannon/shoot_1",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/pulse_cannon/shoot_2",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/pulse_cannon/shoot_3",
                 "attenuation_distance": 36,
                 "pitch": 1.0,
                 "volume": 0.2
@@ -658,7 +670,31 @@
     "starship.weapon.tank_cannon.shoot": {
         "sounds": [
             {
-                "name": "starship/weapon/tank_cannon/shoot",
+                "name": "starship/weapon/tank_cannon/shoot_1",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/tank_cannon/shoot_2",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/tank_cannon/shoot_3",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/tank_cannon/shoot_4",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/tank_cannon/shoot_5",
                 "attenuation_distance": 36,
                 "pitch": 1.0,
                 "volume": 0.2
@@ -668,7 +704,31 @@
     "starship.weapon.tank_cannon.impact": {
         "sounds": [
             {
-                "name": "starship/weapon/tank_cannon/impact",
+                "name": "starship/weapon/tank_cannon/impact_1",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/tank_cannon/impact_2",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/tank_cannon/impact_3",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/tank_cannon/impact_4",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/tank_cannon/impact_5",
                 "attenuation_distance": 36,
                 "pitch": 1.0,
                 "volume": 0.2
@@ -678,7 +738,31 @@
     "starship.weapon.tank_mg.shoot": {
         "sounds": [
             {
-                "name": "starship/weapon/tank_mg/shoot",
+                "name": "starship/weapon/tank_mg/shoot_1",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/tank_mg/shoot_2",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/tank_mg/shoot_3",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/tank_mg/shoot_4",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/tank_mg/shoot_5",
                 "attenuation_distance": 36,
                 "pitch": 1.0,
                 "volume": 0.2
@@ -688,7 +772,31 @@
     "starship.weapon.aa_gun.shoot": {
         "sounds": [
             {
-                "name": "starship/weapon/aa_gun/shoot",
+                "name": "starship/weapon/aa_gun/shoot_1",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/aa_gun/shoot_2",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/aa_gun/shoot_3",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/aa_gun/shoot_4",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/aa_gun/shoot_5",
                 "attenuation_distance": 36,
                 "pitch": 1.0,
                 "volume": 0.2
@@ -698,7 +806,19 @@
     "starship.weapon.aa_gun.impact": {
         "sounds": [
             {
-                "name": "starship/weapon/aa_gun/impact",
+                "name": "starship/weapon/aa_gun/impact_1",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/aa_gun/impact_2",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.2
+            },
+            {
+                "name": "starship/weapon/aa_gun/impact_3",
                 "attenuation_distance": 36,
                 "pitch": 1.0,
                 "volume": 0.2
