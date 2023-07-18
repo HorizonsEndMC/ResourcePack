@@ -1,0 +1,5 @@
+{"providers": [
+	{"type":"bitmap","file":"horizonsend:font/he_typelogo.png","chars":[""],"ascent":5,"height":20},
+
+	{"type":"bitmap","file":"horizonsend:font/he_logo.png","chars":[""],"ascent":30,"height":30}
+]}
