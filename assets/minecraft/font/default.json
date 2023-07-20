@@ -1,5 +1,7 @@
 {
 	"providers": [
+{"type":"bitmap","file":"horizonsend:font/he_typelogo.png","chars":[""],"ascent":8,"height":10},
+{"type":"bitmap","file":"horizonsend:font/he_logo.png","chars":[""],"ascent":60,"height":65},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/1f004.png",
