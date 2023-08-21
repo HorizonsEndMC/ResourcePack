@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "horizonsend:item/gas/gas_canister_empty",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "horizonsend:item/gas/gas_canister_chlorine",
+		"particle": "horizonsend:item/gas/gas_canister_chlorine"
+	}
+}
