@@ -72,6 +72,16 @@
 		{"predicate": {"custom_model_data": 605}, "model": "horizonsend:item/arcane_micro_reactor/5"},
 		{"predicate": {"custom_model_data": 606}, "model": "horizonsend:item/arcane_micro_reactor/6"},
 		{"predicate": {"custom_model_data": 607}, "model": "horizonsend:item/arcane_micro_reactor/7"},
-		{"predicate": {"custom_model_data": 608}, "model": "horizonsend:item/arcane_micro_reactor/8"}
+		{"predicate": {"custom_model_data": 608}, "model": "horizonsend:item/arcane_micro_reactor/8"},
+
+		{"predicate": {"custom_model_data": 1000}, "model": "horizonsend:item/gas/gas_canister_empty"},
+		{"predicate": {"custom_model_data": 1001}, "model": "horizonsend:item/gas/gas_canister_hydrogen"},
+		{"predicate": {"custom_model_data": 1002}, "model": "horizonsend:item/gas/gas_canister_nitrogen"},
+		{"predicate": {"custom_model_data": 1003}, "model": "horizonsend:item/gas/gas_canister_methane"},
+		{"predicate": {"custom_model_data": 1010}, "model": "horizonsend:item/gas/gas_canister_oxygen"},
+		{"predicate": {"custom_model_data": 1011}, "model": "horizonsend:item/gas/gas_canister_chlorine"},
+		{"predicate": {"custom_model_data": 1012}, "model": "horizonsend:item/gas/gas_canister_fluorine"},
+		{"predicate": {"custom_model_data": 1020}, "model": "horizonsend:item/gas/gas_canister_helium"},
+		{"predicate": {"custom_model_data": 1021}, "model": "horizonsend:item/gas/gas_canister_carbon_dioxide"}
 	]
 }
