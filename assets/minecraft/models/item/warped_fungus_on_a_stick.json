@@ -82,6 +82,8 @@
 		{"predicate": {"custom_model_data": 1011}, "model": "horizonsend:item/gas/gas_canister_chlorine"},
 		{"predicate": {"custom_model_data": 1012}, "model": "horizonsend:item/gas/gas_canister_fluorine"},
 		{"predicate": {"custom_model_data": 1020}, "model": "horizonsend:item/gas/gas_canister_helium"},
-		{"predicate": {"custom_model_data": 1021}, "model": "horizonsend:item/gas/gas_canister_carbon_dioxide"}
+		{"predicate": {"custom_model_data": 1021}, "model": "horizonsend:item/gas/gas_canister_carbon_dioxide"},
+		
+		{"predicate": {"custom_model_data": 1101}, "model": "horizonsend:item/throwables/detonator"}
 	]
 }
