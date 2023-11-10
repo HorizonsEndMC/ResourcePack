@@ -573,6 +573,28 @@
             }
         ]
     },
+	    "starship.weapon.turbolaser.quad.shoot": {
+        "sounds": [
+            {
+                "name": "starship/weapon/quad_turret/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.0,
+                "volume": 0.5
+            },
+            {
+                "name": "starship/weapon/quad_turret/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.1,
+                "volume": 0.5
+            },
+            {
+                "name": "starship/weapon/quad_turret/shoot",
+                "attenuation_distance": 36,
+                "pitch": 1.2,
+                "volume": 0.5
+            }
+        ]
+    },
     "starship.weapon.plasma_cannon.shoot": {
         "sounds": [
             {
