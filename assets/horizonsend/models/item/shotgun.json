@@ -309,8 +309,8 @@
 			"translation": [0, 8.5, -9]
 		},
 		"fixed": {
-			"rotation": [90, -45, 90],
-			"translation": [0.75, 1, 0.5],
+			"rotation": [90, 45, -90],
+			"translation": [-0.75, 1, 0.5],
 			"scale": [0.55, 0.55, 0.55]
 		}
 	},
