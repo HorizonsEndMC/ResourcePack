@@ -54,6 +54,19 @@
 		},
 		{
 			"apply": {
+				"model": "block/custom/raw_aluminum_block"
+			},
+			"when": {
+				"north": true,
+				"south": false,
+				"east": false,
+				"west": false,
+				"up": false,
+				"down": false
+			}
+		},
+		{
+			"apply": {
 				"model": "block/custom/chetherite_ore"
 			},
 			"when": {
@@ -106,6 +119,19 @@
 		},
 		{
 			"apply": {
+				"model": "block/custom/raw_titanium_block"
+			},
+			"when": {
+				"north": false,
+				"south": false,
+				"east": true,
+				"west": false,
+				"up": false,
+				"down": false
+			}
+		},
+		{
+			"apply": {
 				"model": "block/custom/uranium_ore"
 			},
 			"when": {
@@ -126,6 +152,19 @@
 				"south": true,
 				"east": true,
 				"west": true,
+				"up": false,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/raw_uranium_block"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": false,
+				"west": false,
 				"up": false,
 				"down": false
 			}
