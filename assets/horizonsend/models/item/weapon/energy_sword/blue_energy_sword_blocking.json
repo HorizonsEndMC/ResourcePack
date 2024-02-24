@@ -2,9 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "horizonsend:item/energy_sword_hilt",
-		"3": "horizonsend:item/red_energy_sword",
-		"particle": "horizonsend:item/blue_energy_sword_e"
+		"2": "horizonsend:item/weapon/energy_sword/energy_sword_hilt",
+		"3": "horizonsend:item/weapon/energy_sword/blue_energy_sword"
 	},
 	"elements": [
 		{

@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "horizonsend:item/energy_sword_hilt",
-		"3": "horizonsend:item/green_energy_sword",
-		"particle": "horizonsend:item/blue_energy_sword_e"
+		"2": "horizonsend:item/weapon/energy_sword/energy_sword_hilt",
+		"3": "horizonsend:item/weapon/energy_sword/pink_energy_sword",
+		"particle": "horizonsend:item/weapon/energy_sword/blue_energy_sword_e"
 	},
 	"elements": [
 		{
@@ -229,13 +229,13 @@
 			"scale": [0.55, 0.55, 0.55]
 		},
 		"firstperson_righthand": {
-			"rotation": [-5, -180, 0],
-			"translation": [-1, 7.5, 2.5],
+			"rotation": [171.47, 3.04, 142.82],
+			"translation": [-4.25, 6, 2.5],
 			"scale": [0.31, 0.31, 0.31]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-5, 0, 0],
-			"translation": [-1, 7.5, 2.5],
+			"rotation": [171.47, 3.04, 142.82],
+			"translation": [-4.25, 6, 2.5],
 			"scale": [0.31, 0.31, 0.31]
 		},
 		"ground": {
