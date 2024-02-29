@@ -30,6 +30,7 @@
 		{"predicate": {"custom_model_data": 215}, "model": "horizonsend:item/rubaciea"},
 		{"predicate": {"custom_model_data": 216}, "model": "horizonsend:item/turms"},
 		{"predicate": {"custom_model_data": 217}, "model": "horizonsend:item/vask"},
+		{"predicate": {"custom_model_data": 218}, "model": "horizonsend:item/eden"},
 
 		{"predicate": {"custom_model_data": 301}, "model": "horizonsend:item/asteri"},
 		{"predicate": {"custom_model_data": 302}, "model": "horizonsend:item/ilios"},
