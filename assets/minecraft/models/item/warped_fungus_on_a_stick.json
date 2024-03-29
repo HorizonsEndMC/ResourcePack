@@ -83,7 +83,33 @@
 		{"predicate": {"custom_model_data": 1012}, "model": "horizonsend:item/gas/gas_canister_fluorine"},
 		{"predicate": {"custom_model_data": 1020}, "model": "horizonsend:item/gas/gas_canister_helium"},
 		{"predicate": {"custom_model_data": 1021}, "model": "horizonsend:item/gas/gas_canister_carbon_dioxide"},
-		
-		{"predicate": {"custom_model_data": 1101}, "model": "horizonsend:item/throwables/detonator"}
+
+		{"predicate": {"custom_model_data": 1101}, "model": "horizonsend:item/throwables/detonator"},
+
+		{"predicate": {"custom_model_data": 5000}, "model": "horizonsend:item/planet/aerach"},
+		{"predicate": {"custom_model_data": 5001}, "model": "horizonsend:item/planet/aret"},
+		{"predicate": {"custom_model_data": 5002}, "model": "horizonsend:item/planet/chandra"},
+		{"predicate": {"custom_model_data": 5003}, "model": "horizonsend:item/planet/chimgara"},
+		{"predicate": {"custom_model_data": 5004}, "model": "horizonsend:item/planet/damkoth"},
+		{"predicate": {"custom_model_data": 5005}, "model": "horizonsend:item/planet/disterra"},
+		{"predicate": {"custom_model_data": 5006}, "model": "horizonsend:item/planet/eden"},
+		{"predicate": {"custom_model_data": 5007}, "model": "horizonsend:item/planet/gahara"},
+		{"predicate": {"custom_model_data": 5008}, "model": "horizonsend:item/planet/herdoli"},
+		{"predicate": {"custom_model_data": 5009}, "model": "horizonsend:item/planet/ilius"},
+		{"predicate": {"custom_model_data": 5010}, "model": "horizonsend:item/planet/isik"},
+		{"predicate": {"custom_model_data": 5011}, "model": "horizonsend:item/planet/kovfefe"},
+		{"predicate": {"custom_model_data": 5012}, "model": "horizonsend:item/planet/krio"},
+		{"predicate": {"custom_model_data": 5013}, "model": "horizonsend:item/planet/lioda"},
+		{"predicate": {"custom_model_data": 5014}, "model": "horizonsend:item/planet/luxiterna"},
+		{"predicate": {"custom_model_data": 5015}, "model": "horizonsend:item/planet/qatra"},
+		{"predicate": {"custom_model_data": 5016}, "model": "horizonsend:item/planet/rubaciea"},
+		{"predicate": {"custom_model_data": 5017}, "model": "horizonsend:item/planet/turms"},
+		{"predicate": {"custom_model_data": 5018}, "model": "horizonsend:item/planet/vask"},
+
+		{"predicate": {"custom_model_data": 5100}, "model": "horizonsend:item/planet/asteri"},
+		{"predicate": {"custom_model_data": 5101}, "model": "horizonsend:item/planet/horizon"},
+		{"predicate": {"custom_model_data": 5102}, "model": "horizonsend:item/planet/ilios"},
+		{"predicate": {"custom_model_data": 5103}, "model": "horizonsend:item/planet/regulus"},
+		{"predicate": {"custom_model_data": 5104}, "model": "horizonsend:item/planet/sirius"}
 	]
 }
