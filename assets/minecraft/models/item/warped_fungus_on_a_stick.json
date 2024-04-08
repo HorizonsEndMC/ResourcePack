@@ -110,6 +110,8 @@
 		{"predicate": {"custom_model_data": 5101}, "model": "horizonsend:item/planet/horizon"},
 		{"predicate": {"custom_model_data": 5102}, "model": "horizonsend:item/planet/ilios"},
 		{"predicate": {"custom_model_data": 5103}, "model": "horizonsend:item/planet/regulus"},
-		{"predicate": {"custom_model_data": 5104}, "model": "horizonsend:item/planet/sirius"}
+		{"predicate": {"custom_model_data": 5104}, "model": "horizonsend:item/planet/sirius"},
+
+		{"predicate": {"custom_model_data": 5900}, "model": "horizonsend:item/planet/planet_selector"}
 	]
 }
