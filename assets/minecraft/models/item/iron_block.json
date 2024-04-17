@@ -24,6 +24,30 @@
 				"custom_model_data": 4
 			},
 			"model": "item/custom/uranium_block"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "item/custom/enriched_uranium_block"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "item/custom/superconductor_block"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "item/custom/reactor_core"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 600
+			},
+			"model": "item/custom/steel_block"
 		}
 	]
 }
