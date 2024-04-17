@@ -6,6 +6,29 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/standard_magazine"},
 		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/special_magazine"},
+		{"predicate": {"custom_model_data": 18}, "model": "horizonsend:item/materials/uranium_core"},
+		{"predicate": {"custom_model_data": 19}, "model": "horizonsend:item/materials/uranium_rod"},
+		{"predicate": {"custom_model_data": 20}, "model": "horizonsend:item/materials/fuel_rod_core"},
+		{"predicate": {"custom_model_data": 21}, "model": "horizonsend:item/materials/fuel_cell"},
+		{"predicate": {"custom_model_data": 22}, "model": "horizonsend:item/materials/fuel_control"},
+		{"predicate": {"custom_model_data": 23}, "model": "horizonsend:item/materials/reactive_component"},
+		{"predicate": {"custom_model_data": 24}, "model": "horizonsend:item/materials/reactive_housing"},
+		{"predicate": {"custom_model_data": 25}, "model": "horizonsend:item/materials/reactive_plating"},
+		{"predicate": {"custom_model_data": 26}, "model": "horizonsend:item/materials/reactive_chassis"},
+		{"predicate": {"custom_model_data": 27}, "model": "horizonsend:item/materials/reactive_membrane"},
+		{"predicate": {"custom_model_data": 28}, "model": "horizonsend:item/materials/reactive_assembly"},
+		{"predicate": {"custom_model_data": 29}, "model": "horizonsend:item/materials/fabricated_assembly"},
+		{"predicate": {"custom_model_data": 30}, "model": "horizonsend:item/materials/enhanced_circuitry"},
+		{"predicate": {"custom_model_data": 31}, "model": "horizonsend:item/materials/advanced_circuitry"},
+		{"predicate": {"custom_model_data": 32}, "model": "horizonsend:item/materials/reactor_control"},
+		{"predicate": {"custom_model_data": 33}, "model": "horizonsend:item/materials/superconductor"},
+		{"predicate": {"custom_model_data": 35}, "model": "horizonsend:item/materials/superconductor_core"},
+		{"predicate": {"custom_model_data": 40}, "model": "horizonsend:item/materials/steel_plate"},
+		{"predicate": {"custom_model_data": 41}, "model": "horizonsend:item/materials/steel_chassis"},
+		{"predicate": {"custom_model_data": 42}, "model": "horizonsend:item/materials/steel_module"},
+		{"predicate": {"custom_model_data": 43}, "model": "horizonsend:item/materials/steel_assembly"},
+		{"predicate": {"custom_model_data": 44}, "model": "horizonsend:item/materials/reinforced_frame"},
+		{"predicate": {"custom_model_data": 45}, "model": "horizonsend:item/materials/reactor_frame"},
 
 		{"predicate": {"custom_model_data": 101}, "model": "horizonsend:item/ui_empty"},
 		{"predicate": {"custom_model_data": 102}, "model": "horizonsend:item/ui_up"},
@@ -83,7 +106,7 @@
 		{"predicate": {"custom_model_data": 1012}, "model": "horizonsend:item/gas/gas_canister_fluorine"},
 		{"predicate": {"custom_model_data": 1020}, "model": "horizonsend:item/gas/gas_canister_helium"},
 		{"predicate": {"custom_model_data": 1021}, "model": "horizonsend:item/gas/gas_canister_carbon_dioxide"},
-		
+
 		{"predicate": {"custom_model_data": 1101}, "model": "horizonsend:item/throwables/detonator"}
 	]
 }
