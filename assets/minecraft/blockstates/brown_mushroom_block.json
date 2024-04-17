@@ -168,6 +168,45 @@
 				"up": false,
 				"down": false
 			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/enriched_uranium_block"
+			},
+			"when": {
+				"north": false,
+				"south": false,
+				"east": true,
+				"west": true,
+				"up": false,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/superconductor_block"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": false,
+				"west": false,
+				"up": false,
+				"down": true
+			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/steel_block"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": false,
+				"west": false,
+				"up": true,
+				"down": true
+			}
 		}
 	]
 }
