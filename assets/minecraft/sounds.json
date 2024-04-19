@@ -743,6 +743,28 @@
             }
         ]
     },
+	"starship.weapon.turbolaser.ion.shoot": {
+	"sounds": [
+	  {
+		"name": "starship/weapon/ion_turret/shoot",
+		"attenuation_distance": 36,
+		"pitch": 1.0,
+		"volume": 0.5
+	  },
+	  {
+		"name": "starship/weapon/ion_turret/shoot",
+		"attenuation_distance": 36,
+		"pitch": 1.1,
+		"volume": 0.5
+	  },
+	  {
+		"name": "starship/weapon/ion_turret/shoot",
+		"attenuation_distance": 36,
+		"pitch": 1.2,
+		"volume": 0.5
+	  }
+	]
+  },
 	    "starship.weapon.turbolaser.quad.shoot": {
         "sounds": [
             {
