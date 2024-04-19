@@ -3,7 +3,8 @@
   "block.minecraft.crafting_table":"Extractor (Crafting Table)",
   "block.minecraft.daylight_detector":"Solar Panel",
   "block.minecraft.end_rod":"Wire (End Rod)",
-  "item.minecraft.chainmail_helmet": "Spacesuit Helmet",
+  "item.minecraft.clock":"Controller (Clock",
+	"item.minecraft.chainmail_helmet": "Spacesuit Helmet",
   "item.minecraft.chainmail_chestplate": "Spacesuit Chestpiece",
   "item.minecraft.chainmail_leggings": "Spacesuit Leggings",
   "item.minecraft.chainmail_boots": "Spacesuit Boots"
