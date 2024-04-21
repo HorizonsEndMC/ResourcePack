@@ -97,6 +97,9 @@
 		{"predicate": {"custom_model_data": 607}, "model": "horizonsend:item/arcane_micro_reactor/7"},
 		{"predicate": {"custom_model_data": 608}, "model": "horizonsend:item/arcane_micro_reactor/8"},
 
+		{"predicate": {"custom_model_data": 700}, "model": "horizonsend:item/projectile/arsenal_rocket_on"},
+		{"predicate": {"custom_model_data": 701}, "model": "horizonsend:item/projectile/arsenal_rocket_off"},
+
 		{"predicate": {"custom_model_data": 1000}, "model": "horizonsend:item/gas/gas_canister_empty"},
 		{"predicate": {"custom_model_data": 1001}, "model": "horizonsend:item/gas/gas_canister_hydrogen"},
 		{"predicate": {"custom_model_data": 1002}, "model": "horizonsend:item/gas/gas_canister_nitrogen"},
