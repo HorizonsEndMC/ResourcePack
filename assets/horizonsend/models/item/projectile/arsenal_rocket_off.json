@@ -1,0 +1,9 @@
+{
+    "credit": "Made with Blockbench",
+    "parent": "horizonsend:item/projectile/arsenal_rocket_on",
+    "texture_size": [64, 64],
+    "textures": {
+        "0": "horizonsend:item/projectile/missile",
+        "1": "horizonsend:item/empty"
+    }
+}
