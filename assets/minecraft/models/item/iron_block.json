@@ -41,7 +41,7 @@
 			"predicate": {
 				"custom_model_data": 36
 			},
-			"model": "item/custom/reactor_core"
+			"model": "item/custom/bc_reactor_core"
 		},
 		{
 			"predicate": {
