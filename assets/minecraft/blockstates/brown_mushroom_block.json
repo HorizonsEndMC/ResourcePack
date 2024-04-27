@@ -207,6 +207,19 @@
 				"up": true,
 				"down": true
 			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/bc_reactor_core"
+			},
+			"when": {
+				"north": true,
+				"south": false,
+				"east": false,
+				"west": true,
+				"up": true,
+				"down": false
+			}
 		}
 	]
 }
