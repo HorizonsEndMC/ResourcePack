@@ -220,6 +220,19 @@
 				"up": true,
 				"down": false
 			}
+		},
+		{
+			"apply": {
+				"model": "block/custom/ca_reactor_core"
+			},
+			"when": {
+				"north": true,
+				"south": false,
+				"east": false,
+				"west": true,
+				"up": false,
+				"down": true
+			}
 		}
 	]
 }

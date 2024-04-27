@@ -45,6 +45,12 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data" : 37
+			},
+			"model": "item/custom/ca_reactor_core"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 600
 			},
 			"model": "item/custom/steel_block"
