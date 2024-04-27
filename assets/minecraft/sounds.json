@@ -487,6 +487,86 @@
             }
         ]
     },
+   "starship.supercapital.hyperspace_exit": {
+	"sounds": [
+	   {
+		"name": "starship/supercapital/hyperspace_exit",
+		"attenuation_distance": 48,
+		"pitch" 1.0,
+		"volume": 0.5   
+	   }
+	]
+},
+   "starship.supercapital.hyperspace_enter": {
+	"sounds": [
+	   {
+		"name": "starship/supercapital/hyperspace_enter",
+		"attenuation_distance": 48,
+		"pitch" 1.0,
+		"volume": 0.5   
+	   }
+	]
+},
+   "starship.release.battlecruiser": {
+	"sounds": [
+	   {
+		"name": "starship/supercapital/release/battlecruiser",
+		"attenuation_distance": 48,
+		"pitch" 1.0,
+		"volume": 0.5   
+	   }
+	]
+},
+    "starship.release.cruiser": {
+	"sounds": [
+	   {
+		"name": "starship/supercapital/release/cruiser",
+		"attenuation_distance": 48,
+		"pitch" 1.0,
+		"volume": 0.5   
+	   }
+	]
+},
+   "starship.pilot.battlecruiser": {
+	"sounds": [
+	   {
+		"name": "starship/supercapital/pilot/battlecruiser",
+		"attenuation_distance": 48,
+		"pitch" 1.0,
+		"volume": 0.5   
+	   }
+	]
+},
+    "starship.pilot.cruiser": {
+	"sounds": [
+	   {
+		"name": "starship/supercapital/pilot/cruiser",
+		"attenuation_distance": 48,
+		"pitch" 1.0,
+		"volume": 0.5   
+	   }
+	]
+},
+   "starship.explosion.battlecruiser": {
+	"sounds": [
+	   {
+		"name": "starship/supercapital/explosion/battlecruiser",
+		"attenuation_distance": 48,
+		"pitch" 1.0,
+		"volume": 0.5   
+	   }
+	]
+},
+    "starship.explosion.cruiser": {
+	"sounds": [
+	   {
+		"name": "starship/supercapital/explosion/cruiser",
+		"attenuation_distance": 48,
+		"pitch" 1.0,
+		"volume": 0.5   
+	   }
+	]
+},
     "starship.weapon.heavy_laser.single.shoot": {
         "sounds": [
             {
