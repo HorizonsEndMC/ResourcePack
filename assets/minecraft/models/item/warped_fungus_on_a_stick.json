@@ -100,6 +100,7 @@
 
 		{"predicate": {"custom_model_data": 700}, "model": "horizonsend:item/projectile/arsenal_rocket_on"},
 		{"predicate": {"custom_model_data": 701}, "model": "horizonsend:item/projectile/arsenal_rocket_off"},
+		{"predicate": {"custom_model_data": 702}, "model": "horizonsend:item/projectile/unloaded_arsenal_rocket"},
 
 		{"predicate": {"custom_model_data": 1000}, "model": "horizonsend:item/gas/gas_canister_empty"},
 		{"predicate": {"custom_model_data": 1001}, "model": "horizonsend:item/gas/gas_canister_hydrogen"},
