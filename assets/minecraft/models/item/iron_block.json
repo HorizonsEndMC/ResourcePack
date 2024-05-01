@@ -5,55 +5,55 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "item/custom/aluminum_block"
+			"model": "horizonsend:item/mineral/aluminum_block"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "item/custom/chetherite_block"
+			"model": "horizonsend:item/mineral/chetherite_block"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "item/custom/titanium_block"
+			"model": "horizonsend:item/mineral/titanium_block"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "item/custom/uranium_block"
+			"model": "horizonsend:item/mineral/uranium_block"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "item/custom/enriched_uranium_block"
+			"model": "horizonsend:item/industry/enriched_uranium_block"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 34
 			},
-			"model": "item/custom/superconductor_block"
+			"model": "horizonsend:item/industry/superconductor_block"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 36
 			},
-			"model": "item/custom/bc_reactor_core"
+			"model": "horizonsend:item/starship/bc_reactor_core"
 		},
 		{
 			"predicate": {
 				"custom_model_data" : 37
 			},
-			"model": "item/custom/ca_reactor_core"
+			"model": "horizonsend:item/starship/ca_reactor_core"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 600
 			},
-			"model": "item/custom/steel_block"
+			"model": "horizonsend:item/industry/steel_block"
 		}
 	]
 }

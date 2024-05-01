@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "horizonsend:item/power_armor_module/night_vision_module"
+    }
+}

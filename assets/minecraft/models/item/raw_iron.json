@@ -4,8 +4,8 @@
         "layer0": "minecraft:item/raw_iron"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/raw_aluminum"},
-        {"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/raw_titanium"},
-        {"predicate": {"custom_model_data": 4}, "model": "horizonsend:item/raw_uranium"}
+        {"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/mineral/raw_aluminum"},
+        {"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/mineral/raw_titanium"},
+        {"predicate": {"custom_model_data": 4}, "model": "horizonsend:item/mineral/raw_uranium"}
     ]
 }
