@@ -2,7 +2,7 @@
 	"multipart": [
 		{
 			"apply": {
-				"model": "block/custom/brown_mushroom_cap"
+				"model": "block/brown_mushroom_cap"
 			},
 			"when": {
 				"north": true,
@@ -15,7 +15,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/brown_mushroom_pores"
+				"model": "block/brown_mushroom_pores"
 			},
 			"when": {
 				"north": false,
@@ -28,7 +28,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/aluminum_ore"
+				"model": "horizonsend:block/mineral/aluminum_ore"
 			},
 			"when": {
 				"north": true,
@@ -41,7 +41,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/aluminum_block"
+				"model": "horizonsend:block/mineral/aluminum_block"
 			},
 			"when": {
 				"north": false,
@@ -54,7 +54,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/raw_aluminum_block"
+				"model": "horizonsend:block/mineral/raw_aluminum_block"
 			},
 			"when": {
 				"north": true,
@@ -67,7 +67,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/chetherite_ore"
+				"model": "horizonsend:block/mineral/chetherite_ore"
 			},
 			"when": {
 				"north": true,
@@ -80,7 +80,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/chetherite_block"
+				"model": "horizonsend:block/mineral/chetherite_block"
 			},
 			"when": {
 				"north": false,
@@ -93,7 +93,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/titanium_ore"
+				"model": "horizonsend:block/mineral/titanium_ore"
 			},
 			"when": {
 				"north": false,
@@ -106,7 +106,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/titanium_block"
+				"model": "horizonsend:block/mineral/titanium_block"
 			},
 			"when": {
 				"north": false,
@@ -119,7 +119,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/raw_titanium_block"
+				"model": "horizonsend:block/mineral/raw_titanium_block"
 			},
 			"when": {
 				"north": false,
@@ -132,7 +132,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/uranium_ore"
+				"model": "horizonsend:block/mineral/uranium_ore"
 			},
 			"when": {
 				"north": false,
@@ -145,7 +145,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/uranium_block"
+				"model": "horizonsend:block/mineral/uranium_block"
 			},
 			"when": {
 				"north": true,
@@ -158,7 +158,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/raw_uranium_block"
+				"model": "horizonsend:block/mineral/raw_uranium_block"
 			},
 			"when": {
 				"north": false,
@@ -171,7 +171,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/enriched_uranium_block"
+				"model": "horizonsned:block/industry/enriched_uranium_block"
 			},
 			"when": {
 				"north": false,
@@ -184,7 +184,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/superconductor_block"
+				"model": "horizonsend:block/industry/superconductor_block"
 			},
 			"when": {
 				"north": false,
@@ -197,7 +197,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/steel_block"
+				"model": "horizonsend:block/industry/steel_block"
 			},
 			"when": {
 				"north": false,
@@ -210,7 +210,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/bc_reactor_core"
+				"model": "horizonsend:block/starship/bc_reactor_core"
 			},
 			"when": {
 				"north": true,
@@ -223,7 +223,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/custom/ca_reactor_core"
+				"model": "horizonsend:block/starship/ca_reactor_core"
 			},
 			"when": {
 				"north": true,

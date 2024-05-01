@@ -9,7 +9,7 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "item/custom/tools/power_drill"
+			"model": "horizonsend:item/tool/power_drill"
 		}
 	]
 }

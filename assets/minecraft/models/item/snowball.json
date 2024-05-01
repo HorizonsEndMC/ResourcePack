@@ -44,19 +44,19 @@
 			"predicate": {
 				"custom_model_data": 7
 			},
-			"model": "item/custom/batteries/battery_a"
+			"model": "horizonsend:item/battery/battery_a"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 8
 			},
-			"model": "item/custom/batteries/battery_m"
+			"model": "horizonsend:item/battery/battery_m"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 9
 			},
-			"model": "item/custom/batteries/battery_g"
+			"model": "horizonsend:item/battery/battery_g"
 		}
 	]
 }

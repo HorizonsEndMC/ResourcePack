@@ -118,10 +118,10 @@
 			},
 			"model": "item/custom/weapons/cannon"
 		},
-		{"predicate": {"custom_model_data": 101}, "model": "horizonsend:item/pistol"},
-		{"predicate": {"custom_model_data": 102}, "model": "horizonsend:item/rifle"},
-		{"predicate": {"custom_model_data": 103}, "model": "horizonsend:item/submachine_blaster"},
-		{"predicate": {"custom_model_data": 104}, "model": "horizonsend:item/sniper"},
-		{"predicate": {"custom_model_data": 105}, "model": "horizonsend:item/shostgun"}
+		{"predicate": {"custom_model_data": 101}, "model": "horizonsend:item/weapon/blaster/pistol"},
+		{"predicate": {"custom_model_data": 102}, "model": "horizonsend:item/weapon/blaster/rifle"},
+		{"predicate": {"custom_model_data": 103}, "model": "horizonsend:item/weapon/blaster/submachine_blaster"},
+		{"predicate": {"custom_model_data": 104}, "model": "horizonsend:item/weapon/blaster/sniper"},
+		{"predicate": {"custom_model_data": 105}, "model": "horizonsend:item/weapon/blaster/shotgun"}
 	]
 }
