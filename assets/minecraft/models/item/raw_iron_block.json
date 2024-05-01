@@ -5,19 +5,19 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "item/custom/raw_aluminum_block"
+			"model": "horizonsend:item/mineral/raw_aluminum_block"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "item/custom/raw_titanium_block"
+			"model": "horizonsend:item/mineral/raw_titanium_block"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "item/custom/raw_uranium_block"
+			"model": "horizonsend:item/mineral/raw_uranium_block"
 		}
 	]
 }

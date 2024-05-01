@@ -5,7 +5,7 @@
 
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/shotgun"},
-		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/sniper"}
+		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/weapon/blaster/shotgun"},
+		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/weapon/blaster/sniper"}
 	]
 }

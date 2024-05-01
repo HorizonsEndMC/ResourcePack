@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "horizonsend:block/mineral/raw_titanium_block"
+	}
+}
