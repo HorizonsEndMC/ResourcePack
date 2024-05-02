@@ -86,6 +86,8 @@
 		{"predicate": {"custom_model_data": 505}, "model": "horizonsend:item/industry/sniper_receiver"},
 		{"predicate": {"custom_model_data": 506}, "model": "horizonsend:item/industry/shotgun_receiver"},
 		{"predicate": {"custom_model_data": 507}, "model": "horizonsend:item/industry/cannon_receiver"},
+		{"predicate": {"custom_model_data": 511}, "model": "horizonsend:item/industry/unloaded_shell"},
+		{"predicate": {"custom_model_data": 513}, "model": "horizonsend:item/industry/uncharged_shell"},
 
 		{"predicate": {"custom_model_data": 600}, "model": "horizonsend:item/arcane_micro_reactor/0"},
 		{"predicate": {"custom_model_data": 601}, "model": "horizonsend:item/arcane_micro_reactor/1"},
