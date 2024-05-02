@@ -9,8 +9,8 @@
 		{"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/mineral/titanium"},
 		{"predicate": {"custom_model_data": 4}, "model": "horizonsend:item/mineral/uranium"},
 		{"predicate": {"custom_model_data": 17}, "model": "horizonsend:item/industry/enriched_uranium"},
-		{"predicate": {"custom_model_data": 511}, "model": "horizonsend:item/industry/unloaded_shell"},
 		{"predicate": {"custom_model_data": 512}, "model": "horizonsend:item/industry/loaded_shell"},
+		{"predicate": {"custom_model_data": 514}, "model": "horizonsend:item/industry/charged_shell"},
 		{"predicate": {"custom_model_data": 600}, "model": "horizonsend:item/industry/steel_ingot"}
 	]
 }

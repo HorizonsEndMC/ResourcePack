@@ -2,7 +2,7 @@
 	"multipart": [
 		{
 			"apply": {
-				"model": "block/brown_mushroom_cap"
+				"model": "minecraft:block/brown_mushroom_cap"
 			},
 			"when": {
 				"north": true,
@@ -15,7 +15,7 @@
 		},
 		{
 			"apply": {
-				"model": "block/brown_mushroom_pores"
+				"model": "minecraft:block/brown_mushroom_pores"
 			},
 			"when": {
 				"north": false,
