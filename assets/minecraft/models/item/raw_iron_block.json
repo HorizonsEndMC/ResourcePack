@@ -1,23 +1,8 @@
 {
 	"parent": "block/raw_iron_block",
 	"overrides": [
-		{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "horizonsend:item/mineral/raw_aluminum_block"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 3
-			},
-			"model": "horizonsend:item/mineral/raw_titanium_block"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 4
-			},
-			"model": "horizonsend:item/mineral/raw_uranium_block"
-		}
+		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/mineral/raw_aluminum_block"},
+		{"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/mineral/raw_titanium_block"},
+		{"predicate": {"custom_model_data": 4}, "model": "horizonsend:item/mineral/raw_uranium_block"}
 	]
 }

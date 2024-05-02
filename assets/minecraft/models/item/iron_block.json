@@ -1,59 +1,16 @@
 {
-	"parent": "block/iron_block",
+	"parent": "minecraft:block/iron_block",
 	"overrides": [
-		{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "horizonsend:item/mineral/aluminum_block"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2
-			},
-			"model": "horizonsend:item/mineral/chetherite_block"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 3
-			},
-			"model": "horizonsend:item/mineral/titanium_block"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 4
-			},
-			"model": "horizonsend:item/mineral/uranium_block"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 17
-			},
-			"model": "horizonsend:item/industry/enriched_uranium_block"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 34
-			},
-			"model": "horizonsend:item/industry/superconductor_block"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 36
-			},
-			"model": "horizonsend:item/starship/bc_reactor_core"
-		},
-		{
-			"predicate": {
-				"custom_model_data" : 37
-			},
-			"model": "horizonsend:item/starship/ca_reactor_core"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 600
-			},
-			"model": "horizonsend:item/industry/steel_block"
-		}
+		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/mineral/aluminum_block"},
+		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/mineral/chetherite_block"},
+		{"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/mineral/titanium_block"},
+		{"predicate": {"custom_model_data": 4}, "model": "horizonsend:item/mineral/uranium_block"},
+
+		{"predicate": {"custom_model_data": 1000}, "model": "horizonsend:item/industry/enriched_uranium_block"},
+		{"predicate": {"custom_model_data": 1001}, "model": "horizonsend:item/industry/steel_block"},
+		{"predicate": {"custom_model_data": 1002}, "model": "horizonsend:item/industry/superconductor_block"},
+
+		{"predicate": {"custom_model_data": 2000}, "model": "horizonsend:item/starship/bc_reactor_core"},
+		{"predicate": {"custom_model_data": 2001}, "model": "horizonsend:item/starship/ca_reactor_core"}
 	]
 }
