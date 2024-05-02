@@ -1,29 +1,9 @@
 {
-	"parent": "block/iron_ore",
+	"parent": "minecraft:block/iron_ore",
 	"overrides": [
-		{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "horizonsend:item/mineral/aluminum_ore"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2
-			},
-			"model": "horizonsend:item/mineral/chetherite_ore"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 3
-			},
-			"model": "horizonsend:item/mineral/titanium_ore"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 4
-			},
-			"model": "horizonsend:item/mineral/uranium_ore"
-		}
+		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/mineral/aluminum_ore"},
+		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/mineral/chetherite_ore"},
+		{"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/mineral/titanium_ore"},
+		{"predicate": {"custom_model_data": 4}, "model": "horizonsend:item/mineral/uranium_ore"}
 	]
 }

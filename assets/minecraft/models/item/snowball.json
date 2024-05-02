@@ -4,59 +4,14 @@
 		"layer0": "item/snowball"
 	},
 	"overrides": [
-		{
-			"predicate": {
-				"custom_model_data": 1
-			},
-			"model": "item/custom/gas/empty_canister"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2
-			},
-			"model": "item/custom/gas/gas_helium"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 3
-			},
-			"model": "item/custom/gas/gas_oxygen"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 4
-			},
-			"model": "item/custom/gas/gas_hydrogen"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 5
-			},
-			"model": "item/custom/gas/gas_nitrogen"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 6
-			},
-			"model": "item/custom/gas/gas_carbon_dioxide"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 7
-			},
-			"model": "horizonsend:item/battery/battery_a"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 8
-			},
-			"model": "horizonsend:item/battery/battery_m"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 9
-			},
-			"model": "horizonsend:item/battery/battery_g"
-		}
+		{"predicate": {"custom_model_data": 1}, "model": "item/custom/gas/empty_canister"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/custom/gas/gas_helium"},
+		{"predicate": {"custom_model_data": 3}, "model": "item/custom/gas/gas_oxygen"},
+		{"predicate": {"custom_model_data": 4}, "model": "item/custom/gas/gas_hydrogen"},
+		{"predicate": {"custom_model_data": 5}, "model": "item/custom/gas/gas_nitrogen"},
+		{"predicate": {"custom_model_data": 6}, "model": "item/custom/gas/gas_carbon_dioxide"},
+		{"predicate": {"custom_model_data": 7}, "model": "horizonsend:item/battery/battery_a"},
+		{"predicate": {"custom_model_data": 8}, "model": "horizonsend:item/battery/battery_m"},
+		{"predicate": {"custom_model_data": 9}, "model": "horizonsend:item/battery/battery_g"}
 	]
 }
