@@ -2,7 +2,7 @@
 	"multipart": [
 		{
 			"apply": {
-				"model": "minecraft:block/brown_mushroom_cap"
+				"model": "horizonsend:block/brown_mushroom_cap"
 			},
 			"when": {
 				"north": true,
@@ -15,7 +15,7 @@
 		},
 		{
 			"apply": {
-				"model": "minecraft:block/brown_mushroom_pores"
+				"model": "horizonsend:block/brown_mushroom_pores"
 			},
 			"when": {
 				"north": false,
@@ -171,7 +171,7 @@
 		},
 		{
 			"apply": {
-				"model": "horizonsned:block/industry/enriched_uranium_block"
+				"model": "horizonsend:block/industry/enriched_uranium_block"
 			},
 			"when": {
 				"north": false,
@@ -180,19 +180,6 @@
 				"west": true,
 				"up": false,
 				"down": false
-			}
-		},
-		{
-			"apply": {
-				"model": "horizonsend:block/industry/superconductor_block"
-			},
-			"when": {
-				"north": false,
-				"south": true,
-				"east": false,
-				"west": false,
-				"up": false,
-				"down": true
 			}
 		},
 		{
