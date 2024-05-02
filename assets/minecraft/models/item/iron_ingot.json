@@ -11,6 +11,7 @@
 		{"predicate": {"custom_model_data": 17}, "model": "horizonsend:item/industry/enriched_uranium"},
 		{"predicate": {"custom_model_data": 512}, "model": "horizonsend:item/industry/loaded_shell"},
 		{"predicate": {"custom_model_data": 514}, "model": "horizonsend:item/industry/charged_shell"},
-		{"predicate": {"custom_model_data": 600}, "model": "horizonsend:item/industry/steel_ingot"}
+		{"predicate": {"custom_model_data": 600}, "model": "horizonsend:item/industry/steel_ingot"},
+		{"predicate": {"custom_model_data": 701}, "model": "horizonsend:item/projectile/arsenal_rocket_off"}
 	]
 }
