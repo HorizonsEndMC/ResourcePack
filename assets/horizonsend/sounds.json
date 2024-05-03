@@ -637,30 +637,30 @@
             }
         ]
     },
-  "starship.weapon.arsenal_rocket.shoot": {
+  "starship.weapon.arsenal_missile.shoot": {
 	"sounds": [
 	  {
-		"name": "horizonsend:starship/weapon/arsenal_rocket/shoot",
+		"name": "horizonsend:starship/weapon/arsenal_missile/shoot",
 		"attenuation_distance": 48,
 		"pitch": 1.0,
 		"volume": 0.5
 	  }
 	]
   },
-  "starship.weapon.arsenal_rocket.ignite": {
+  "starship.weapon.arsenal_missile.ignite": {
 	"sounds": [
 	  {
-		"name": "horizonsend:starship/weapon/arsenal_rocket/ignite",
+		"name": "horizonsend:starship/weapon/arsenal_missile/ignite",
 		"attenuation_distance": 48,
 		"pitch": 1.0,
 		"volume": 0.5
 	  }
 	]
   },
-  "starship.weapon.arsenal_rocket.impact": {
+  "starship.weapon.arsenal_missile.impact": {
 	"sounds": [
 	  {
-		"name": "horizonsend:starship/weapon/arsenal_rocket/impact",
+		"name": "horizonsend:starship/weapon/arsenal_missile/impact",
 		"attenuation_distance": 48,
 		"pitch": 1.0,
 		"volume": 0.5
