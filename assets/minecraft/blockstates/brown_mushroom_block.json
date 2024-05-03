@@ -197,6 +197,19 @@
 		},
 		{
 			"apply": {
+				"model": "horizonsend:block/industry/superconductor_block"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": false,
+				"west": false,
+				"up": false,
+				"down": true
+			}
+		},
+		{
+			"apply": {
 				"model": "horizonsend:block/starship/bc_reactor_core"
 			},
 			"when": {

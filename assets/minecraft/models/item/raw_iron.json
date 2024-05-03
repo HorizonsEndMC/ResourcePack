@@ -1,5 +1,8 @@
 {
-    "parent": "minecraft:item/raw_iron",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/raw_iron"
+	},
     "overrides": [
         {"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/mineral/raw_aluminum"},
         {"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/mineral/raw_titanium"},
