@@ -74,8 +74,8 @@
 		{"predicate": {"custom_model_data": 607}, "model": "horizonsend:item/arcane_micro_reactor/7"},
 		{"predicate": {"custom_model_data": 608}, "model": "horizonsend:item/arcane_micro_reactor/8"},
 
-		{"predicate": {"custom_model_data": 700}, "model": "horizonsend:item/projectile/arsenal_rocket_on"},
-		{"predicate": {"custom_model_data": 701}, "model": "horizonsend:item/projectile/unloaded_arsenal_rocket"},
+		{"predicate": {"custom_model_data": 700}, "model": "horizonsend:item/projectile/activated_arsenal_missile"},
+		{"predicate": {"custom_model_data": 701}, "model": "horizonsend:item/projectile/unloaded_arsenal_missile"},
 		{"predicate": {"custom_model_data": 702}, "model": "horizonsend:item/industry/unloaded_shell"},
 		{"predicate": {"custom_model_data": 703}, "model": "horizonsend:item/industry/uncharged_shell"},
 

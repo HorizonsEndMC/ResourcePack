@@ -210,7 +210,7 @@
 		},
 		{
 			"apply": {
-				"model": "horizonsend:block/starship/bc_reactor_core"
+				"model": "horizonsend:block/starship/battlecruiser_reactor_core"
 			},
 			"when": {
 				"north": true,
@@ -223,7 +223,7 @@
 		},
 		{
 			"apply": {
-				"model": "horizonsend:block/starship/ca_reactor_core"
+				"model": "horizonsend:block/starship/cruiser_reactor_core"
 			},
 			"when": {
 				"north": true,
