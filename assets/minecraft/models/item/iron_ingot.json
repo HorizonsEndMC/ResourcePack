@@ -1,5 +1,8 @@
 {
-	"parent": "minecraft:item/iron_ingot",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/iron_ingot"
+	},
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/mineral/aluminum"},
 		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/mineral/chetherite"},
