@@ -6,6 +6,7 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/weapon/blaster/standard_magazine"},
 		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/weapon/blaster/special_magazine"},
+		{"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/adhesive_tank"},
 
 		{"predicate": {"custom_model_data": 101}, "model": "horizonsend:item/ui/empty"},
 		{"predicate": {"custom_model_data": 102}, "model": "horizonsend:item/ui/up"},
