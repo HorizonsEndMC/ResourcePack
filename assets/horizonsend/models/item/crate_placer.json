@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/body",
-		"particle": "block/body"
+		"0": "horizonsend:item/crate_placer",
+		"particle": "horizonsend:item/crate_placer"
 	},
 	"elements": [
 		{
