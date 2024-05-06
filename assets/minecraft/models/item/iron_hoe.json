@@ -6,7 +6,8 @@
 	"overrides": [
 		{"predicate": {"custom_model_data": 1}, "model": "horizonsend:item/weapon/blaster/rifle"},
 		{"predicate": {"custom_model_data": 2}, "model": "horizonsend:item/weapon/blaster/submachine_blaster"},
-		{"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/weapon/blaster/cannon"}
+		{"predicate": {"custom_model_data": 3}, "model": "horizonsend:item/weapon/blaster/cannon"},
+		{"predicate": {"custom_model_data": 4}, "model": "horizonsend:item/crate_placer"}
 
 	]
 }
