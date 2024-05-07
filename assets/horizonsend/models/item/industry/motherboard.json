@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "horizonsend:item/industry/advanced_circuitry"
+        "layer0": "horizonsend:item/industry/motherboard"
     }
 }
