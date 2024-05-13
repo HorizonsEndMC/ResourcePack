@@ -246,6 +246,19 @@
 				"up": false,
 				"down": true
 			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/starship/barge_reactor_core"
+			},
+			"when": {
+				"north": true,
+				"south": false,
+				"east": true,
+				"west": true,
+				"up": false,
+				"down": false
+			}
 		}
 	]
 }
