@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "horizonsend:block/starship/barge_reactor_core",
+    "north": "horizonsend:block/starship/barge_reactor_core",
+    "south": "horizonsend:block/starship/barge_reactor_core",
+    "east": "horizonsend:block/starship/barge_reactor_core",
+    "west": "horizonsend:block/starship/barge_reactor_core",
+    "up": "horizonsend:block/starship/reactor_core_frame_top",
+    "down": "horizonsend:block/starship/reactor_core_frame_top"
+  }
+}
