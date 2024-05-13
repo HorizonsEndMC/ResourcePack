@@ -12,6 +12,7 @@
 		{"predicate": {"custom_model_data": 1003}, "model": "horizonsend:item/industry/netherite_casing"},
 
 		{"predicate": {"custom_model_data": 2000}, "model": "horizonsend:item/starship/battlecruiser_reactor_core"},
-		{"predicate": {"custom_model_data": 2001}, "model": "horizonsend:item/starship/cruiser_reactor_core"}
+		{"predicate": {"custom_model_data": 2001}, "model": "horizonsend:item/starship/cruiser_reactor_core"},
+		{"predicate": {"custom_model_data": 2002}, "model": "horizonsend:item/starship/barge_reactor_core"}
 	]
 }
