@@ -9,6 +9,7 @@
 		{"predicate": {"custom_model_data": 1000}, "model": "horizonsend:item/industry/enriched_uranium_block"},
 		{"predicate": {"custom_model_data": 1001}, "model": "horizonsend:item/industry/steel_block"},
 		{"predicate": {"custom_model_data": 1002}, "model": "horizonsend:item/industry/superconductor_block"},
+		{"predicate": {"custom_model_data": 1003}, "model": "horizonsend:item/industry/netherite_casing"},
 
 		{"predicate": {"custom_model_data": 2000}, "model": "horizonsend:item/starship/battlecruiser_reactor_core"},
 		{"predicate": {"custom_model_data": 2001}, "model": "horizonsend:item/starship/cruiser_reactor_core"}

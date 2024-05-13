@@ -197,6 +197,19 @@
 		},
 		{
 			"apply": {
+				"model": "horizonsend:block/industry/netherite_casing"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": false,
+				"west": true,
+				"up": true,
+				"down": true
+			}
+		},
+		{
+			"apply": {
 				"model": "horizonsend:block/industry/superconductor_block"
 			},
 			"when": {
