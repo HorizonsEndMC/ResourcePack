@@ -815,7 +815,7 @@
                 "name": "horizonsend:starship/weapon/mining_laser/start",
                 "attenuation_distance": 64,
                 "pitch": 1.0,
-                "volume": 0.2
+                "volume": 0.05
             }
         ]
     },
@@ -825,7 +825,7 @@
                 "name": "horizonsend:starship/weapon/mining_laser/stop",
                 "attenuation_distance": 64,
                 "pitch": 1.0,
-                "volume": 0.2
+                "volume": 0.05
             }
         ]
     },
@@ -859,6 +859,16 @@
             }
         ]
     },
+	"starship.weapon.mining_laser.t4_loop": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/mining_laser/t4_loop",
+				"attenuation_distance": 64,
+				"pitch": 1.0,
+				"volume": 0.2
+			}
+		]
+	},
     "starship.weapon.pulse_cannon.shoot": {
         "sounds": [
             {
