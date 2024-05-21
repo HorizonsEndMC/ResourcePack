@@ -200,8 +200,8 @@
 				"model": "horizonsend:block/industry/netherite_casing"
 			},
 			"when": {
-				"north": false,
-				"south": true,
+				"north": true,
+				"south": false,
 				"east": false,
 				"west": true,
 				"up": true,
