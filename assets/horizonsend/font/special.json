@@ -354,7 +354,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "horizonsend:item/chetherite.png",
+			"file": "horizonsend:item/mineral/chetherite.png",
 			"ascent": -30,
 			"height": 10,
 			"chars": [
