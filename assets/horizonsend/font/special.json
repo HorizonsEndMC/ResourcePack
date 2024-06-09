@@ -534,6 +534,15 @@
 			"chars": [
 				"\uF8FE"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/slot_overlay.png",
+			"ascent": 0,
+			"height": 18,
+			"chars": [
+				"\uF8FD"
+			]
 		}
 	]
 }
