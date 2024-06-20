@@ -140,6 +140,29 @@
 		{"predicate": {"custom_model_data": 5103}, "model": "horizonsend:item/planet/regulus"},
 		{"predicate": {"custom_model_data": 5104}, "model": "horizonsend:item/planet/sirius"},
 
-		{"predicate": {"custom_model_data": 5900}, "model": "horizonsend:item/planet/planet_selector"}
+		{"predicate": {"custom_model_data": 5900}, "model": "horizonsend:item/planet/planet_selector"},
+
+		{"predicate": {"custom_model_data": 6000}, "model": "horizonsend:item/ui/starfighter"},
+		{"predicate": {"custom_model_data": 6001}, "model": "horizonsend:item/ui/gunship"},
+		{"predicate": {"custom_model_data": 6002}, "model": "horizonsend:item/ui/corvette"},
+		{"predicate": {"custom_model_data": 6003}, "model": "horizonsend:item/ui/frigate"},
+		{"predicate": {"custom_model_data": 6004}, "model": "horizonsend:item/ui/destroyer"},
+		{"predicate": {"custom_model_data": 6005}, "model": "horizonsend:item/ui/cruiser"},
+		{"predicate": {"custom_model_data": 6006}, "model": "horizonsend:item/ui/battlecruiser"},
+		{"predicate": {"custom_model_data": 6008}, "model": "horizonsend:item/ui/shuttle"},
+		{"predicate": {"custom_model_data": 6009}, "model": "horizonsend:item/ui/transport"},
+		{"predicate": {"custom_model_data": 6010}, "model": "horizonsend:item/ui/light_freighter"},
+		{"predicate": {"custom_model_data": 6011}, "model": "horizonsend:item/ui/medium_freighter"},
+		{"predicate": {"custom_model_data": 6012}, "model": "horizonsend:item/ui/heavy_freighter"},
+		{"predicate": {"custom_model_data": 6013}, "model": "horizonsend:item/ui/barge"},
+		{"predicate": {"custom_model_data": 6016}, "model": "horizonsend:item/ui/planet"},
+		{"predicate": {"custom_model_data": 6017}, "model": "horizonsend:item/ui/star"},
+		{"predicate": {"custom_model_data": 6018}, "model": "horizonsend:item/ui/beacon"},
+		{"predicate": {"custom_model_data": 6019}, "model": "horizonsend:item/ui/station"},
+		{"predicate": {"custom_model_data": 6026}, "model": "horizonsend:item/ui/generic_starship"},
+		{"predicate": {"custom_model_data": 6030}, "model": "horizonsend:item/ui/route_segment"},
+		{"predicate": {"custom_model_data": 6034}, "model": "horizonsend:item/ui/list"},
+		{"predicate": {"custom_model_data": 6035}, "model": "horizonsend:item/ui/compass_needle"},
+		{"predicate": {"custom_model_data": 6036}, "model": "horizonsend:item/ui/bookmark"}
 	]
 }
