@@ -164,6 +164,17 @@
 		{"predicate": {"custom_model_data": 6030}, "model": "horizonsend:item/ui/route_segment"},
 		{"predicate": {"custom_model_data": 6034}, "model": "horizonsend:item/ui/list"},
 		{"predicate": {"custom_model_data": 6035}, "model": "horizonsend:item/ui/compass_needle"},
-		{"predicate": {"custom_model_data": 6036}, "model": "horizonsend:item/ui/bookmark"}
+		{"predicate": {"custom_model_data": 6036}, "model": "horizonsend:item/ui/bookmark"},
+
+		{"predicate": {"custom_model_data": 7000}, "model": "horizonsend:item/tool/modification/drill_aoe_1"},
+		{"predicate": {"custom_model_data": 7001}, "model": "horizonsend:item/tool/modification/drill_aoe_2"},
+		{"predicate": {"custom_model_data": 7002}, "model": "horizonsend:item/tool/modification/drill_vein_miner_25"},
+		{"predicate": {"custom_model_data": 7003}, "model": "horizonsend:item/tool/modification/silk_touch"},
+		{"predicate": {"custom_model_data": 7004}, "model": "horizonsend:item/tool/modification/auto_smelt"},
+		{"predicate": {"custom_model_data": 7005}, "model": "horizonsend:item/tool/modification/fortune_1"},
+		{"predicate": {"custom_model_data": 7006}, "model": "horizonsend:item/tool/modification/fortune_2"},
+		{"predicate": {"custom_model_data": 7007}, "model": "horizonsend:item/tool/modification/fortune_3"},
+		{"predicate": {"custom_model_data": 7008}, "model": "horizonsend:item/tool/modification/power_capacity_25"},
+		{"predicate": {"custom_model_data": 7009}, "model": "horizonsend:item/tool/modification/power_capacity_50"}
 	]
 }
