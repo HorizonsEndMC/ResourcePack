@@ -1,6 +1,0 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "horizonsend:block/misc/modification_table"
-	}
-}

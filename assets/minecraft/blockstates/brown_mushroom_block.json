@@ -259,19 +259,6 @@
 				"up": false,
 				"down": false
 			}
-		},
-		{
-			"apply": {
-				"model": "horizonsend:block/misc/modification_table"
-			},
-			"when": {
-				"north": true,
-				"south": false,
-				"east": true,
-				"west": false,
-				"up": false,
-				"down": true
-			}
 		}
 	]
 }
