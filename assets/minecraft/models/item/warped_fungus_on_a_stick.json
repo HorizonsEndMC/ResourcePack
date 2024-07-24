@@ -175,6 +175,11 @@
 		{"predicate": {"custom_model_data": 7006}, "model": "horizonsend:item/tool/modification/fortune_2"},
 		{"predicate": {"custom_model_data": 7007}, "model": "horizonsend:item/tool/modification/fortune_3"},
 		{"predicate": {"custom_model_data": 7008}, "model": "horizonsend:item/tool/modification/power_capacity_25"},
-		{"predicate": {"custom_model_data": 7009}, "model": "horizonsend:item/tool/modification/power_capacity_50"}
+		{"predicate": {"custom_model_data": 7009}, "model": "horizonsend:item/tool/modification/power_capacity_50"},
+		{"predicate": {"custom_model_data": 7009}, "model": "horizonsend:item/tool/modification/auto_replant"},
+		{"predicate": {"custom_model_data": 7009}, "model": "horizonsend:item/tool/modification/auto_compost"},
+		{"predicate": {"custom_model_data": 7009}, "model": "horizonsend:item/tool/modification/drill_aoe_3"},
+		{"predicate": {"custom_model_data": 7009}, "model": "horizonsend:item/tool/modification/extended_bar"},
+		{"predicate": {"custom_model_data": 7009}, "model": "horizonsend:item/tool/modification/fertilizer_dispenser"}
 	]
 }
