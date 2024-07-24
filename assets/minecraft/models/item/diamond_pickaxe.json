@@ -9,13 +9,55 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "horizonsend:item/tool/power_drill"
+			"model": "horizonsend:item/tool/power_drill_basic"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "horizonsend:item/tool/power_chainsaw"
+			"model": "horizonsend:item/tool/power_chainsaw_basic"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "horizonsend:item/tool/power_hoe_basic"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "horizonsend:item/tool/power_drill_enhanced"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "horizonsend:item/tool/power_chainsaw_enhanced"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "horizonsend:item/tool/power_hoe_enhanced"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "horizonsend:item/tool/power_drill_advanced"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "horizonsend:item/tool/power_chainsaw_advanced"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "horizonsend:item/tool/power_hoe_advanced"
 		}
 	]
 }

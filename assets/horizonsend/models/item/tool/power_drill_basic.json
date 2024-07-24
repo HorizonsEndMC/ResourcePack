@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "minecraft:block/anvil",
-		"2": "horizonsend:item/tool/drill_body",
+		"2": "horizonsend:item/tool/drill_body_basic",
 		"3": "horizonsend:item/tool/drill_bit",
 		"4": "minecraft:block/end_rod",
-		"particle": "horizonsend:item/tool/drill_body"
+		"particle": "horizonsend:item/tool/drill_body_basic"
 	},
 	"elements": [
 		{
