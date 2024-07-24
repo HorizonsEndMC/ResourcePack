@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "horizonsend:item/tool/power_chainsaw_blade",
-		"3": "horizonsend:item/tool/power_chainsaw",
-		"particle": "horizonsend:item/tool/power_chainsaw"
+		"3": "horizonsend:item/tool/power_chainsaw_advanced",
+		"particle": "horizonsend:item/tool/power_chainsaw_advanced"
 	},
 	"elements": [
 		{
