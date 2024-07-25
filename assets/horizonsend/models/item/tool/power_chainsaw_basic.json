@@ -127,16 +127,17 @@
 			"translation": [4, 6, 0]
 		},
 		"ground": {
-			"translation": [0, 6, 0]
+			"translation": [0, 6, 0],
+			"scale": [0.75, 0.75, 0.75]
 		},
 		"gui": {
-			"rotation": [90, -45, 90],
-			"translation": [-5, 0, 0],
-			"scale": [0.75, 0.75, 0.75]
+			"rotation": [30, 135, 0],
+			"translation": [2.25, 4.5, 0],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"fixed": {
 			"rotation": [90, -45, 90],
-			"translation": [-6, 1, 0]
+			"translation": [-6.5, 1, 0]
 		}
 	}
 }
