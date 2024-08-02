@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "horizonsend:item/gas/gas_canister_empty",
-	"texture_size": [32, 32],
-	"textures": {
-		"0": "horizonsend:item/adhesive_tank",
-		"particle": "horizonsend:item/adhesive_tank"
-	}
-}

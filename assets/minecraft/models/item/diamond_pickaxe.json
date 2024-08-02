@@ -58,6 +58,12 @@
 				"custom_model_data": 9
 			},
 			"model": "horizonsend:item/tool/power_hoe_advanced"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "horizonsend:item/tool/crate_placer"
 		}
 	]
 }
