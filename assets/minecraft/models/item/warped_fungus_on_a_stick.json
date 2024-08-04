@@ -165,6 +165,7 @@
 		{"predicate": {"custom_model_data": 6034}, "model": "horizonsend:item/ui/list"},
 		{"predicate": {"custom_model_data": 6035}, "model": "horizonsend:item/ui/compass_needle"},
 		{"predicate": {"custom_model_data": 6036}, "model": "horizonsend:item/ui/bookmark"},
+		{"predicate": {"custom_model_data": 6058}, "model": "horizonsend:item/ui/sound"},
 
 		{"predicate": {"custom_model_data": 7000}, "model": "horizonsend:item/tool/modification/drill_aoe_1"},
 		{"predicate": {"custom_model_data": 7001}, "model": "horizonsend:item/tool/modification/drill_aoe_2"},
