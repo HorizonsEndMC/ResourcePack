@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "horizonsend:item/debug/debug_line",
+	"texture_size": [2, 2],
+	"textures": {
+		"0": "horizonsend:item/debug/debug_line_red",
+		"particle": "horizonsend:item/debug/debug_line_red"
+	}
+}
