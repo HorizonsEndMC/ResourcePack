@@ -90,6 +90,7 @@
 		{"predicate": {"custom_model_data": 1020}, "model": "horizonsend:item/gas/gas_canister_helium"},
 		{"predicate": {"custom_model_data": 1021}, "model": "horizonsend:item/gas/gas_canister_carbon_dioxide"},
 		{"predicate": {"custom_model_data": 1101}, "model": "horizonsend:item/throwables/detonator"},
+		{"predicate": {"custom_model_data": 1103}, "model": "horizonsend:item/throwables/personal_transporter"},
 
 		{"predicate": {"custom_model_data": 2000}, "model": "horizonsend:item/industry/uranium_core"},
 		{"predicate": {"custom_model_data": 2001}, "model": "horizonsend:item/industry/uranium_rod"},
