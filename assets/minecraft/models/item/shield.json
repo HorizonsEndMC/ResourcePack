@@ -229,6 +229,20 @@
 				"blocking": 1
 			},
 			"model": "horizonsend:item/weapon/energy_sword/pink_energy_sword_blocking"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8,
+				"blocking": 0
+			},
+			"model": "horizonsend:item/weapon/energy_sword/black_energy_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8,
+				"blocking": 1
+			},
+			"model": "horizonsend:item/weapon/energy_sword/black_energy_sword_blocking"
 		}
 	]
 }
