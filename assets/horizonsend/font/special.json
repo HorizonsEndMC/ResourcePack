@@ -543,6 +543,15 @@
 			"chars": [
 				"\uF8FD"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/space_back.png",
+			"ascent": 13,
+			"height": 125,
+			"chars": [
+				"\uF8FC"
+			]
 		}
 	]
 }
