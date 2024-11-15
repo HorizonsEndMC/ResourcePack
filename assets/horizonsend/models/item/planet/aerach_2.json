@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "horizonsend:item/planet/base_planet",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "horizonsend:item/planet/aerach_2"
+	}
+}
