@@ -21,6 +21,7 @@
 		{"predicate": {"custom_model_data": 111}, "model": "horizonsend:item/ui/route_undo_gray"},
 		{"predicate": {"custom_model_data": 112}, "model": "horizonsend:item/ui/route_jump_gray"},
 		{"predicate": {"custom_model_data": 113}, "model": "horizonsend:item/ui/route_segment_2"},
+		{"predicate": {"custom_model_data": 114}, "model": "horizonsend:item/ui/checkmark"},
 
 		{"predicate": {"custom_model_data": 201}, "model": "horizonsend:item/planet_icon/aerach"},
 		{"predicate": {"custom_model_data": 202}, "model": "horizonsend:item/planet_icon/aret"},
