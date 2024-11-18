@@ -552,6 +552,24 @@
 			"chars": [
 				"\uF8FC"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/text_extender.png",
+			"ascent": 13,
+			"height": 30,
+			"chars": [
+				"\uF8FB"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/anvil_screen_back.png",
+			"ascent": 13,
+			"height": 74,
+			"chars": [
+				"\uF8FA"
+			]
 		}
 	]
 }
