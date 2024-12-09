@@ -546,7 +546,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "horizonsend:gui/container/space_back.png",
+			"file": "horizonsend:gui/container/space_screen_back.png",
 			"ascent": 13,
 			"height": 125,
 			"chars": [
@@ -569,6 +569,51 @@
 			"height": 74,
 			"chars": [
 				"\uF8FA"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/space_screen_blue_nebula.png",
+			"ascent": 13,
+			"height": 125,
+			"chars": [
+				"\uF8F9"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/space_screen_red_nebula.png",
+			"ascent": 13,
+			"height": 125,
+			"chars": [
+				"\uF8F8"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/space_screen_starry_background.png",
+			"ascent": 13,
+			"height": 125,
+			"chars": [
+				"\uF8F7"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/space_screen_main_hyperspace_routes.png",
+			"ascent": 13,
+			"height": 125,
+			"chars": [
+				"\uF8F6"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/space_screen_minor_hyperspace_routes.png",
+			"ascent": 13,
+			"height": 125,
+			"chars": [
+				"\uF8F5"
 			]
 		}
 	]
