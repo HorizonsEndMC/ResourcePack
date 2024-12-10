@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "horizonsend:item/projectile/activated_arsenal_missile"
+    }
+}

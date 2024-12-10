@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "horizonsend:item/industry/fuel_rod_core"
+    }
+}
