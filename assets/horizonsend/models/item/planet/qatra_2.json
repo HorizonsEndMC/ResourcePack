@@ -1,8 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "horizonsend:item/planet/base_planet",
-	"texture_size": [32, 32],
+	"parent": "minecraft:item/generated",
 	"textures": {
-		"0": "horizonsend:item/planet/qatra_2"
+		"layer0": "horizonsend:item/planet/qatra_2"
 	}
 }
