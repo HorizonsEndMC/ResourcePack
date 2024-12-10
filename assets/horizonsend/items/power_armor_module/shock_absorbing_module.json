@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "horizonsend:item/power_armor_module/shock_absorbing_module"
+    }
+}
