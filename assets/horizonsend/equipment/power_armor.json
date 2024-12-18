@@ -1,0 +1,26 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "dyeable": {
+          "color_when_undyed": -6265536
+        },
+        "texture": "horizonsend:power_armor/power_armor"
+      },
+      {
+        "texture": "horizonsend:power_armor/power_armor_overlay"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "dyeable": {
+          "color_when_undyed": -6265536
+        },
+        "texture": "horizonsend:power_armor/power_armor"
+      },
+      {
+        "texture": "horizonsend:power_armor/power_armor_overlay"
+      }
+    ]
+  }
+}
