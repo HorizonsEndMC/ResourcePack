@@ -2,7 +2,7 @@
     "blaster.hitmarker.standard": {
         "sounds": [
             {
-                "name": "blaster/hitmarker",
+                "name": "horizonsend:blaster/hitmarker",
                 "attenuation_distance": 1,
                 "pitch": 1.0,
                 "volume": 1.0
@@ -12,19 +12,19 @@
     "blaster.dry_shoot": {
         "sounds": [
             {
-                "name": "blaster/dry_shoot",
+                "name": "horizonsend:blaster/dry_shoot",
                 "attenuation_distance": 1,
                 "pitch": 1.0,
                 "volume": 0.5
             },
             {
-                "name": "blaster/dry_shoot",
+                "name": "horizonsend:blaster/dry_shoot",
                 "attenuation_distance": 1,
                 "pitch": 0.95,
                 "volume": 0.5
             },
             {
-                "name": "blaster/dry_shoot",
+                "name": "horizonsend:blaster/dry_shoot",
                 "attenuation_distance": 1,
                 "pitch": 1.05,
                 "volume": 0.5
@@ -34,13 +34,13 @@
     "blaster.whizz.standard": {
         "sounds": [
             {
-                "name": "blaster/whizz_1",
+                "name": "horizonsend:blaster/whizz_1",
                 "attenuation_distance": 4,
                 "pitch": 1.0,
                 "volume": 0.4
             },
             {
-                "name": "blaster/whizz_2",
+                "name": "horizonsend:blaster/whizz_2",
                 "attenuation_distance": 4,
                 "pitch": 1.0,
                 "volume": 0.4
@@ -50,13 +50,13 @@
     "blaster.whizz.sniper": {
         "sounds": [
             {
-                "name": "blaster/whizz_1",
+                "name": "horizonsend:blaster/whizz_1",
                 "attenuation_distance": 4,
                 "pitch": 0.6,
                 "volume": 0.6
             },
             {
-                "name": "blaster/whizz_2",
+                "name": "horizonsend:blaster/whizz_2",
                 "attenuation_distance": 4,
                 "pitch": 0.6,
                 "volume": 0.6
@@ -1048,5 +1048,20 @@
                 "volume": 0.6
             }
         ]
+    },
+    "energy_sword.idle": {
+        "sounds": ["horizonsend:energy_sword/idle"]
+    },
+    "energy_sword.strike": {
+        "sounds": ["horizonsend:energy_sword/strike"]
+    },
+    "energy_sword.off": {
+        "sounds": ["horizonsend:energy_sword/off"]
+    },
+    "energy_sword.on": {
+        "sounds": ["horizonsend:energy_sword/on"]
+    },
+    "energy_sword.swing": {
+        "sounds": ["horizonsend:energy_sword/swing"]
     }
 }
