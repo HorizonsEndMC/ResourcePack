@@ -177,6 +177,7 @@
 		{"predicate": {"custom_model_data": 5216}, "model": "horizonsend:item/planet/rubaciea_2"},
 		{"predicate": {"custom_model_data": 5217}, "model": "horizonsend:item/planet/turms_2"},
 		{"predicate": {"custom_model_data": 5218}, "model": "horizonsend:item/planet/vask_2"},
+		{"predicate": {"custom_model_data": 5219}, "model": "horizonsend:item/planet/empty_star"},
 
 		{"predicate": {"custom_model_data": 5900}, "model": "horizonsend:item/planet/planet_selector"},
 
