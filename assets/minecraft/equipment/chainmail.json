@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "horizonsend:spacesuit/spacesuit"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "horizonsend:spacesuit/spacesuit"
+      }
+    ]
+  }
+}
