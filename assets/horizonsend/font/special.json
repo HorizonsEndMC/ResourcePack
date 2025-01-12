@@ -615,6 +615,15 @@
 			"chars": [
 				"\uF8F5"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/multiblock_workbench.png",
+			"ascent": 13,
+			"height": 120,
+			"chars": [
+				"\uF8F4"
+			]
 		}
 	]
 }
