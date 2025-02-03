@@ -1,12 +1,12 @@
 {
-  "parent": "minecraft:block/cube",
-  "textures": {
-    "particle": "horizonsend:block/misc/multiblock_workbench_side",
-    "north": "horizonsend:block/misc/multiblock_workbench_side",
-    "south": "horizonsend:block/misc/multiblock_workbench_side",
-    "east": "horizonsend:block/misc/multiblock_workbench_side",
-    "west": "horizonsend:block/misc/multiblock_workbench_side",
-    "up": "horizonsend:block/misc/multiblock_workbench_top",
-    "down": "horizonsend:block/misc/multiblock_workbench_bottom"
-  }
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"particle": "horizonsend:block/misc/multiblock_workbench_side",
+		"north": "horizonsend:block/misc/multiblock_workbench_side",
+		"south": "horizonsend:block/misc/multiblock_workbench_side",
+		"east": "horizonsend:block/misc/multiblock_workbench_side",
+		"west": "horizonsend:block/misc/multiblock_workbench_side",
+		"up": "horizonsend:block/misc/multiblock_workbench_top",
+		"down": "horizonsend:block/misc/multiblock_workbench_bottom"
+	}
 }
