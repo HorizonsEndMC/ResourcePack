@@ -9,6 +9,16 @@
 				"axis": "x",
 				"natural": false
 			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/misc/item_filter"
+			},
+			"when": {
+				"active": false,
+				"axis": "z",
+				"natural": false
+			}
 		}
 	]
 }
