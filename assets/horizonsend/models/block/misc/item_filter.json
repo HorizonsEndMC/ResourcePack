@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"particle": "horizonsend:block/misc/item_filter_side",
+		"north": "horizonsend:block/misc/item_filter_side",
+		"south": "horizonsend:block/misc/item_filter_side",
+		"east": "horizonsend:block/misc/item_filter_side",
+		"west": "horizonsend:block/misc/item_filter_side",
+		"up": "horizonsend:block/misc/item_filter_top",
+		"down": "minecraft:block/crafting_table_bottom"
+	}
+}
