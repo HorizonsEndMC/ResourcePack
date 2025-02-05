@@ -37,6 +37,15 @@
 			"chars": [
 				"\uF8F4"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/advanced_ship_factory.png",
+			"ascent": 23,
+			"height": 136,
+			"chars": [
+				"\uF8F3"
+			]
 		}
 	]
 }
