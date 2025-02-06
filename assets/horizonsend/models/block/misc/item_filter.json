@@ -7,6 +7,6 @@
 		"east": "horizonsend:block/misc/item_filter_side",
 		"west": "horizonsend:block/misc/item_filter_side",
 		"up": "horizonsend:block/misc/item_filter_top",
-		"down": "minecraft:block/crafting_table_bottom"
+		"down": "horizonsend:block/misc/item_filter_bottom"
 	}
 }
