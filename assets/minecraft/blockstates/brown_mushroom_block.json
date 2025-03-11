@@ -262,10 +262,10 @@
 		},
 		{
 			"apply": {
-				"model": "horizonsend:block/misc/multiblock_workbench"
+				"model": "horizonsend:block/misc/multiblock_core"
 			},
 			"when": {
-				"north": true,
+				"north": false,
 				"south": false,
 				"east": true,
 				"west": false,
