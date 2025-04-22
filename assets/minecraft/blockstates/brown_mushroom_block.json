@@ -262,6 +262,19 @@
 		},
 		{
 			"apply": {
+				"model": "horizonsend:block/starship/light_barge_reactor_core"
+			},
+			"when": {
+				"north": true,
+				"south": false,
+				"east": true,
+				"west": true,
+				"up": false,
+				"down": true
+			}
+		},
+		{
+			"apply": {
 				"model": "horizonsend:block/misc/multiblock_workbench"
 			},
 			"when": {
