@@ -633,6 +633,15 @@
 			"chars": [
 				"\uF8F3"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/bazaar_buy_order_menu.png",
+			"ascent": 13,
+			"height": 130,
+			"chars": [
+				"\uF8F2"
+			]
 		}
 	]
 }
