@@ -37,6 +37,33 @@
 			"chars": [
 				"\uF8FD"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/text_input_left.png",
+			"ascent": -94,
+			"height": 18,
+			"chars": [
+				"\uF8F1"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/text_input_center.png",
+			"ascent": -94,
+			"height": 18,
+			"chars": [
+				"\uF8F0"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/text_input_right.png",
+			"ascent": -94,
+			"height": 18,
+			"chars": [
+				"\uF8EF"
+			]
 		}
 	]
 }
