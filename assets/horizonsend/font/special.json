@@ -669,6 +669,15 @@
 			"chars": [
 				"\uF8EF"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/confirmation.png",
+			"ascent": 13,
+			"height": 71,
+			"chars": [
+				"\uF8EE"
+			]
 		}
 	]
 }
