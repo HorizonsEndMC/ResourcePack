@@ -59,10 +59,55 @@
 		{
 			"type": "bitmap",
 			"file": "horizonsend:gui/container/text_input_right.png",
-			"ascent": -94,
+			"ascent": -88,
 			"height": 18,
 			"chars": [
 				"\uF8EF"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/pencil.png",
+			"ascent": -88,
+			"height": 30,
+			"chars": [
+				"\uF8ED"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/trashcan.png",
+			"ascent": -88,
+			"height": 30,
+			"chars": [
+				"\uF8EC"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/checkmark.png",
+			"ascent": -87,
+			"height": 30,
+			"chars": [
+				"\uF8EB"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/empty.png",
+			"ascent": -87,
+			"height": 30,
+			"chars": [
+				"\uF8E9"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/icon_border.png",
+			"ascent": -93,
+			"height": 32,
+			"chars": [
+				"\uF8EA"
 			]
 		}
 	]
