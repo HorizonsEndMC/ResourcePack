@@ -59,7 +59,7 @@
 		{
 			"type": "bitmap",
 			"file": "horizonsend:gui/container/text_input_right.png",
-			"ascent": -88,
+			"ascent": -94,
 			"height": 18,
 			"chars": [
 				"\uF8EF"
