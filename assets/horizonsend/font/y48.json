@@ -94,6 +94,15 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "horizonsend:gui/icon/cross.png",
+			"ascent": -34,
+			"height": 30,
+			"chars": [
+				"\uF8E6"
+			]
+		},
+		{
+			"type": "bitmap",
 			"file": "horizonsend:gui/icon/empty.png",
 			"ascent": -34,
 			"height": 30,
