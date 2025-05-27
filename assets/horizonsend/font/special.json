@@ -741,6 +741,15 @@
 			"chars": [
 				"\uF8E7"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/bazaar_listing.png",
+			"ascent": 28,
+			"height": 32,
+			"chars": [
+				"\uF8EE"
+			]
 		}
 	]
 }
