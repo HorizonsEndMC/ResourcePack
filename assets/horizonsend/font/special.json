@@ -674,7 +674,7 @@
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/pencil.png",
 			"ascent": 6,
-			"height": 30,
+			"height": 46,
 			"chars": [
 				"\uF8ED"
 			]
@@ -683,7 +683,7 @@
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/trashcan.png",
 			"ascent": 6,
-			"height": 30,
+			"height": 46,
 			"chars": [
 				"\uF8EC"
 			]
@@ -692,7 +692,7 @@
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/checkmark.png",
 			"ascent": 6,
-			"height": 30,
+			"height": 46,
 			"chars": [
 				"\uF8EB"
 			]
@@ -701,7 +701,7 @@
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/cross.png",
 			"ascent": 6,
-			"height": 30,
+			"height": 46,
 			"chars": [
 				"\uF8E6"
 			]
@@ -710,7 +710,7 @@
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/empty.png",
 			"ascent": 6,
-			"height": 30,
+			"height": 46,
 			"chars": [
 				"\uF8E9"
 			]
@@ -719,7 +719,7 @@
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/icon_border.png",
 			"ascent": 7,
-			"height": 32,
+			"height": 48,
 			"chars": [
 				"\uF8EA"
 			]
