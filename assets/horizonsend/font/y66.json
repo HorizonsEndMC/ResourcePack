@@ -118,6 +118,24 @@
 			"chars": [
 				"\uF8EA"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/deposit.png",
+			"ascent": -44,
+			"height": 46,
+			"chars": [
+				"\uF8E5"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/withdraw.png",
+			"ascent": -44,
+			"height": 46,
+			"chars": [
+				"\uF8E4"
+			]
 		}
 	]
 }
