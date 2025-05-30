@@ -768,6 +768,15 @@
 			"chars": [
 				"\uF8E4"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/slot.png",
+			"ascent": -2,
+			"height": 16,
+			"chars": [
+				"\uF8E3"
+			]
 		}
 	]
 }
