@@ -40,6 +40,15 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "horizonsend:gui/icon/slot.png",
+			"ascent": -77,
+			"height": 16,
+			"chars": [
+				"\uF8E3"
+			]
+		},
+		{
+			"type": "bitmap",
 			"file": "horizonsend:gui/container/text_input_left.png",
 			"ascent": -76,
 			"height": 18,
