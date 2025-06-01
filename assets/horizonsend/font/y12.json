@@ -145,6 +145,24 @@
 			"chars": [
 				"\uF8E4"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/bazaar_order.png",
+			"ascent": -6,
+			"height": 32,
+			"chars": [
+				"\uF8E7"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/bazaar_listing.png",
+			"ascent": -6,
+			"height": 32,
+			"chars": [
+				"\uF8EE"
+			]
 		}
 	]
 }
