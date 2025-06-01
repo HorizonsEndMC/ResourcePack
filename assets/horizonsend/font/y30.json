@@ -77,7 +77,7 @@
 		{
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/pencil.png",
-			"ascent": -6,
+			"ascent": -8,
 			"height": 46,
 			"chars": [
 				"\uF8ED"
@@ -86,7 +86,7 @@
 		{
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/trashcan.png",
-			"ascent": -6,
+			"ascent": -8,
 			"height": 46,
 			"chars": [
 				"\uF8EC"
@@ -95,7 +95,7 @@
 		{
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/checkmark.png",
-			"ascent": -6,
+			"ascent": -8,
 			"height": 46,
 			"chars": [
 				"\uF8EB"
@@ -104,7 +104,7 @@
 		{
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/cross.png",
-			"ascent": -6,
+			"ascent": -8,
 			"height": 46,
 			"chars": [
 				"\uF8E6"
@@ -113,7 +113,7 @@
 		{
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/empty.png",
-			"ascent": -6,
+			"ascent": -8,
 			"height": 46,
 			"chars": [
 				"\uF8E9"
@@ -122,7 +122,7 @@
 		{
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/icon_border.png",
-			"ascent": -5,
+			"ascent": -7,
 			"height": 48,
 			"chars": [
 				"\uF8EA"
@@ -131,7 +131,7 @@
 		{
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/deposit.png",
-			"ascent": -6,
+			"ascent": -8,
 			"height": 46,
 			"chars": [
 				"\uF8E5"
@@ -140,10 +140,28 @@
 		{
 			"type": "bitmap",
 			"file": "horizonsend:gui/icon/withdraw.png",
-			"ascent": -6,
+			"ascent": -8,
 			"height": 46,
 			"chars": [
 				"\uF8E4"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/bazaar_order.png",
+			"ascent": -24,
+			"height": 32,
+			"chars": [
+				"\uF8E7"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/bazaar_listing.png",
+			"ascent": -24,
+			"height": 32,
+			"chars": [
+				"\uF8EE"
 			]
 		}
 	]
