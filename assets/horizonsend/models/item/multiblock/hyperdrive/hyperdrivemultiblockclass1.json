@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/hopper_outside",
 		"1": "minecraft:block/note_block",
-		"2": "minecraft:block/black_stained_glass",
+		"2": "minecraft:block/glass",
 		"3": "minecraft:block/sponge",
 		"particle": "block/iron_block"
 	},

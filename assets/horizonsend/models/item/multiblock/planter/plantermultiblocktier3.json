@@ -6,7 +6,7 @@
 		"2": "minecraft:block/furnace_side",
 		"3": "minecraft:block/sponge",
 		"4": "minecraft:block/emerald_block",
-		"5": "minecraft:block/black_stained_glass",
+		"5": "minecraft:block/glass",
 		"particle": "block/iron_block"
 	},
 	"elements": [

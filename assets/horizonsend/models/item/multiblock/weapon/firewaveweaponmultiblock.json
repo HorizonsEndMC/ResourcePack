@@ -6,7 +6,7 @@
 		"2": "minecraft:block/stone_bricks",
 		"3": "minecraft:block/magma",
 		"4": "horizonsend:block/mineral/aluminum_block",
-		"5": "minecraft:block/black_stained_glass",
+		"5": "minecraft:block/glass",
 		"6": "minecraft:block/furnace_side",
 		"particle": "block/iron_block"
 	},

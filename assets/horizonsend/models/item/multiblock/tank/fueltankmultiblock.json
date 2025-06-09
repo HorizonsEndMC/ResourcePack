@@ -5,7 +5,7 @@
 		"1": "minecraft:block/iron_block",
 		"2": "minecraft:block/oak_planks",
 		"3": "block/end_portal_frame_side",
-		"4": "minecraft:block/black_stained_glass",
+		"4": "minecraft:block/glass",
 		"5": "horizonsend:block/mineral/titanium_block",
 		"6": "minecraft:block/redstone_block",
 		"particle": "block/iron_block"
