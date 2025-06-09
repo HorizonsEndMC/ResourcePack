@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "minecraft:block/copper_block",
 		"1": "minecraft:block/shroomlight",
-		"2": "minecraft:block/black_stained_glass",
+		"2": "minecraft:block/glass",
 		"3": "minecraft:block/furnace_side",
 		"particle": "block/iron_block"
 	},

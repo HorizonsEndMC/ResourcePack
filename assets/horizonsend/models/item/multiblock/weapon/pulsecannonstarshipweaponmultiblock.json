@@ -2,7 +2,7 @@
 	"credit": "GOOTAN",
 	"textures": {
 		"0": "minecraft:block/sponge",
-		"1": "minecraft:block/black_stained_glass",
+		"1": "minecraft:block/glass",
 		"particle": "block/iron_block"
 	},
 	"elements": [

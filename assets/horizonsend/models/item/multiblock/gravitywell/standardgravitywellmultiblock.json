@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "minecraft:block/oak_planks",
 		"1": "minecraft:block/stone_bricks",
-		"2": "minecraft:block/black_stained_glass",
+		"2": "minecraft:block/glass",
 		"3": "minecraft:block/iron_block",
 		"4": "minecraft:block/sponge",
 		"5": "minecraft:block/diamond_block",

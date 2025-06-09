@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "minecraft:block/iron_block",
 		"1": "minecraft:block/sponge",
-		"2": "minecraft:block/black_stained_glass",
+		"2": "minecraft:block/glass",
 		"particle": "block/iron_block"
 	},
 	"elements": [
