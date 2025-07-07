@@ -1,0 +1,62 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "horizonsend:block/pipe/fluid_pipe"
+			},
+			"when": {
+				"north": false,
+				"south": false,
+				"east": false,
+				"west": false,
+				"up": true,
+				"down": true
+			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/pipe/fluid_pipe",
+				"x": -90,
+				"y": 270
+			},
+			"when": {
+				"north": false,
+				"south": false,
+				"east": true,
+				"west": true,
+				"up": false,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/pipe/fluid_pipe",
+				"x": -90,
+				"y": 0
+			},
+			"when": {
+				"north": true,
+				"south": true,
+				"east": false,
+				"west": false,
+				"up": false,
+				"down": false
+			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/pipe/fluid_pipe_junction",
+				"x": -90,
+				"y": 0
+			},
+			"when": {
+				"north": true,
+				"south": true,
+				"east": true,
+				"west": true,
+				"up": true,
+				"down": true
+			}
+		}
+	]
+}
