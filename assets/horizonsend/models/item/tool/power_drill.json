@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"0": "horizonsend:item/tool/drill_body",
 		"1": "minecraft:block/anvil",
-		"2": "horizonsend:item/tool/drill_body_basic",
 		"3": "horizonsend:item/tool/drill_bit",
 		"4": "minecraft:block/end_rod",
-		"particle": "horizonsend:item/tool/drill_body_basic"
+		"particle": "horizonsend:item/tool/drill_body"
 	},
 	"elements": [
 		{
@@ -267,7 +267,8 @@
 						10,
 						7
 					],
-					"texture": "#2"
+					"tintindex": 0,
+					"texture": "0"
 				},
 				"east": {
 					"uv": [
@@ -276,7 +277,8 @@
 						5,
 						7
 					],
-					"texture": "#2"
+					"tintindex": 0,
+					"texture": "0"
 				},
 				"south": {
 					"uv": [
@@ -285,7 +287,8 @@
 						10,
 						14
 					],
-					"texture": "#2"
+					"tintindex": 0,
+					"texture": "0"
 				},
 				"west": {
 					"uv": [
@@ -294,7 +297,8 @@
 						5,
 						14
 					],
-					"texture": "#2"
+					"tintindex": 0,
+					"texture": "0"
 				},
 				"up": {
 					"uv": [
@@ -303,7 +307,8 @@
 						10,
 						0
 					],
-					"texture": "#2"
+					"tintindex": 0,
+					"texture": "0"
 				},
 				"down": {
 					"uv": [
@@ -312,7 +317,8 @@
 						10,
 						10
 					],
-					"texture": "#2"
+					"tintindex": 0,
+					"texture": "0"
 				}
 			}
 		},
