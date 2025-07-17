@@ -163,6 +163,24 @@
 			"chars": [
 				"\uF8EE"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/bazaar_order_manage.png",
+			"ascent": -42,
+			"height": 32,
+			"chars": [
+				"\uF8E7"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/icon/bazaar_listing_manage.png",
+			"ascent": -42,
+			"height": 32,
+			"chars": [
+				"\uF8EE"
+			]
 		}
 	]
 }
