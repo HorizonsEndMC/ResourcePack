@@ -1,0 +1,7 @@
+{
+	"parent": "horizonsend:block/dyeable_cube",
+	"textures": {
+		"all": "horizonsend:block/misc/dyeable_cube",
+		"particle": "horizonsend:block/misc/dyeable_cube"
+	}
+}
