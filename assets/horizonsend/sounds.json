@@ -720,8 +720,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/heavy_laser/shoot_near",
-				"attenuation_distance": 48,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_laser/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_laser/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -730,8 +742,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/heavy_laser/shoot_far",
-				"attenuation_distance": 48,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_laser/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_laser/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -740,8 +764,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/heavy_turret/shoot_near",
-				"attenuation_distance": 24,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -750,8 +786,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/heavy_turret/shoot_far",
-				"attenuation_distance": 24,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -760,8 +808,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/ion_turret/shoot_near",
-				"attenuation_distance": 36,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/ion_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/ion_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -770,8 +830,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/ion_turret/shoot_far",
-				"attenuation_distance": 36,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/ion_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/ion_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -780,8 +852,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/laser_cannon/shoot_near",
-				"attenuation_distance": 36,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/laser_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/laser_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -790,8 +874,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/laser_cannon/shoot_far",
-				"attenuation_distance": 36,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/laser_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/laser_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -800,8 +896,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/light_turret/shoot_near",
-				"attenuation_distance": 24,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/light_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/light_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -810,8 +918,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/light_turret/shoot_far",
-				"attenuation_distance": 24,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/light_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/light_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -880,8 +1000,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/phaser/shoot_near",
-				"attenuation_distance": 16,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/phaser/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/phaser/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -890,8 +1022,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/phaser/shoot_far",
-				"attenuation_distance": 16,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/phaser/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/phaser/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -900,8 +1044,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/plasma_cannon/shoot_near",
-				"attenuation_distance": 16,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/plasma_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/plasma_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -910,8 +1066,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/plasma_cannon/shoot_far",
-				"attenuation_distance": 16,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/plasma_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/plasma_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -920,8 +1088,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/point_defense/shoot_near",
-				"attenuation_distance": 16,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/point_defense/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/point_defense/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -930,8 +1110,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/point_defense/shoot_far",
-				"attenuation_distance": 16,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/point_defense/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/point_defense/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -940,8 +1132,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/pulse_cannon/shoot_near",
-				"attenuation_distance": 36,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/pulse_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/pulse_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -950,8 +1154,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/pulse_cannon/shoot_far",
-				"attenuation_distance": 36,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/pulse_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/pulse_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -960,8 +1176,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/quad_turret/shoot_near",
-				"attenuation_distance": 36,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/quad_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/quad_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -970,8 +1198,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/quad_turret/shoot_far",
-				"attenuation_distance": 36,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/quad_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/quad_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -1082,8 +1322,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/torpedo/shoot_near",
-				"attenuation_distance": 36,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/torpedo/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/torpedo/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -1092,8 +1344,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/torpedo/shoot_far",
-				"attenuation_distance": 36,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/torpedo/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/torpedo/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -1102,8 +1366,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/tri_turret/shoot_near",
-				"attenuation_distance": 36,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/tri_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/tri_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
@@ -1112,8 +1388,20 @@
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/tri_turret/shoot_far",
-				"attenuation_distance": 36,
+				"attenuation_distance": 128,
 				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/tri_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/tri_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
 				"volume": 1.0
 			}
 		]
