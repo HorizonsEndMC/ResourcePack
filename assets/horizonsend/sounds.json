@@ -609,6 +609,7 @@
 			}
 		]
 	},
+
 	"starship.explosion.battlecruiser": {
 		"sounds": [
 			{
@@ -626,6 +627,66 @@
 				"attenuation_distance": 48,
 				"pitch": 1.0,
 				"volume": 0.5
+			}
+		]
+	},
+	"starship.explosion.fighter.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/explosion/fighter/near",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.explosion.fighter.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/explosion/fighter/far",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.explosion.small.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/explosion/small/near",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.explosion.small.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/explosion/small/far",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.explosion.large.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/explosion/large/near",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.explosion.large.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/explosion/large/far",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
 			}
 		]
 	},
@@ -1089,19 +1150,19 @@
 			{
 				"name": "horizonsend:starship/weapon/point_defense/shoot_near",
 				"attenuation_distance": 128,
-				"pitch": 1.0,
+				"pitch": 1.5,
 				"volume": 1.0
 			},
 			{
 				"name": "horizonsend:starship/weapon/point_defense/shoot_near",
 				"attenuation_distance": 128,
-				"pitch": 0.95,
+				"pitch": 1.45,
 				"volume": 1.0
 			},
 			{
 				"name": "horizonsend:starship/weapon/point_defense/shoot_near",
 				"attenuation_distance": 128,
-				"pitch": 1.05,
+				"pitch": 1.55,
 				"volume": 1.0
 			}
 		]
@@ -1111,19 +1172,19 @@
 			{
 				"name": "horizonsend:starship/weapon/point_defense/shoot_far",
 				"attenuation_distance": 128,
-				"pitch": 1.0,
+				"pitch": 1.5,
 				"volume": 1.0
 			},
 			{
 				"name": "horizonsend:starship/weapon/point_defense/shoot_far",
 				"attenuation_distance": 128,
-				"pitch": 0.95,
+				"pitch": 1.45,
 				"volume": 1.0
 			},
 			{
 				"name": "horizonsend:starship/weapon/point_defense/shoot_far",
 				"attenuation_distance": 128,
-				"pitch": 1.05,
+				"pitch": 1.55,
 				"volume": 1.0
 			}
 		]
