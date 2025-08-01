@@ -1,6 +1,12 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "horizonsend:item/tool/power_chainsaw_basic"
+        "model": "horizonsend:item/tool/power_chainsaw",
+		"tints": [
+            {
+                "type": "minecraft:dye",
+                "default": -94144
+            }
+		]
     }
 }
