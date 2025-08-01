@@ -1,6 +1,12 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "horizonsend:item/tool/power_hoe_enhanced"
+        "model": "horizonsend:item/tool/power_hoe",
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": -10422383
+			}
+		]
     }
 }

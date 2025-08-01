@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "horizonsend:item/tool/power_hoe_basic",
-	"textures": {
-		"1": "horizonsend:item/tool/power_hoe_enhanced",
-		"2": "horizonsend:item/tool/power_hoe_teeth",
-		"particle": "horizonsend:item/tool/power_hoe_enhanced"
-	}
-}
