@@ -1,0 +1,12 @@
+{
+    "model": {
+		"type": "minecraft:model",
+		"model": "horizonsend:block/misc/dyeable_cube_mono",
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": -2136971968
+			}
+		]
+    }
+}

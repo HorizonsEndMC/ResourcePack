@@ -1,864 +1,1052 @@
 {
-    "blaster.hitmarker.standard": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/hitmarker",
-                "attenuation_distance": 1,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-    "blaster.dry_shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/dry_shoot",
-                "attenuation_distance": 1,
-                "pitch": 1.0,
-                "volume": 0.5
-            },
-            {
-                "name": "horizonsend:blaster/dry_shoot",
-                "attenuation_distance": 1,
-                "pitch": 0.95,
-                "volume": 0.5
-            },
-            {
-                "name": "horizonsend:blaster/dry_shoot",
-                "attenuation_distance": 1,
-                "pitch": 1.05,
-                "volume": 0.5
-            }
-        ]
-    },
-    "blaster.whizz.standard": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/whizz_1",
-                "attenuation_distance": 4,
-                "pitch": 1.0,
-                "volume": 0.4
-            },
-            {
-                "name": "horizonsend:blaster/whizz_2",
-                "attenuation_distance": 4,
-                "pitch": 1.0,
-                "volume": 0.4
-            }
-        ]
-    },
-    "blaster.whizz.sniper": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/whizz_1",
-                "attenuation_distance": 4,
-                "pitch": 0.6,
-                "volume": 0.6
-            },
-            {
-                "name": "horizonsend:blaster/whizz_2",
-                "attenuation_distance": 4,
-                "pitch": 0.6,
-                "volume": 0.6
-            }
-        ]
-    },
-    "blaster.impact.standard": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/impact_1",
-                "attenuation_distance": 4,
-                "pitch": 1.0,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/impact_2",
-                "attenuation_distance": 4,
-                "pitch": 1.0,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/impact_1",
-                "attenuation_distance": 4,
-                "pitch": 0.8,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/impact_2",
-                "attenuation_distance": 4,
-                "pitch": 0.8,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/impact_1",
-                "attenuation_distance": 4,
-                "pitch": 1.2,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/impact_2",
-                "attenuation_distance": 4,
-                "pitch": 1.2,
-                "volume": 0.05
-            }
-        ]
-    },
-    "blaster.pistol.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/pistol/shoot",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:blaster/pistol/shoot",
-                "attenuation_distance": 32,
-                "pitch": 0.9,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:blaster/pistol/shoot",
-                "attenuation_distance": 32,
-                "pitch": 1.1,
-                "volume": 0.2
-            }
-        ]
-    },
-    "blaster.pistol.shell": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/pistol/shell_1",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/pistol/shell_2",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/pistol/shell_3",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            }
-        ]
-    },
-    "blaster.pistol.reload.start": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/pistol/reload_start",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-    "blaster.pistol.reload.finish": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/pistol/reload_finish",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-    "blaster.rifle.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/rifle/shoot",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:blaster/rifle/shoot",
-                "attenuation_distance": 32,
-                "pitch": 0.9,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:blaster/rifle/shoot",
-                "attenuation_distance": 32,
-                "pitch": 1.1,
-                "volume": 0.2
-            }
-        ]
-    },
-    "blaster.rifle.shell": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/rifle/shell_1",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/rifle/shell_2",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/rifle/shell_3",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            }
-        ]
-    },
-    "blaster.rifle.reload.start": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/rifle/reload_start",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-    "blaster.rifle.reload.finish": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/rifle/reload_finish",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-    "blaster.sniper.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/sniper/shoot",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 0.8
-            },
-            {
-                "name": "horizonsend:blaster/sniper/shoot",
-                "attenuation_distance": 32,
-                "pitch": 1.2,
-                "volume": 0.8
-            },
-            {
-                "name": "horizonsend:blaster/sniper/shoot",
-                "attenuation_distance": 32,
-                "pitch": 0.8,
-                "volume": 0.8
-            }
-        ]
-    },
-    "blaster.sniper.shell": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/sniper/shell_1",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/sniper/shell_2",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/sniper/shell_3",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            }
-        ]
-    },
-    "blaster.sniper.reload.start": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/sniper/reload_start",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-    "blaster.sniper.reload.finish": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/sniper/reload_finish",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-    "blaster.shotgun.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/shotgun/shoot",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:blaster/shotgun/shoot",
-                "attenuation_distance": 32,
-                "pitch": 0.9,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:blaster/shotgun/shoot",
-                "attenuation_distance": 32,
-                "pitch": 1.1,
-                "volume": 0.2
-            }
-        ]
-    },
-    "blaster.shotgun.shell": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/shotgun/shell_1",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.1
-            },
-            {
-                "name": "horizonsend:blaster/shotgun/shell_2",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.1
-            },
-            {
-                "name": "horizonsend:blaster/shotgun/shell_3",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.1
-            }
-        ]
-    },
-    "blaster.shotgun.reload.start": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/shotgun/reload_start",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-    "blaster.shotgun.reload.finish": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/shotgun/reload_finish",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-    "blaster.submachine_blaster.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/submachine_blaster/shoot",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:blaster/submachine_blaster/shoot",
-                "attenuation_distance": 32,
-                "pitch": 0.9,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:blaster/submachine_blaster/shoot",
-                "attenuation_distance": 32,
-                "pitch": 1.1,
-                "volume": 0.2
-            }
-        ]
-    },
-    "blaster.submachine_blaster.shell": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/pistol/shell_1",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/pistol/shell_2",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/pistol/shell_3",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            }
-        ]
-    },
-    "blaster.submachine_blaster.reload.start": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/submachine_blaster/reload_start",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-    "blaster.submachine_blaster.reload.finish": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/submachine_blaster/reload_finish",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-    "blaster.cannon.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/cannon/shoot",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:blaster/cannon/shoot",
-                "attenuation_distance": 32,
-                "pitch": 0.9,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:blaster/cannon/shoot",
-                "attenuation_distance": 32,
-                "pitch": 1.1,
-                "volume": 0.2
-            }
-        ]
-    },
-    "blaster.cannon.shell": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/pistol/shell_1",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/pistol/shell_2",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            },
-            {
-                "name": "horizonsend:blaster/pistol/shell_3",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.05
-            }
-        ]
-    },
-    "blaster.cannon.reload.start": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/cannon/reload_start",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-    "blaster.cannon.reload.finish": {
-        "sounds": [
-            {
-                "name": "horizonsend:blaster/cannon/reload_finish",
-                "attenuation_distance": 32,
-                "pitch": 1.0,
-                "volume": 1.0
-            }
-        ]
-    },
-  "industry.mload": {
-	"sounds": [
-	  {
-		"name": "horizonsend:industry/mload",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	  }
-	]
-  },
-  "industry.centrifuge": {
-	"sounds": [
-	  {
-		"name": "horizonsend:industry/centrifuge",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	  }
-	]
-  },
-  "industry.press": {
-	"sounds": [
-	  {
-		"name": "horizonsend:industry/press",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	  }
-	]
-  },
-  "industry.load": {
-	"sounds": [
-	  {
-		"name": "horizonsend:industry/load",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	  }
-	]
-  },
-  "industry.compress": {
-	"sounds": [
-	  {
-		"name": "horizonsend:industry/compress",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	  }
-	]
-  },
-  "industry.cirfab": {
-	"sounds": [
-	  {
-		"name": "horizonsend:industry/cirfab",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	  }
-	]
-  },
-  "industry.fabricate": {
-	"sounds": [
-	  {
-		"name": "horizonsend:industry/fabricate",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	  }
-	]
-  },
-   "starship.supercapital.hyperspace_enter": {
-	"sounds": [
-	   {
-		"name": "horizonsend:starship/supercapital/hyperspace_enter",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	   }
-	]
-},
-   "starship.release.battlecruiser": {
-	"sounds": [
-	   {
-		"name": "horizonsend:starship/supercapital/release/battlecruiser",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	   }
-	]
-},
-    "starship.release.cruiser": {
-	"sounds": [
-	   {
-		"name": "horizonsend:starship/supercapital/release/cruiser",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	   }
-	]
-},
-   "starship.pilot.battlecruiser": {
-	"sounds": [
-	   {
-		"name": "horizonsend:starship/supercapital/pilot/battlecruiser",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	   }
-	]
-},
-    "starship.pilot.cruiser": {
-	"sounds": [
-	   {
-		"name": "horizonsend:starship/supercapital/pilot/cruiser",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	   }
-	]
-},
-   "starship.explosion.battlecruiser": {
-	"sounds": [
-	   {
-		"name": "horizonsend:starship/supercapital/explosion/battlecruiser",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	   }
-	]
-},
-    "starship.explosion.cruiser": {
-	"sounds": [
-	   {
-		"name": "horizonsend:starship/supercapital/explosion/cruiser",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	   }
-	]
-},
-    "starship.weapon.heavy_laser.single.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/heavy_laser/shoot",
-                "attenuation_distance": 48,
-                "pitch": 1.0,
-                "volume": 0.5
-            }
-        ]
-    },
-  "starship.weapon.arsenal_missile.shoot": {
-	"sounds": [
-	  {
-		"name": "horizonsend:starship/weapon/arsenal_missile/shoot",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	  }
-	]
-  },
-  "starship.weapon.arsenal_missile.ignite": {
-	"sounds": [
-	  {
-		"name": "horizonsend:starship/weapon/arsenal_missile/ignite",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	  }
-	]
-  },
-  "starship.weapon.arsenal_missile.impact": {
-	"sounds": [
-	  {
-		"name": "horizonsend:starship/weapon/arsenal_missile/impact",
-		"attenuation_distance": 48,
-		"pitch": 1.0,
-		"volume": 0.5
-	  }
-	]
-  },
-    "starship.weapon.heavy_laser.burst.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/heavy_laser/shoot_burst",
-                "attenuation_distance": 48,
-                "pitch": 1.0,
-                "volume": 0.5
-            }
-        ]
-    },
-    "starship.weapon.turbolaser.light.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/heavy_turret/shoot",
-                "attenuation_distance": 24,
-                "pitch": 1.55,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:starship/weapon/heavy_turret/shoot",
-                "attenuation_distance": 24,
-                "pitch": 1.6,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:starship/weapon/heavy_turret/shoot",
-                "attenuation_distance": 24,
-                "pitch": 1.65,
-                "volume": 0.2
-            }
-        ]
-    },
-    "starship.weapon.turbolaser.heavy.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/heavy_turret/shoot",
-                "attenuation_distance": 24,
-                "pitch": 0.55,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:starship/weapon/heavy_turret/shoot",
-                "attenuation_distance": 24,
-                "pitch": 0.6,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:starship/weapon/heavy_turret/shoot",
-                "attenuation_distance": 24,
-                "pitch": 0.65,
-                "volume": 0.2
-            }
-        ]
-    },
-    "starship.weapon.turbolaser.tri.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/tri_turret/shoot",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.5
-            },
-            {
-                "name": "horizonsend:starship/weapon/tri_turret/shoot",
-                "attenuation_distance": 36,
-                "pitch": 1.1,
-                "volume": 0.5
-            },
-            {
-                "name": "horizonsend:starship/weapon/tri_turret/shoot",
-                "attenuation_distance": 36,
-                "pitch": 1.2,
-                "volume": 0.5
-            }
-        ]
-    },
-	"starship.weapon.turbolaser.ion.shoot": {
-	"sounds": [
-	  {
-		"name": "horizonsend:starship/weapon/ion_turret/shoot",
-		"attenuation_distance": 36,
-		"pitch": 1.0,
-		"volume": 0.5
-	  },
-	  {
-		"name": "horizonsend:starship/weapon/ion_turret/shoot",
-		"attenuation_distance": 36,
-		"pitch": 1.1,
-		"volume": 0.5
-	  },
-	  {
-		"name": "horizonsend:starship/weapon/ion_turret/shoot",
-		"attenuation_distance": 36,
-		"pitch": 1.2,
-		"volume": 0.5
-	  }
-	]
-  },
-	    "starship.weapon.turbolaser.quad.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/quad_turret/shoot",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.5
-            },
-            {
-                "name": "horizonsend:starship/weapon/quad_turret/shoot",
-                "attenuation_distance": 36,
-                "pitch": 1.1,
-                "volume": 0.5
-            },
-            {
-                "name": "horizonsend:starship/weapon/quad_turret/shoot",
-                "attenuation_distance": 36,
-                "pitch": 1.2,
-                "volume": 0.5
-            }
-        ]
-    },
-    "starship.weapon.plasma_cannon.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/plasma_cannon/shoot_1",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:starship/weapon/plasma_cannon/shoot_2",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.2
-            },
-            {
-                "name": "horizonsend:starship/weapon/plasma_cannon/shoot_3",
-                "attenuation_distance": 16,
-                "pitch": 1.0,
-                "volume": 0.2
-            }
-        ]
-    },
-    "starship.weapon.mining_laser.start": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/mining_laser/start",
-                "attenuation_distance": 64,
-                "pitch": 1.0,
-                "volume": 0.05
-            }
-        ]
-    },
-    "starship.weapon.mining_laser.stop": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/mining_laser/stop",
-                "attenuation_distance": 64,
-                "pitch": 1.0,
-                "volume": 0.05
-            }
-        ]
-    },
-    "starship.weapon.mining_laser.t1_loop": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/mining_laser/t1_loop",
-                "attenuation_distance": 64,
-                "pitch": 1.0,
-                "volume": 0.2
-            }
-        ]
-    },
-    "starship.weapon.mining_laser.t2_loop": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/mining_laser/t2_loop",
-                "attenuation_distance": 64,
-                "pitch": 1.0,
-                "volume": 0.2
-            }
-        ]
-    },
-    "starship.weapon.mining_laser.t3_loop": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/mining_laser/t3_loop",
-                "attenuation_distance": 64,
-                "pitch": 1.0,
-                "volume": 0.2
-            }
-        ]
-    },
+	"blaster.hitmarker.standard": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/hitmarker",
+				"attenuation_distance": 1,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"blaster.dry_shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/dry_shoot",
+				"attenuation_distance": 1,
+				"pitch": 1.0,
+				"volume": 0.5
+			},
+			{
+				"name": "horizonsend:blaster/dry_shoot",
+				"attenuation_distance": 1,
+				"pitch": 0.95,
+				"volume": 0.5
+			},
+			{
+				"name": "horizonsend:blaster/dry_shoot",
+				"attenuation_distance": 1,
+				"pitch": 1.05,
+				"volume": 0.5
+			}
+		]
+	},
+	"blaster.whizz.standard": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/whizz_1",
+				"attenuation_distance": 4,
+				"pitch": 1.0,
+				"volume": 0.4
+			},
+			{
+				"name": "horizonsend:blaster/whizz_2",
+				"attenuation_distance": 4,
+				"pitch": 1.0,
+				"volume": 0.4
+			}
+		]
+	},
+	"blaster.whizz.sniper": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/whizz_1",
+				"attenuation_distance": 4,
+				"pitch": 0.6,
+				"volume": 0.6
+			},
+			{
+				"name": "horizonsend:blaster/whizz_2",
+				"attenuation_distance": 4,
+				"pitch": 0.6,
+				"volume": 0.6
+			}
+		]
+	},
+	"blaster.impact.standard": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/impact_1",
+				"attenuation_distance": 4,
+				"pitch": 1.0,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/impact_2",
+				"attenuation_distance": 4,
+				"pitch": 1.0,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/impact_1",
+				"attenuation_distance": 4,
+				"pitch": 0.8,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/impact_2",
+				"attenuation_distance": 4,
+				"pitch": 0.8,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/impact_1",
+				"attenuation_distance": 4,
+				"pitch": 1.2,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/impact_2",
+				"attenuation_distance": 4,
+				"pitch": 1.2,
+				"volume": 0.05
+			}
+		]
+	},
+	"blaster.pistol.shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/pistol/shoot",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 0.2
+			},
+			{
+				"name": "horizonsend:blaster/pistol/shoot",
+				"attenuation_distance": 32,
+				"pitch": 0.9,
+				"volume": 0.2
+			},
+			{
+				"name": "horizonsend:blaster/pistol/shoot",
+				"attenuation_distance": 32,
+				"pitch": 1.1,
+				"volume": 0.2
+			}
+		]
+	},
+	"blaster.pistol.shell": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/pistol/shell_1",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/pistol/shell_2",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/pistol/shell_3",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			}
+		]
+	},
+	"blaster.pistol.reload.start": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/pistol/reload_start",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"blaster.pistol.reload.finish": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/pistol/reload_finish",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"blaster.rifle.shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/rifle/shoot",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 0.2
+			},
+			{
+				"name": "horizonsend:blaster/rifle/shoot",
+				"attenuation_distance": 32,
+				"pitch": 0.9,
+				"volume": 0.2
+			},
+			{
+				"name": "horizonsend:blaster/rifle/shoot",
+				"attenuation_distance": 32,
+				"pitch": 1.1,
+				"volume": 0.2
+			}
+		]
+	},
+	"blaster.rifle.shell": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/rifle/shell_1",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/rifle/shell_2",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/rifle/shell_3",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			}
+		]
+	},
+	"blaster.rifle.reload.start": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/rifle/reload_start",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"blaster.rifle.reload.finish": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/rifle/reload_finish",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"blaster.sniper.shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/sniper/shoot",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 0.8
+			},
+			{
+				"name": "horizonsend:blaster/sniper/shoot",
+				"attenuation_distance": 32,
+				"pitch": 1.2,
+				"volume": 0.8
+			},
+			{
+				"name": "horizonsend:blaster/sniper/shoot",
+				"attenuation_distance": 32,
+				"pitch": 0.8,
+				"volume": 0.8
+			}
+		]
+	},
+	"blaster.sniper.shell": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/sniper/shell_1",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/sniper/shell_2",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/sniper/shell_3",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			}
+		]
+	},
+	"blaster.sniper.reload.start": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/sniper/reload_start",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"blaster.sniper.reload.finish": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/sniper/reload_finish",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"blaster.shotgun.shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/shotgun/shoot",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 0.2
+			},
+			{
+				"name": "horizonsend:blaster/shotgun/shoot",
+				"attenuation_distance": 32,
+				"pitch": 0.9,
+				"volume": 0.2
+			},
+			{
+				"name": "horizonsend:blaster/shotgun/shoot",
+				"attenuation_distance": 32,
+				"pitch": 1.1,
+				"volume": 0.2
+			}
+		]
+	},
+	"blaster.shotgun.shell": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/shotgun/shell_1",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.1
+			},
+			{
+				"name": "horizonsend:blaster/shotgun/shell_2",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.1
+			},
+			{
+				"name": "horizonsend:blaster/shotgun/shell_3",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.1
+			}
+		]
+	},
+	"blaster.shotgun.reload.start": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/shotgun/reload_start",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"blaster.shotgun.reload.finish": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/shotgun/reload_finish",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"blaster.submachine_blaster.shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/submachine_blaster/shoot",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 0.2
+			},
+			{
+				"name": "horizonsend:blaster/submachine_blaster/shoot",
+				"attenuation_distance": 32,
+				"pitch": 0.9,
+				"volume": 0.2
+			},
+			{
+				"name": "horizonsend:blaster/submachine_blaster/shoot",
+				"attenuation_distance": 32,
+				"pitch": 1.1,
+				"volume": 0.2
+			}
+		]
+	},
+	"blaster.submachine_blaster.shell": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/pistol/shell_1",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/pistol/shell_2",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/pistol/shell_3",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			}
+		]
+	},
+	"blaster.submachine_blaster.reload.start": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/submachine_blaster/reload_start",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"blaster.submachine_blaster.reload.finish": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/submachine_blaster/reload_finish",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"blaster.cannon.shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/cannon/shoot",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 0.2
+			},
+			{
+				"name": "horizonsend:blaster/cannon/shoot",
+				"attenuation_distance": 32,
+				"pitch": 0.9,
+				"volume": 0.2
+			},
+			{
+				"name": "horizonsend:blaster/cannon/shoot",
+				"attenuation_distance": 32,
+				"pitch": 1.1,
+				"volume": 0.2
+			}
+		]
+	},
+	"blaster.cannon.shell": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/pistol/shell_1",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/pistol/shell_2",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			},
+			{
+				"name": "horizonsend:blaster/pistol/shell_3",
+				"attenuation_distance": 16,
+				"pitch": 1.0,
+				"volume": 0.05
+			}
+		]
+	},
+	"blaster.cannon.reload.start": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/cannon/reload_start",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"blaster.cannon.reload.finish": {
+		"sounds": [
+			{
+				"name": "horizonsend:blaster/cannon/reload_finish",
+				"attenuation_distance": 32,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+
+	"industry.mload": {
+		"sounds": [
+			{
+				"name": "horizonsend:industry/mload",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"industry.centrifuge": {
+		"sounds": [
+			{
+				"name": "horizonsend:industry/centrifuge",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"industry.press": {
+		"sounds": [
+			{
+				"name": "horizonsend:industry/press",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"industry.load": {
+		"sounds": [
+			{
+				"name": "horizonsend:industry/load",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"industry.compress": {
+		"sounds": [
+			{
+				"name": "horizonsend:industry/compress",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"industry.cirfab": {
+		"sounds": [
+			{
+				"name": "horizonsend:industry/cirfab",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"industry.fabricate": {
+		"sounds": [
+			{
+				"name": "horizonsend:industry/fabricate",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+
+	"starship.supercapital.hyperspace_enter": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/supercapital/hyperspace_enter",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.release.battlecruiser": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/supercapital/release/battlecruiser",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.release.cruiser": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/supercapital/release/cruiser",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.pilot.battlecruiser": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/supercapital/pilot/battlecruiser",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.pilot.cruiser": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/supercapital/pilot/cruiser",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+
+	"starship.explosion.battlecruiser": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/supercapital/explosion/battlecruiser",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.explosion.cruiser": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/supercapital/explosion/cruiser",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.explosion.fighter.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/explosion/fighter/near",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.explosion.fighter.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/explosion/fighter/far",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.explosion.small.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/explosion/small/near",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.explosion.small.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/explosion/small/far",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.explosion.large.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/explosion/large/near",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.explosion.large.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/explosion/large/far",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+
+	"starship.weapon.aa_gun.shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/aa_gun/shoot_1",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.4
+			},
+			{
+				"name": "horizonsend:starship/weapon/aa_gun/shoot_2",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.4
+			},
+			{
+				"name": "horizonsend:starship/weapon/aa_gun/shoot_3",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.4
+			},
+			{
+				"name": "horizonsend:starship/weapon/aa_gun/shoot_4",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.4
+			},
+			{
+				"name": "horizonsend:starship/weapon/aa_gun/shoot_5",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.4
+			}
+		]
+	},
+	"starship.weapon.aa_gun.impact": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/aa_gun/impact_1",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.6
+			},
+			{
+				"name": "horizonsend:starship/weapon/aa_gun/impact_2",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.6
+			},
+			{
+				"name": "horizonsend:starship/weapon/aa_gun/impact_3",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.6
+			}
+		]
+	},
+	"starship.weapon.arsenal_missile.shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/arsenal_missile/shoot",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.weapon.arsenal_missile.ignite": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/arsenal_missile/ignite",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.weapon.arsenal_missile.impact": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/arsenal_missile/impact",
+				"attenuation_distance": 48,
+				"pitch": 1.0,
+				"volume": 0.5
+			}
+		]
+	},
+	"starship.weapon.heavy_laser.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/heavy_laser/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_laser/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_laser/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.heavy_laser.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/heavy_laser/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_laser/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_laser/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.heavy_turret.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/heavy_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.heavy_turret.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/heavy_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/heavy_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.ion_turret.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/ion_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/ion_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/ion_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.ion_turret.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/ion_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/ion_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/ion_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.laser_cannon.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/laser_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/laser_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/laser_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.laser_cannon.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/laser_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/laser_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/laser_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.light_turret.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/light_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/light_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/light_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.light_turret.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/light_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/light_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/light_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.mining_laser.start": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/mining_laser/start",
+				"attenuation_distance": 64,
+				"pitch": 1.0,
+				"volume": 0.05
+			}
+		]
+	},
+	"starship.weapon.mining_laser.stop": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/mining_laser/stop",
+				"attenuation_distance": 64,
+				"pitch": 1.0,
+				"volume": 0.05
+			}
+		]
+	},
+	"starship.weapon.mining_laser.t1_loop": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/mining_laser/t1_loop",
+				"attenuation_distance": 64,
+				"pitch": 1.0,
+				"volume": 0.2
+			}
+		]
+	},
+	"starship.weapon.mining_laser.t2_loop": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/mining_laser/t2_loop",
+				"attenuation_distance": 64,
+				"pitch": 1.0,
+				"volume": 0.2
+			}
+		]
+	},
+	"starship.weapon.mining_laser.t3_loop": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/mining_laser/t3_loop",
+				"attenuation_distance": 64,
+				"pitch": 1.0,
+				"volume": 0.2
+			}
+		]
+	},
 	"starship.weapon.mining_laser.t4_loop": {
 		"sounds": [
 			{
@@ -869,199 +1057,429 @@
 			}
 		]
 	},
-    "starship.weapon.pulse_cannon.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/pulse_cannon/shoot_1",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            },
-            {
-                "name": "horizonsend:starship/weapon/pulse_cannon/shoot_2",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            },
-            {
-                "name": "horizonsend:starship/weapon/pulse_cannon/shoot_3",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            }
-        ]
-    },
-    "starship.weapon.tank_cannon.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/tank_cannon/shoot_1",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.6
-            },
-            {
-                "name": "horizonsend:starship/weapon/tank_cannon/shoot_2",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.6
-            },
-            {
-                "name": "horizonsend:starship/weapon/tank_cannon/shoot_3",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.6
-            },
-            {
-                "name": "horizonsend:starship/weapon/tank_cannon/shoot_4",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.6
-            },
-            {
-                "name": "horizonsend:starship/weapon/tank_cannon/shoot_5",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.6
-            }
-        ]
-    },
-    "starship.weapon.tank_cannon.impact": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/tank_cannon/impact_1",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.8
-            },
-            {
-                "name": "horizonsend:starship/weapon/tank_cannon/impact_2",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.8
-            },
-            {
-                "name": "horizonsend:starship/weapon/tank_cannon/impact_3",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.8
-            },
-            {
-                "name": "horizonsend:starship/weapon/tank_cannon/impact_4",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.8
-            },
-            {
-                "name": "horizonsend:starship/weapon/tank_cannon/impact_5",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.8
-            }
-        ]
-    },
-    "starship.weapon.tank_mg.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/tank_mg/shoot_1",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            },
-            {
-                "name": "horizonsend:starship/weapon/tank_mg/shoot_2",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            },
-            {
-                "name": "horizonsend:starship/weapon/tank_mg/shoot_3",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            },
-            {
-                "name": "horizonsend:starship/weapon/tank_mg/shoot_4",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            },
-            {
-                "name": "horizonsend:starship/weapon/tank_mg/shoot_5",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            }
-        ]
-    },
-    "starship.weapon.aa_gun.shoot": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/aa_gun/shoot_1",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            },
-            {
-                "name": "horizonsend:starship/weapon/aa_gun/shoot_2",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            },
-            {
-                "name": "horizonsend:starship/weapon/aa_gun/shoot_3",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            },
-            {
-                "name": "horizonsend:starship/weapon/aa_gun/shoot_4",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            },
-            {
-                "name": "horizonsend:starship/weapon/aa_gun/shoot_5",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.4
-            }
-        ]
-    },
-    "starship.weapon.aa_gun.impact": {
-        "sounds": [
-            {
-                "name": "horizonsend:starship/weapon/aa_gun/impact_1",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.6
-            },
-            {
-                "name": "horizonsend:starship/weapon/aa_gun/impact_2",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.6
-            },
-            {
-                "name": "horizonsend:starship/weapon/aa_gun/impact_3",
-                "attenuation_distance": 36,
-                "pitch": 1.0,
-                "volume": 0.6
-            }
-        ]
-    },
-    "energy_sword.idle": {
-        "sounds": ["horizonsend:energy_sword/idle"]
-    },
-    "energy_sword.strike": {
-        "sounds": ["horizonsend:energy_sword/strike"]
-    },
-    "energy_sword.off": {
-        "sounds": ["horizonsend:energy_sword/off"]
-    },
-    "energy_sword.on": {
-        "sounds": ["horizonsend:energy_sword/on"]
-    },
-    "energy_sword.swing": {
-        "sounds": ["horizonsend:energy_sword/swing"]
-    }
+	"starship.weapon.phaser.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/phaser/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/phaser/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/phaser/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.phaser.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/phaser/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/phaser/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/phaser/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.plasma_cannon.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/plasma_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/plasma_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/plasma_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.plasma_cannon.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/plasma_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/plasma_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/plasma_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.point_defense.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/point_defense/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.5,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/point_defense/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.45,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/point_defense/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.55,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.point_defense.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/point_defense/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.5,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/point_defense/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.45,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/point_defense/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.55,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.pulse_cannon.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/pulse_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/pulse_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/pulse_cannon/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.pulse_cannon.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/pulse_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/pulse_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/pulse_cannon/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.quad_turret.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/quad_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/quad_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/quad_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.quad_turret.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/quad_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/quad_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/quad_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.tank_cannon.shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/tank_cannon/shoot_1",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.6
+			},
+			{
+				"name": "horizonsend:starship/weapon/tank_cannon/shoot_2",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.6
+			},
+			{
+				"name": "horizonsend:starship/weapon/tank_cannon/shoot_3",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.6
+			},
+			{
+				"name": "horizonsend:starship/weapon/tank_cannon/shoot_4",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.6
+			},
+			{
+				"name": "horizonsend:starship/weapon/tank_cannon/shoot_5",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.6
+			}
+		]
+	},
+	"starship.weapon.tank_cannon.impact": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/tank_cannon/impact_1",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.8
+			},
+			{
+				"name": "horizonsend:starship/weapon/tank_cannon/impact_2",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.8
+			},
+			{
+				"name": "horizonsend:starship/weapon/tank_cannon/impact_3",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.8
+			},
+			{
+				"name": "horizonsend:starship/weapon/tank_cannon/impact_4",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.8
+			},
+			{
+				"name": "horizonsend:starship/weapon/tank_cannon/impact_5",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.8
+			}
+		]
+	},
+	"starship.weapon.tank_mg.shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/tank_mg/shoot_1",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.4
+			},
+			{
+				"name": "horizonsend:starship/weapon/tank_mg/shoot_2",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.4
+			},
+			{
+				"name": "horizonsend:starship/weapon/tank_mg/shoot_3",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.4
+			},
+			{
+				"name": "horizonsend:starship/weapon/tank_mg/shoot_4",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.4
+			},
+			{
+				"name": "horizonsend:starship/weapon/tank_mg/shoot_5",
+				"attenuation_distance": 36,
+				"pitch": 1.0,
+				"volume": 0.4
+			}
+		]
+	},
+	"starship.weapon.torpedo.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/torpedo/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/torpedo/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/torpedo/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.torpedo.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/torpedo/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/torpedo/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/torpedo/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.tri_turret.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/tri_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/tri_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/tri_turret/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.tri_turret.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/tri_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/tri_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/tri_turret/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"energy_sword.idle": {
+		"sounds": ["horizonsend:energy_sword/idle"]
+	},
+	"energy_sword.strike": {
+		"sounds": ["horizonsend:energy_sword/strike"]
+	},
+	"energy_sword.off": {
+		"sounds": ["horizonsend:energy_sword/off"]
+	},
+	"energy_sword.on": {
+		"sounds": ["horizonsend:energy_sword/on"]
+	},
+	"energy_sword.swing": {
+		"sounds": ["horizonsend:energy_sword/swing"]
+	}
 }
