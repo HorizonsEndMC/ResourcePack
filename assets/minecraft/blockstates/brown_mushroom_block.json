@@ -285,6 +285,19 @@
 				"up": false,
 				"down": true
 			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/pipe/fluid_valve"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": true,
+				"west": true,
+				"up": false,
+				"down": true
+			}
 		}
 	]
 }
