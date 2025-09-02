@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "horizonsend:block/pipe/fluid_input"
+        "model": "horizonsend:block/pipe/e2_port"
     }
 }
