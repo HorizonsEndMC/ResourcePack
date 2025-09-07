@@ -691,6 +691,27 @@
 		]
 	},
 
+	"starship.jump.charge.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/jump/charge/near",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.jump.complete.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/jump/complete/near",
+				"attenuation_distance": 512,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+
 	"starship.weapon.aa_gun.shoot": {
 		"sounds": [
 			{
