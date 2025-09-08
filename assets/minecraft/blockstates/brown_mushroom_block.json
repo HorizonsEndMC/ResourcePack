@@ -324,6 +324,19 @@
 				"up": false,
 				"down": true
 			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/industry/rotation_shaft"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": true,
+				"west": false,
+				"up": true,
+				"down": true
+			}
 		}
 	]
 }
