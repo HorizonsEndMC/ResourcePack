@@ -319,7 +319,7 @@
 			"when": {
 				"north": true,
 				"south": true,
-				"east": false,
+				"east": true,
 				"west": true,
 				"up": false,
 				"down": true
