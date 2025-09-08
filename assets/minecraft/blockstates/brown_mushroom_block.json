@@ -311,6 +311,19 @@
 				"up": false,
 				"down": true
 			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/industry/copper_coil"
+			},
+			"when": {
+				"north": true,
+				"south": true,
+				"east": false,
+				"west": true,
+				"up": false,
+				"down": true
+			}
 		}
 	]
 }
