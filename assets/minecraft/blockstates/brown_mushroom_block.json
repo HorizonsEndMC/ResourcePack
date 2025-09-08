@@ -275,7 +275,7 @@
 		},
 		{
 			"apply": {
-				"model": "horizonsend:block/pipe/fluid_input"
+				"model": "horizonsend:block/pipe/fluid_port"
 			},
 			"when": {
 				"north": true,
@@ -294,6 +294,19 @@
 				"north": false,
 				"south": true,
 				"east": true,
+				"west": true,
+				"up": false,
+				"down": true
+			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/pipe/e2_port"
+			},
+			"when": {
+				"north": true,
+				"south": true,
+				"east": false,
 				"west": true,
 				"up": false,
 				"down": true
