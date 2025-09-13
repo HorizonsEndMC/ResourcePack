@@ -804,19 +804,19 @@
 				"name": "horizonsend:starship/weapon/heavy_laser/shoot_near",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 1.0
+				"volume": 5.0
 			},
 			{
 				"name": "horizonsend:starship/weapon/heavy_laser/shoot_near",
 				"attenuation_distance": 128,
 				"pitch": 0.95,
-				"volume": 1.0
+				"volume": 5.0
 			},
 			{
 				"name": "horizonsend:starship/weapon/heavy_laser/shoot_near",
 				"attenuation_distance": 128,
 				"pitch": 1.05,
-				"volume": 1.0
+				"volume": 5.0
 			}
 		]
 	},
@@ -826,19 +826,19 @@
 				"name": "horizonsend:starship/weapon/heavy_laser/shoot_far",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 1.0
+				"volume": 5.0
 			},
 			{
 				"name": "horizonsend:starship/weapon/heavy_laser/shoot_far",
 				"attenuation_distance": 128,
 				"pitch": 0.95,
-				"volume": 1.0
+				"volume": 5.0
 			},
 			{
 				"name": "horizonsend:starship/weapon/heavy_laser/shoot_far",
 				"attenuation_distance": 128,
 				"pitch": 1.05,
-				"volume": 1.0
+				"volume": 5.0
 			}
 		]
 	},
