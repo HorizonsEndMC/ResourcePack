@@ -1298,6 +1298,50 @@
 			}
 		]
 	},
+	"starship.weapon.swarm_missile.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/swarm_missile/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/swarm_missile/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/swarm_missile/shoot_near",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.swarm_missile.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/swarm_missile/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/swarm_missile/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 0.95,
+				"volume": 1.0
+			},
+			{
+				"name": "horizonsend:starship/weapon/swarm_missile/shoot_far",
+				"attenuation_distance": 128,
+				"pitch": 1.05,
+				"volume": 1.0
+			}
+		]
+	},
 	"starship.weapon.tank_cannon.shoot": {
 		"sounds": [
 			{
