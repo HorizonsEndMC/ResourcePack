@@ -44,5 +44,6 @@
   "death.attack.phaser": "%1$s was killed by phaser",
   "death.attack.oriomium_rocket": "%1$s was killed by oriomium rocket",
   "death.attack.torpedo": "%1$s was killed by torpedo",
-  "death.attack.point_defense": "%1$s was killed by point defence"
+  "death.attack.point_defense": "%1$s was killed by point defence",
+  "death.attack.swarm_missile": "%1$s was killed by swarm missile"
 }
