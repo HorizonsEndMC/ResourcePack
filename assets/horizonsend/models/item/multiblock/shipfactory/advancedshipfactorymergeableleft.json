@@ -4,7 +4,7 @@
 		"0": "minecraft:block/stone_bricks",
 		"1": "minecraft:block/iron_block",
 		"2": "minecraft:block/note_block",
-		"3": "horizonsend:block/industry/netherite_casing",
+		"3": "minecraft:block/netherite_block",
 		"4": "minecraft:block/glass",
 		"5": "minecraft:block/lodestone_side",
 		"6": "minecraft:block/sponge",

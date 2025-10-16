@@ -6,7 +6,7 @@
 		"2": "minecraft:block/iron_block",
 		"3": "minecraft:block/glass",
 		"4": "minecraft:block/sponge",
-		"5": "horizonsend:block/industry/netherite_casing",
+		"5": "minecraft:block/netherite_block",
 		"6": "minecraft:block/crafting_table_side",
 		"7": "minecraft:block/oak_planks",
 		"8": "minecraft:block/note_block",

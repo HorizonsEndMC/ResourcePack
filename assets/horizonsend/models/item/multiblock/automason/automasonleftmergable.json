@@ -1,7 +1,7 @@
 {
 	"credit": "GOOTAN",
 	"textures": {
-		"0": "horizonsend:block/industry/netherite_casing",
+		"0": "minecraft:block/netherite_block",
 		"1": "minecraft:block/iron_block",
 		"2": "block/stonecutter_side",
 		"3": "minecraft:block/stone_bricks",
