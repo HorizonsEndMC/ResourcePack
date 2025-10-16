@@ -1,0 +1,7 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"particle": "horizonsend:block/industry/fluid_input",
+		"all": "horizonsend:block/industry/fluid_input"
+	}
+}

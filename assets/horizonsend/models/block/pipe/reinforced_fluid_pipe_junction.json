@@ -1,0 +1,7 @@
+{
+	"parent": "horizonsend:block/pipe/fluid_pipe_junction",
+	"textures": {
+		"0": "horizonsend:block/industry/reinforced_fluid_pipe_flange",
+		"particle": "horizonsend:block/industry/reinforced_fluid_pipe_flange"
+	}
+}

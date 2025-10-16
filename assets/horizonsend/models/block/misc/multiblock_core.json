@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"particle": "horizonsend:block/misc/multiblock_core_front",
+		"north": "horizonsend:block/misc/multiblock_core_front",
+		"south": "horizonsend:block/misc/multiblock_core_back",
+		"east": "horizonsend:block/misc/multiblock_core_right",
+		"west": "horizonsend:block/misc/multiblock_core_left",
+		"up": "minecraft:block/note_block_top",
+		"down": "horizonsend:block/industry/steel_block"
+	}
+}
