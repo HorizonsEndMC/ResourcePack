@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "horizonsend:block/industry/grid_energy_port"
+    }
+}

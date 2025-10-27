@@ -1,0 +1,7 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"particle": "horizonsend:block/industry/grid_energy_port",
+		"all": "horizonsend:block/industry/grid_energy_port"
+	}
+}

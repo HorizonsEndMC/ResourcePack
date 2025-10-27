@@ -1,7 +1,0 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"particle": "horizonsend:block/industry/e2_port",
-		"all": "horizonsend:block/industry/e2_port"
-	}
-}
