@@ -337,6 +337,19 @@
 				"up": true,
 				"down": true
 			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/industry/redstone_control_port"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": false,
+				"west": true,
+				"up": true,
+				"down": true
+			}
 		}
 	]
 }
