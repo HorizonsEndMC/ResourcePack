@@ -1,0 +1,8 @@
+{
+	"parent":"horizonsend:item/tool/handheld_tank/handheld_tank_transparent_liquid",
+	"textures": {
+		"0": "horizonsend:item/tool/handheld_tank/portable_tank_body",
+		"1": "horizonsend:item/tool/handheld_tank/transparent_gas",
+		"particle": "horizonsend:item/tool/handheld_tank/portable_tank_body"
+	}
+}

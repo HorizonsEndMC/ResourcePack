@@ -1,0 +1,74 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": [
+          "transparent_liquid"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "horizonsend:item/tool/handheld_tank/handheld_tank_transparent_liquid",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": 0
+            }
+          ]
+        }
+      },
+      {
+        "when": [
+          "opaque_liquid"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "horizonsend:item/tool/handheld_tank/handheld_tank_opaque_liquid",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": 0
+            }
+          ]
+        }
+      },
+      {
+        "when": [
+          "lava"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "horizonsend:item/tool/handheld_tank/handheld_tank_lava",
+          "tints": []
+        }
+      },
+      {
+        "when": [
+          "transparent_gas"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "horizonsend:item/tool/handheld_tank/handheld_tank_transparent_gas",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": 0
+            }
+          ]
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "horizonsend:item/tool/handheld_tank/handheld_tank_transparent_liquid",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": 0
+        }
+      ]
+    }
+  }
+}
