@@ -350,6 +350,19 @@
 				"up": true,
 				"down": true
 			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/industry/refractory_bricks"
+			},
+			"when": {
+				"north": false,
+				"south": true,
+				"east": true,
+				"west": true,
+				"up": true,
+				"down": true
+			}
 		}
 	]
 }
