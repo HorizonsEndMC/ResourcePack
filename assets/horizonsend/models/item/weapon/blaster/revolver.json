@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "revolver_blaster",
-		"particle": "revolver_blaster"
+		"0": "horizonsend:item/weapon/blaster/revolver_blaster",
+		"particle": "horizonsend:item/weapon/blaster/revolver_blaster"
 	},
 	"elements": [
 		{
