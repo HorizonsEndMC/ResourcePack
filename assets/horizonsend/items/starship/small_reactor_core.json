@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "horizonsend:item/starship/small_reactor_core"
+    }
+}
