@@ -795,12 +795,11 @@
 			"chars": [
 				"\uF8E1"
 			]
-		},
-		{
+		},		{
 			"type": "bitmap",
-			"file": "horizonsend:hud/quest/objective_icon.png",
-			"ascent": 14,
-			"height": 32,
+			"file": "horizonsend:gui/icon/core_forge.png",
+			"ascent": 13,
+			"height": 125,
 			"chars": [
 				"\uF8E0"
 			]
