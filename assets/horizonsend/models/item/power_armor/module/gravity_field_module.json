@@ -1,0 +1,5 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "horizonsend:item/power_armor/module/gravity_field_module
+}
