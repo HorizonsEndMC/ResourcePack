@@ -1,0 +1,12 @@
+{
+    "model": {
+		"type": "minecraft:model",
+		"model": "horizonsend:item/effect/explosion_ring",
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": -1
+			}
+		]
+    }
+}
