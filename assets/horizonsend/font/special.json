@@ -795,6 +795,15 @@
 			"chars": [
 				"\uF8E1"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:hud/quest/objective_icon.png",
+			"ascent": 7,
+			"height": 32,
+			"chars": [
+				"\uF8E0"
+			]
 		}
 	]
 }
