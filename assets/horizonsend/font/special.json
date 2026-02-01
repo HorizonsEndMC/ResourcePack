@@ -799,7 +799,7 @@
 		{
 			"type": "bitmap",
 			"file": "horizonsend:hud/quest/objective_icon.png",
-			"ascent": 7,
+			"ascent": 14,
 			"height": 32,
 			"chars": [
 				"\uF8E0"
