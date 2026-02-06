@@ -795,7 +795,8 @@
 			"chars": [
 				"\uF8E1"
 			]
-		},		{
+		},
+		{
 			"type": "bitmap",
 			"file": "horizonsend:gui/container/core_forge.png",
 			"ascent": 13,
