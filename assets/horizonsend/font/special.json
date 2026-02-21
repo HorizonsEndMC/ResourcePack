@@ -804,6 +804,123 @@
 			"chars": [
 				"\uF8E0"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/starfighter.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8DF"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/gunship.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8DE"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/corvette.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8DD"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/frigate.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8DC"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/destroyer.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8DB"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/cruiser.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8DA"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/battlecruiser.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8D9"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/shuttle.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8D8"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/transport.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8D7"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/light_freighter.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8D6"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/medium_freighter.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8D5"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/heavy_freighter.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8D4"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/ui/barge.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": [
+				"\uF8D3"
+			]
 		}
 	]
 }
