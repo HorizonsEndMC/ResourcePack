@@ -3,6 +3,7 @@
   "item.minecraft.chainmail_chestplate": "Spacesuit Chestpiece",
   "item.minecraft.chainmail_leggings": "Spacesuit Leggings",
   "item.minecraft.chainmail_boots": "Spacesuit Boots",
+  "item.minecraft.clock": "Controller",
 
   "death.attack.interceptor_cannon.player": "%1$s was killed by %2$s using interceptor cannon",
   "death.attack.laser_cannon.player": "%1$s was killed by %2$s using laser cannon",
