@@ -21,17 +21,17 @@ jobs:
         run: echo "$(expr $(cat version) + 1)" > version
 
       - name: "Update pack.mcmeta"
-        run: echo "{\"pack\":{\"pack_format\":11,\"description\":[\"\",{\"text\":\"Horizon's End\",\"color\":\"#88FF88\"},\" Resource Pack\",\"\nVersion $(cat version) \",{\"text\":\"/\",\"color\":\"#222222\"},\" horizonsend.net\"]}}" > pack.mcmeta
+        run: echo "{\"pack\":{\"pack_format\":46,\"description\":[\"\",{\"text\":\"Horizon's End\",\"color\":\"#88FF88\"},\" Resource Pack\",\"\nVersion $(cat version) \",{\"text\":\"/\",\"color\":\"#222222\"},\" horizonsend.net\"]}}" > pack.mcmeta
 
       - name: "Commit updated Version and Meta"
         uses: EndBug/add-and-commit@v8.0.2
         with:
           message: Increment Version Number
-      
+
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v4
         with:
-          packsquash_version: latest 
+          packsquash_version: latest
           options: |
             # Optimize the pack in the root repository directory.
             # This is the default value for pack_directory when no PackSquash options are defined
@@ -42,10 +42,10 @@ jobs:
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
             output_file_path = '/tmp/HorizonsEndResourcePack.zip'
-      
+
       - name: "Save release number to environment variable"
         run: echo "VERSION=$(cat version)" >> $GITHUB_ENV
-      
+
       - name: "Release"
         uses: ncipollo/release-action@v1.10.0
         with:
