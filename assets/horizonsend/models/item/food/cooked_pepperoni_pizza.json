@@ -1,0 +1,10 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "horizonsend:item/food/pepperoni_pizza",
+	"texture_size": [32, 32],
+	"textures": {
+		"2": "horizonsend:item/food/cooked_pepperoni_pizza",
+		"particle": "horizonsend:item/food/cooked_pepperoni_pizza"
+	}
+}

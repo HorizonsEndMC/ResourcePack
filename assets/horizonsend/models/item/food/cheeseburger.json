@@ -1,0 +1,134 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "horizonsend:item/food/cheeseburger",
+		"particle": "horizonsend:item/food/cheeseburger"
+	},
+	"elements": [
+		{
+			"name": "bottom_bun",
+			"from": [4, 5, 4],
+			"to": [12, 6, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 5, 0]},
+			"faces": {
+				"north": {"uv": [5.75, 3.5, 7.75, 3.75], "texture": "#0"},
+				"east": {"uv": [6, 1.5, 8, 1.75], "texture": "#0"},
+				"south": {"uv": [6, 1.75, 8, 2], "texture": "#0"},
+				"west": {"uv": [0, 6.5, 2, 6.75], "texture": "#0"},
+				"up": {"uv": [2, 2, 0, 0], "texture": "#0"},
+				"down": {"uv": [2, 2, 0, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bottom_patty",
+			"from": [4.5, 6, 4.5],
+			"to": [11.5, 7, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 6, 5]},
+			"faces": {
+				"north": {"uv": [0, 6.75, 1.75, 7], "texture": "#0"},
+				"east": {"uv": [6.75, 3.75, 8.5, 4], "texture": "#0"},
+				"south": {"uv": [6.75, 4, 8.5, 4.25], "texture": "#0"},
+				"west": {"uv": [6.75, 4.25, 8.5, 4.5], "texture": "#0"},
+				"up": {"uv": [3.75, 5.75, 2, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "tomato",
+			"from": [5, 7, 5],
+			"to": [11, 8, 11],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [6.75, 5.25, 8.25, 5.5], "texture": "#0"},
+				"east": {"uv": [6.75, 5.5, 8.25, 5.75], "texture": "#0"},
+				"south": {"uv": [6.75, 5.75, 8.25, 6], "texture": "#0"},
+				"west": {"uv": [6.75, 6, 8.25, 6.25], "texture": "#0"},
+				"up": {"uv": [6.75, 6.75, 5.25, 5.25], "texture": "#0"},
+				"down": {"uv": [5.25, 5.5, 3.75, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "lettuce",
+			"from": [4, 6, 4],
+			"to": [12, 6, 12],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [4, 2, 2, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bottom_cheese",
+			"from": [5, 7, 5],
+			"to": [11, 7, 11],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"up": {"uv": [5.25, 5.5, 3.75, 4], "texture": "#0"},
+				"down": {"uv": [6.75, 3.75, 5.25, 5.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "top_cheese",
+			"from": [5, 8, 5],
+			"to": [11, 8, 11],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [3.5, 7.25, 2, 5.75], "texture": "#0"},
+				"down": {"uv": [7.25, 2, 5.75, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "top_patty",
+			"from": [4.5, 8, 4.5],
+			"to": [11.5, 9, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 8, 5]},
+			"faces": {
+				"north": {"uv": [6.75, 4.5, 8.5, 4.75], "texture": "#0"},
+				"east": {"uv": [6.75, 4.75, 8.5, 5], "texture": "#0"},
+				"south": {"uv": [6.75, 5, 8.5, 5.25], "texture": "#0"},
+				"west": {"uv": [5.25, 6.75, 7, 7], "texture": "#0"},
+				"down": {"uv": [5.75, 2, 4, 3.75], "texture": "#0"}
+			}
+		},
+		{
+			"name": "top_bun",
+			"from": [4, 9, 4],
+			"to": [12, 11, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 9, 0]},
+			"faces": {
+				"north": {"uv": [0, 6, 2, 6.5], "texture": "#0"},
+				"east": {"uv": [6, 0, 8, 0.5], "texture": "#0"},
+				"south": {"uv": [6, 0.5, 8, 1], "texture": "#0"},
+				"west": {"uv": [6, 1, 8, 1.5], "texture": "#0"},
+				"up": {"uv": [2, 6, 0, 4], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 22.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 22.5, 0]
+		},
+		"gui": {
+			"rotation": [30, 45, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -5],
+			"scale": [2, 2, 2]
+		},
+		"on_shelf": {
+			"scale": [2, 2, 2]
+		}
+	}
+}
