@@ -50,8 +50,8 @@
 		},
 		{
 			"name": "lettuce",
-			"from": [4, 6, 4],
-			"to": [12, 6, 12],
+			"from": [4, 6.25, 4],
+			"to": [12, 6.25, 12],
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6, 8]},
 			"faces": {
 				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
@@ -60,8 +60,8 @@
 		},
 		{
 			"name": "bottom_cheese",
-			"from": [5, 7, 5],
-			"to": [11, 7, 11],
+			"from": [5, 7.25, 5],
+			"to": [11, 7.25, 11],
 			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 7, 8]},
 			"faces": {
 				"up": {"uv": [5.25, 5.5, 3.75, 4], "texture": "#0"},
@@ -70,8 +70,8 @@
 		},
 		{
 			"name": "top_cheese",
-			"from": [5, 8, 5],
-			"to": [11, 8, 11],
+			"from": [5, 8.25, 5],
+			"to": [11, 8.25, 11],
 			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"up": {"uv": [3.5, 7.25, 2, 5.75], "texture": "#0"},

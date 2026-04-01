@@ -18,6 +18,15 @@
 				"up": {"uv": [8, 8, 0, 0], "texture": "#0"},
 				"down": {"uv": [8, 8, 0, 16], "texture": "#0"}
 			}
+		},
+		{
+			"from": [4, 7.75, 4],
+			"to": [12, 7.75, 12],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"down": {"uv": [8, 8, 16, 16], "rotation": 270, "texture": "#0"}
+			}
 		}
 	],
 	"display": {
