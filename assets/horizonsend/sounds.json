@@ -1532,6 +1532,26 @@
 			}
 		]
 	},
+	"starship.weapon.acap_turret.shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/acap_turret/acap",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.doomsday_device.shoot": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/doomsday_device/doomsday",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
 	"energy_sword.idle": {
 		"sounds": ["horizonsend:energy_sword/idle"]
 	},
