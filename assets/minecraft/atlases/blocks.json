@@ -1,0 +1,8 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "skyboxengine:shader/model/model_shader_9"
+        }
+    ]
+}

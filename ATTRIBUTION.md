@@ -15,3 +15,6 @@ https://www.zapsplat.com/music/science-fiction-weapon-gun-shoot-powerful-3
 
 https://www.zapsplat.com/music/deep-dark-sci-fi-explosion-or-laser-blast-could-be-underwater
 - /assets/minecraft/sounds/starship/weapon/tri_turret/shoot.ogg
+
+This resource pack uses Dragoncraft000's SkyboxTemplate resource pack, licensed under the MIT license.
+- https://github.com/Dragoncraft000/SkyboxTemplate

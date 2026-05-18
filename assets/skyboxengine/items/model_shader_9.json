@@ -1,0 +1,12 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "skyboxengine:item/shader/model_shader_9",
+        "tints": [
+			  {
+				"type": "minecraft:dye",
+				"default": -6265536
+			  }
+			]
+    }
+}
