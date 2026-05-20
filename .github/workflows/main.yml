@@ -41,7 +41,7 @@ jobs:
                   \"color\": \"#88FF88\" \
                 }, \
                 \" Resource Pack\", \
-                \"\nVersion $(cat version) \", \
+                \"\\nVersion $(cat version) \", \
                 { \
                   \"text\": \"/\", \
                   \"color\": \"#222222\" \
