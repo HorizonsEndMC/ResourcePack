@@ -85,6 +85,10 @@ jobs:
             # without needing to download its artifact in a separate step
             output_file_path = '/tmp/HorizonsEndResourcePack.zip'
 
+            # PackSquash does not understand custom directories; force uniformchange to be included
+            ['uniformchange/**']
+            force_include = true
+
       - name: "Save release number to environment variable"
         run: echo "VERSION=$(cat version)" >> $GITHUB_ENV
 
