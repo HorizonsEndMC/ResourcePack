@@ -1,0 +1,12 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "skyboxengine:item/shader/red_nebula_texture",
+        "tints": [
+			  {
+				"type": "minecraft:dye",
+				"default": -6265536
+			  }
+			]
+    }
+}

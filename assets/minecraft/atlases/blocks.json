@@ -2,7 +2,11 @@
     "sources": [
         {
             "type": "single",
-            "resource": "skyboxengine:shader/model/model_shader_9"
-        }
+            "resource": "skyboxengine:shader/model/blue_nebula"
+        },
+		{
+			"type": "single",
+			"resource": "skyboxengine:shader/model/red_nebula"
+		}
     ]
 }
