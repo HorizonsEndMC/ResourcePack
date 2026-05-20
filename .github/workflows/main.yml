@@ -37,7 +37,7 @@ jobs:
               \"description\": [ \
                 \"\", \
                 { \
-                  \"text\": \"Horizon's End\", \
+                  \"text\": \"Horizon\'s End\", \
                   \"color\": \"#88FF88\" \
                 }, \
                 \" Resource Pack\", \
