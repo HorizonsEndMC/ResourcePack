@@ -22,7 +22,7 @@ jobs:
 
       - name: "Update pack.mcmeta"
         run: |
-          echo \"{ \
+          echo { \
             \"pack\": { \
               \"min_format\": 43, \
               \"max_format\": [ \
@@ -62,7 +62,7 @@ jobs:
                 } \
               ] \
             } \
-          }\" \
+          } \
           > pack.mcmeta
 
       - name: "Commit updated Version and Meta"
