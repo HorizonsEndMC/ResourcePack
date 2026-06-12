@@ -2,6 +2,32 @@
 	"multipart": [
 		{
 			"apply": {
+				"model": "horizonsend:block/red_mushroom_cap"
+			},
+			"when": {
+				"north": true,
+				"south": true,
+				"east": true,
+				"west": true,
+				"up": true,
+				"down": true
+			}
+		},
+		{
+			"apply": {
+				"model": "horizonsend:block/red_mushroom_pores"
+			},
+			"when": {
+				"north": false,
+				"south": false,
+				"east": false,
+				"west": false,
+				"up": false,
+				"down": false
+			}
+		},
+		{
+			"apply": {
 				"model": "horizonsend:block/starship/mini_reactor_core"
 			},
 			"when": {
