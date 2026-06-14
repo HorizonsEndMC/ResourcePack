@@ -1542,7 +1542,7 @@
 			}
 		]
 	},
-	"starship.weapon.doomsday_device.shoot": {
+	"starship.weapon.doomsday_device.shoot.near": {
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/doomsday_device/doomsday",
@@ -1552,6 +1552,317 @@
 			}
 		]
 	},
+	"starship.weapon.doomsday_device.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/doomsday_device/doomsday",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.webifier.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/webifier/webifier",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.webifier.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/webifier/webifier",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.thermonuclear_missile.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/thermonuclear_missile/thermonuclear_missile",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.scrambler.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/scrambler/scrambler",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.scrambler.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/scrambler/scrambler",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.thermonuclear_missile.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/thermonuclear_missile/thermonuclear_missile",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.probe_scan.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/probe_launcher/probe_scan",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.probe_scan.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/probe_launcher/probe_scan",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.neutralizer.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/neutralizer/neutralizer",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.neutralizer.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/neutralizer/neutralizer",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.neutralizer.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/neutralizer/neutralizer",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.neutralizer.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/neutralizer/neutralizer",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.logistics_turret.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/logistics_turret/logistics_turret",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.logistics_turret.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/logistics_turret/logistics_turret",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.light_missile.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/light_missile/light_missile",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.light_missile.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/light_missile/light_missile",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.gauss_cannon.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/gauss_cannon/gauss_cannon",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.gauss_cannon.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/gauss_cannon/gauss_cannon",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.autocannon.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/autocannon/autocannon",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.autocannon.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/autocannon/autocannon",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.artillery.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/artillery/artillery",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.artillery.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/artillery/artillery",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.assault_turret.shoot.far": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/assault_turret/assault_turret",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 0.0
+			}
+		]
+	},
+	"starship.weapon.assault_turret.shoot.near": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/assault_turret/assault_turret",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.command_burst.fire": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/command_burst/command_burst",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.jump.beacon": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/jump_beacon/jump_beacon",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"wrecks.hacking.firewall": {
+		"sounds": [
+			{
+				"name": "horizonsend:wrecks/hacking/firewall/firewall",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"wrecks.hacking.completion": {
+		"sounds": [
+			{
+				"name": "horizonsend:wrecks/hacking/completion/completion",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"wrecks.hacking.open": {
+		"sounds": [
+			{
+				"name": "horizonsend:wrecks/hacking/open/open",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+	"starship.weapon.industrial_invulnerability.fire": {
+		"sounds": [
+			{
+				"name": "horizonsend:starship/weapon/industrial_invulnerability/industrial_invulnerability",
+				"attenuation_distance": 128,
+				"pitch": 1.0,
+				"volume": 1.0
+			}
+		]
+	},
+
 	"energy_sword.idle": {
 		"sounds": ["horizonsend:energy_sword/idle"]
 	},
