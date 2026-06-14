@@ -273,6 +273,11 @@
 		"ground": {
 			"translation": [0, 5.25, 0]
 		},
+		"gui": {
+			"rotation": [90, -45, -90],
+			"translation": [2, -1.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
 		"head": {
 			"rotation": [36.25, -1.5, 0],
 			"translation": [0, -12.25, -11.5]
@@ -286,18 +291,21 @@
 		{
 			"name": "Fins",
 			"origin": [5.32813, 5.69922, -1],
+			"scope": 0,
 			"color": 0,
 			"children": [4, 5, 6, 7]
 		},
 		{
 			"name": "Plume",
 			"origin": [8, 3.0125, 26.9375],
+			"scope": 0,
 			"color": 0,
 			"children": [8, 9]
 		},
 		{
 			"name": "group",
 			"origin": [7, 3.0125, 26.75],
+			"scope": 0,
 			"color": 0,
 			"children": [
 				10,
@@ -307,6 +315,7 @@
 				{
 					"name": "group",
 					"origin": [7, 3.0125, 26.75],
+					"scope": 0,
 					"color": 0,
 					"children": [14, 15, 16, 17]
 				}
