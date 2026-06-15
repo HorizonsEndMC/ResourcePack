@@ -69,37 +69,37 @@
 				"name": "horizonsend:blaster/impact_1",
 				"attenuation_distance": 4,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/impact_2",
 				"attenuation_distance": 4,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/impact_1",
 				"attenuation_distance": 4,
 				"pitch": 0.8,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/impact_2",
 				"attenuation_distance": 4,
 				"pitch": 0.8,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/impact_1",
 				"attenuation_distance": 4,
 				"pitch": 1.2,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/impact_2",
 				"attenuation_distance": 4,
 				"pitch": 1.2,
-				"volume": 0.05
+				"volume": 0.15
 			}
 		]
 	},
@@ -131,19 +131,19 @@
 				"name": "horizonsend:blaster/pistol/shell_1",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/pistol/shell_2",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/pistol/shell_3",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			}
 		]
 	},
@@ -195,19 +195,19 @@
 				"name": "horizonsend:blaster/rifle/shell_1",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/rifle/shell_2",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/rifle/shell_3",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			}
 		]
 	},
@@ -259,19 +259,19 @@
 				"name": "horizonsend:blaster/sniper/shell_1",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/sniper/shell_2",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/sniper/shell_3",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			}
 		]
 	},
@@ -387,19 +387,19 @@
 				"name": "horizonsend:blaster/pistol/shell_1",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/pistol/shell_2",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/pistol/shell_3",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			}
 		]
 	},
@@ -451,19 +451,19 @@
 				"name": "horizonsend:blaster/pistol/shell_1",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/pistol/shell_2",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			},
 			{
 				"name": "horizonsend:blaster/pistol/shell_3",
 				"attenuation_distance": 16,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			}
 		]
 	},
@@ -1024,7 +1024,7 @@
 				"name": "horizonsend:starship/weapon/mining_laser/start",
 				"attenuation_distance": 64,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			}
 		]
 	},
@@ -1034,7 +1034,7 @@
 				"name": "horizonsend:starship/weapon/mining_laser/stop",
 				"attenuation_distance": 64,
 				"pitch": 1.0,
-				"volume": 0.05
+				"volume": 0.15
 			}
 		]
 	},
@@ -1558,7 +1558,7 @@
 				"name": "horizonsend:starship/weapon/doomsday_device/doomsday",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 0.0
+				"volume": 0.1
 			}
 		]
 	},
@@ -1578,7 +1578,7 @@
 				"name": "horizonsend:starship/weapon/webifier/webifier",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 0.0
+				"volume": 0.1
 			}
 		]
 	},
@@ -1598,7 +1598,7 @@
 				"name": "horizonsend:starship/weapon/scrambler/scrambler",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 0.0
+				"volume": 0.1
 			}
 		]
 	},
@@ -1618,7 +1618,7 @@
 				"name": "horizonsend:starship/weapon/thermonuclear_missile/thermonuclear_missile",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 0.0
+				"volume": 0.1
 			}
 		]
 	},
@@ -1628,7 +1628,7 @@
 				"name": "horizonsend:starship/weapon/probe_launcher/probe_scan",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 0.0
+				"volume": 0.1
 			}
 		]
 	},
@@ -1648,7 +1648,7 @@
 				"name": "horizonsend:starship/weapon/neutralizer/neutralizer",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 0.0
+				"volume": 0.1
 			}
 		]
 	},
@@ -1668,7 +1668,7 @@
 				"name": "horizonsend:starship/weapon/logistics_turret/logistics_turret",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 0.0
+				"volume": 0.1
 			}
 		]
 	},
@@ -1688,7 +1688,7 @@
 				"name": "horizonsend:starship/weapon/light_missile/light_missile",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 0.0
+				"volume": 0.1
 			}
 		]
 	},
@@ -1708,7 +1708,7 @@
 				"name": "horizonsend:starship/weapon/gauss_cannon/gauss_cannon",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 0.0
+				"volume": 0.1
 			}
 		]
 	},
@@ -1728,7 +1728,7 @@
 				"name": "horizonsend:starship/weapon/autocannon/autocannon",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 0.0
+				"volume": 0.1
 			}
 		]
 	},
@@ -1748,7 +1748,7 @@
 				"name": "horizonsend:starship/weapon/artillery/artillery",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 0.0
+				"volume": 0.1
 			}
 		]
 	},
@@ -1768,7 +1768,7 @@
 				"name": "horizonsend:starship/weapon/assault_turret/assault_turret",
 				"attenuation_distance": 128,
 				"pitch": 1.0,
-				"volume": 0.0
+				"volume": 0.1
 			}
 		]
 	},
@@ -1832,7 +1832,7 @@
 			}
 		]
 	},
-	"starship.weapon.industrial_invulnerability.fire": {
+	"starship.weapon.industrial_invulnerability.activate": {
 		"sounds": [
 			{
 				"name": "horizonsend:starship/weapon/industrial_invulnerability/industrial_invulnerability",
