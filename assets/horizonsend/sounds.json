@@ -1662,26 +1662,6 @@
 			}
 		]
 	},
-	"starship.weapon.neutralizer.shoot.far": {
-		"sounds": [
-			{
-				"name": "horizonsend:starship/weapon/neutralizer/neutralizer",
-				"attenuation_distance": 128,
-				"pitch": 1.0,
-				"volume": 0.0
-			}
-		]
-	},
-	"starship.weapon.neutralizer.shoot.near": {
-		"sounds": [
-			{
-				"name": "horizonsend:starship/weapon/neutralizer/neutralizer",
-				"attenuation_distance": 128,
-				"pitch": 1.0,
-				"volume": 1.0
-			}
-		]
-	},
 	"starship.weapon.logistics_turret.shoot.far": {
 		"sounds": [
 			{
