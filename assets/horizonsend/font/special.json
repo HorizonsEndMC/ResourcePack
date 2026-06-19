@@ -930,6 +930,15 @@
 			"chars": [
 				"\uF8D2"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:gui/container/gas_collector.png",
+			"ascent": 13,
+			"height": 125,
+			"chars": [
+				"\uF8D1"
+			]
 		}
 	]
 }
