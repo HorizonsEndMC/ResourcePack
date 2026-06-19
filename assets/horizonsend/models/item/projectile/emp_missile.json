@@ -3,7 +3,7 @@
     "parent": "horizonsend:item/projectile/activated_emp_missile",
     "texture_size": [64, 64],
     "textures": {
-        "0": "horizonsend:item/empty",
-        "1": "horizonsend:item/projectile/emp_missile"
+        "0": "horizonsend:item/rocket_plume",
+        "2": "horizonsend:item/projectile/emp_missile"
     }
 }
