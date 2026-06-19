@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "horizonsend:item/projectile/activated_heavy_missile",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "horizonsend:item/projectile/rocket_plume",
+		"2": "horizonsend:item/projectile/heavy_missile"
+	}
+}

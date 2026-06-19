@@ -1,0 +1,9 @@
+{
+    "credit": "Made with Blockbench",
+    "parent": "horizonsend:item/projectile/activated_light_missile",
+    "texture_size": [64, 64],
+    "textures": {
+        "0": "horizonsend:item/projectile/light_missile",
+        "1": "horizonsend:item/empty"
+    }
+}
