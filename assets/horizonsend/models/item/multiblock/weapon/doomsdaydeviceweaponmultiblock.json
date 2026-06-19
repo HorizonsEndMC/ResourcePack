@@ -2,7 +2,7 @@
 	"credit": "GOOTAN",
 	"textures": {
 		"0": "minecraft:block/iron_block",
-		"1": "horizonsend:block/starship/koth_block",
+		"1": "horizonsend:block/starship/assembly_core",
 		"2": "horizonsend:block/mineral/uranium_block",
 		"3": "block/grindstone_side",
 		"4": "minecraft:block/glass",
