@@ -1,0 +1,38 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"particle": "horizonsend:item/gas/gas_canister_xenon"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 1, 2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-4, 1, 2],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [6, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [-2, 0, 0]
+		},
+		"ground": {
+			"translation": [4, 4, 4]
+		},
+		"gui": {
+			"rotation": [45, -45, 0],
+			"translation": [0, -3, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"translation": [4, 0, 4]
+		},
+		"fixed": {
+			"translation": [4, -1, 4]
+		}
+	}
+}
