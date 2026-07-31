@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/jumpfieldgen/jumpfieldgeneratormultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/jumpfieldgen/jumpfieldgeneratormultiblock","type":"minecraft:model"}}

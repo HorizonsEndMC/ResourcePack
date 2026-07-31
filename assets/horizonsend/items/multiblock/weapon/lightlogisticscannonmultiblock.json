@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/weapon/lightlogisticscannonmultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/weapon/lightlogisticscannonmultiblock","type":"minecraft:model"}}

@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/printer/glassprintermultiblockmirrored"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/printer/glassprintermultiblockmirrored","type":"minecraft:model"}}

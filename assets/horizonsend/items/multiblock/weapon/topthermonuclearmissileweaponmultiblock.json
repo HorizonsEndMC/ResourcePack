@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/weapon/topthermonuclearmissileweaponmultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/weapon/topthermonuclearmissileweaponmultiblock","type":"minecraft:model"}}

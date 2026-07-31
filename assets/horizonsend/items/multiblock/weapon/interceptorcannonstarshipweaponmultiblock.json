@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/weapon/interceptorcannonstarshipweaponmultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/weapon/interceptorcannonstarshipweaponmultiblock","type":"minecraft:model"}}

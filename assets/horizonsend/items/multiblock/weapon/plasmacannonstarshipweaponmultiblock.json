@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/weapon/plasmacannonstarshipweaponmultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/weapon/plasmacannonstarshipweaponmultiblock","type":"minecraft:model"}}

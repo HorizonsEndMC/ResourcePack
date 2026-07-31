@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/bazaarterminal/bazaarterminalmultiblockmergeableleft"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/bazaarterminal/bazaarterminalmultiblockmergeableleft","type":"minecraft:model"}}

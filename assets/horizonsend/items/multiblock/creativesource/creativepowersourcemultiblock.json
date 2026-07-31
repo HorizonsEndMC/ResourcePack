@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/creativesource/creativepowersourcemultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/creativesource/creativepowersourcemultiblock","type":"minecraft:model"}}

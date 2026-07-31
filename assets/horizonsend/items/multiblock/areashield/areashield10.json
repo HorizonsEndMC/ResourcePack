@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/areashield/areashield10"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/areashield/areashield10","type":"minecraft:model"}}

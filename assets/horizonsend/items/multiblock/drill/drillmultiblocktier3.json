@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/drill/drillmultiblocktier3"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/drill/drillmultiblocktier3","type":"minecraft:model"}}

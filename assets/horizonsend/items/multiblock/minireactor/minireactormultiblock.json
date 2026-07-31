@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/minireactor/minireactormultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/minireactor/minireactormultiblock","type":"minecraft:model"}}

@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/weapon/cthulhubeamstarshipweaponmultiblockside"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/weapon/cthulhubeamstarshipweaponmultiblockside","type":"minecraft:model"}}

@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/bargereactor/bargereactormultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/bargereactor/bargereactormultiblock","type":"minecraft:model"}}

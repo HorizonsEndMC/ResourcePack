@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/turret/topassaultturretmultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/turret/topassaultturretmultiblock","type":"minecraft:model"}}

@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/processor/carbonprocessormultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/processor/carbonprocessormultiblock","type":"minecraft:model"}}

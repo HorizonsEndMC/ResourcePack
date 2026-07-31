@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/decomposer/decomposermultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/decomposer/decomposermultiblock","type":"minecraft:model"}}

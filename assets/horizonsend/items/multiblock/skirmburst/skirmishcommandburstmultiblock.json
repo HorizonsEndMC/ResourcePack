@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/skirmburst/skirmishcommandburstmultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/skirmburst/skirmishcommandburstmultiblock","type":"minecraft:model"}}

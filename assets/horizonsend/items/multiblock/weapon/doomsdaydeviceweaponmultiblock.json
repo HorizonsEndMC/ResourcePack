@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/weapon/doomsdaydeviceweaponmultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/weapon/doomsdaydeviceweaponmultiblock","type":"minecraft:model"}}

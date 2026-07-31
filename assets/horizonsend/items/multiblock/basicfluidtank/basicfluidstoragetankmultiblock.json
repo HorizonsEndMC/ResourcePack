@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/basicfluidtank/basicfluidstoragetankmultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/basicfluidtank/basicfluidstoragetankmultiblock","type":"minecraft:model"}}

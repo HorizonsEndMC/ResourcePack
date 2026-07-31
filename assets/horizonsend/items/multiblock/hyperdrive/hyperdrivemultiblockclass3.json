@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/hyperdrive/hyperdrivemultiblockclass3"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/hyperdrive/hyperdrivemultiblockclass3","type":"minecraft:model"}}

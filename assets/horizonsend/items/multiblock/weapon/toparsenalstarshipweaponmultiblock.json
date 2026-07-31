@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/weapon/toparsenalstarshipweaponmultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/weapon/toparsenalstarshipweaponmultiblock","type":"minecraft:model"}}

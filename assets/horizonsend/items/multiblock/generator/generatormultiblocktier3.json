@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/generator/generatormultiblocktier3"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/generator/generatormultiblocktier3","type":"minecraft:model"}}

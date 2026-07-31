@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/elevator/mediumelevatormultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/elevator/mediumelevatormultiblock","type":"minecraft:model"}}

@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/fabricator/fabricatormultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/fabricator/fabricatormultiblock","type":"minecraft:model"}}

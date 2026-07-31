@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/dockingtube/connecteddockingtubemultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/dockingtube/connecteddockingtubemultiblock","type":"minecraft:model"}}

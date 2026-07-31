@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/mininglaser/mininglasermultiblocktier4topmirrored"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/mininglaser/mininglasermultiblocktier4topmirrored","type":"minecraft:model"}}

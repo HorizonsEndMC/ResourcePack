@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/magazine/magazinemultiblockmirrored"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/magazine/magazinemultiblockmirrored","type":"minecraft:model"}}

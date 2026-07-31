@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/tractorbeam/tractorbeammultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/tractorbeam/tractorbeammultiblock","type":"minecraft:model"}}

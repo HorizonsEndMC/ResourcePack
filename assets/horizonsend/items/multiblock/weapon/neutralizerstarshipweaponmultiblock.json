@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/weapon/neutralizerstarshipweaponmultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/weapon/neutralizerstarshipweaponmultiblock","type":"minecraft:model"}}

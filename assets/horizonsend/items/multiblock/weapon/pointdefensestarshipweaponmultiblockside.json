@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/weapon/pointdefensestarshipweaponmultiblockside"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/weapon/pointdefensestarshipweaponmultiblockside","type":"minecraft:model"}}

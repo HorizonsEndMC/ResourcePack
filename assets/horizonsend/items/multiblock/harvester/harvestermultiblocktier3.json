@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/harvester/harvestermultiblocktier3"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/harvester/harvestermultiblocktier3","type":"minecraft:model"}}

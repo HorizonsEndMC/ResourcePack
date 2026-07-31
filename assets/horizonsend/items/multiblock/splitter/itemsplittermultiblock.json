@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/splitter/itemsplittermultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/splitter/itemsplittermultiblock","type":"minecraft:model"}}

@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/shield/shieldmultiblockclass08i"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/shield/shieldmultiblockclass08i","type":"minecraft:model"}}

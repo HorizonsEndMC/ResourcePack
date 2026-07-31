@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/compressor/compressormultiblock"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/compressor/compressormultiblock","type":"minecraft:model"}}

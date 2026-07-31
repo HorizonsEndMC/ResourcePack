@@ -1,6 +1,1 @@
-{
-    "model": {
-        "type": "minecraft:model",
-        "model": "horizonsend:item/multiblock/autocrafter/autocraftermultiblocktier3mirrored"
-    }
-}
+{"model":{"model":"horizonsend:item/multiblock/autocrafter/autocraftermultiblocktier3mirrored","type":"minecraft:model"}}
