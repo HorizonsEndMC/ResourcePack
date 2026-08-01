@@ -1,1 +1,6 @@
-{"model":{"model":"horizonsend:item/multiblock/capskirmburst/capitalskirmishcommandburstmultiblock","type":"minecraft:model"}}
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "horizonsend:item/multiblock/capskirmburst/capitalskirmishcommandburstmultiblock"
+    }
+}

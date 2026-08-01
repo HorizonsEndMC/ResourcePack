@@ -1,1 +1,6 @@
-{"model":{"model":"horizonsend:item/multiblock/weapon/flamethrowerstarshipweaponmultiblock","type":"minecraft:model"}}
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "horizonsend:item/multiblock/weapon/flamethrowerstarshipweaponmultiblock"
+    }
+}

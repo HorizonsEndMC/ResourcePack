@@ -1,1 +1,6 @@
-{"model":{"model":"horizonsend:item/multiblock/navcomputer/horizontalnavigationcomputermultiblockadvanced","type":"minecraft:model"}}
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "horizonsend:item/multiblock/navcomputer/horizontalnavigationcomputermultiblockadvanced"
+    }
+}

@@ -1,1 +1,6 @@
-{"model":{"model":"horizonsend:item/multiblock/disruptor/disruptormultiblock","type":"minecraft:model"}}
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "horizonsend:item/multiblock/disruptor/disruptormultiblock"
+    }
+}

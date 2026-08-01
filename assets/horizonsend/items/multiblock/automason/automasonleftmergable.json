@@ -1,1 +1,6 @@
-{"model":{"model":"horizonsend:item/multiblock/automason/automasonleftmergable","type":"minecraft:model"}}
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "horizonsend:item/multiblock/automason/automasonleftmergable"
+    }
+}

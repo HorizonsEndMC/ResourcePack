@@ -1,1 +1,6 @@
-{"model":{"model":"horizonsend:item/multiblock/gascollector/canistergascollectormultiblock","type":"minecraft:model"}}
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "horizonsend:item/multiblock/gascollector/canistergascollectormultiblock"
+    }
+}
