@@ -275,7 +275,7 @@
 		},
 		{
 			"apply": {
-				"model": "horizonsend:block/pipe/fluid_port"
+				"model": "horizonsend:block/pipe/fluid_input"
 			},
 			"when": {
 				"north": true,
