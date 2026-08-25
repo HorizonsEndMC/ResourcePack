@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbencha",
 	"parent": "horizonsend:item/gas/gas_canister_empty",
 	"texture_size": [32, 32],
 	"textures": {
