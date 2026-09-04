@@ -939,6 +939,42 @@
 			"chars": [
 				"\uF8D1"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/map/border_right_missing.png",
+			"ascent": 6,
+			"height": 8,
+			"chars": [
+				"\ueBF1"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/map/one_pixel.png",
+			"ascent": 0,
+			"height": 1,
+			"chars": [
+				"\ueBF2"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/map/circle_hollow.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"\ueBF3"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "horizonsend:item/map/circle_filled_transparent.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": [
+				"\ueBF4"
+			]
 		}
 	]
 }
