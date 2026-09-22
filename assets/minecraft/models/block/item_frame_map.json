@@ -3,6 +3,6 @@
     "textures": {
         "particle": "block/polished_deepslate",
         "wood": "block/polished_deepslate",
-        "back": "block/item_frame"
+        "back": "block/polished_deepslate"
     }
 }
