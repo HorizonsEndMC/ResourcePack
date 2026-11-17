@@ -32,7 +32,7 @@
   "death.attack.webifier.player": "%2$s brought %1$s into permanent stasis",
   "death.attack.neutralizer.player": "%2$s neutralized %1$s",
   "death.attack.heavy_neutralizer": "%2$s neutralized %1$s, and much of their surroundings",
-	
+
   "death.attack.interceptor_cannon": "%1$s was intercepted",
   "death.attack.laser_cannon": "%1$s was given laser eye surgery",
   "death.attack.plasma_cannon": "%1$s fell into the heat of a dying star",
@@ -57,7 +57,5 @@
   "death.attack.scrambler": "%1$s was §kscrambled§r",
   "death.attack.thermonuclear_missile": "%1$s fell into a nuclear meltdown",
   "death.attack.webifier": "%1$s was brought into permanent stasis",
-  "death.attack.neutralizer": "%1$s was neutralized",
-  "death.attack.heavy_neutralizer": "%1$s and their surroundings were neutralized",
-
+  "death.attack.neutralizer": "%1$s was neutralized"
 }
